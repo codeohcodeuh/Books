@@ -51,7 +51,7 @@ Civilization survives because someone remembers.
 
 | Book | Working title | Core human world | Inst. reveal budget | Status |
 |------|---------------|------------------|---------------------|--------|
-| 1 | *The Path Between* | Maddur-belt village + Bengaluru | <10% — rememberers exist; no name | Blueprint v0.1 |
+| 1 | *The Path Between* | Maddur-belt village + Bengaluru | <10% — rememberers exist; no name | Blueprint v0.1 LOCKED structure; RP plan 14 |
 | 2 | TBD | Likely urban denser / Connector-weighted | ~15–20% — pattern of functions without full map | Not started |
 | 3 | TBD | Consequence of Book 1 settlement under stress; or journalist | ~25% — local House texture without global org | Not started |
 | Later | TBD | Historical interludes possible (1970s, 1930s) as separate volumes | Variable | Seed only |
@@ -67,7 +67,7 @@ Civilization survives because someone remembers.
 | ~2003 | Meera (age ~10) witnesses a quiet man end a courtyard shout; forgets | 1 (echo) |
 | 1962 | Path understanding between Hegde & Gowda forebears (oral) | 1 (recalled) |
 | 2021 | Nav receives oral ESOP clarity promise in a car | 1 |
-| Mar–Jun 2026 | Main action of Book 1 | 1 |
+| 25 Mar–5 Jun 2026 | Main action of Book 1 (wedding 18 Apr; jatre 10 May) | 1 |
 | After Jun 2026 | Open future; characters age forward | 2+ |
 
 **Historical canon backdrop (not plotted yet):** Founding 1311–1336; nine Houses; House 1 Deccan oldest. Do not dump into novels.
