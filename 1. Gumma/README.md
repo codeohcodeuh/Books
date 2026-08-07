@@ -11,10 +11,11 @@ This repository is **not a novel**. It is the documentation core of an original 
 - The Gumma are **not** Japanese ninjas.
 
 ## Start Here
-1. [`00_CANON/00_PROJECT_CHARTER.md`](00_CANON/00_PROJECT_CHARTER.md) — constitution
-2. [`00_CANON/01_DOCUMENTATION_ARCHITECTURE.md`](00_CANON/01_DOCUMENTATION_ARCHITECTURE.md) — filing system
-3. [`01_FOUNDATIONS/01_OPEN_QUESTIONS.md`](01_FOUNDATIONS/01_OPEN_QUESTIONS.md) — **blocking questions before deep lore**
-4. [`01_FOUNDATIONS/00_RESEMBLANCE_WATCHLIST.md`](01_FOUNDATIONS/00_RESEMBLANCE_WATCHLIST.md) — anti-cliché discipline
+1. [`00_CANON/03_EDITORIAL_MASTER_CONSTITUTION.md`](00_CANON/03_EDITORIAL_MASTER_CONSTITUTION.md) — **editorial law for all novels (read first for prose work)**
+2. [`00_CANON/00_PROJECT_CHARTER.md`](00_CANON/00_PROJECT_CHARTER.md) — universe / bible constitution
+3. [`00_CANON/01_DOCUMENTATION_ARCHITECTURE.md`](00_CANON/01_DOCUMENTATION_ARCHITECTURE.md) — filing system
+4. [`01_FOUNDATIONS/01_OPEN_QUESTIONS.md`](01_FOUNDATIONS/01_OPEN_QUESTIONS.md) — **blocking questions before deep lore**
+5. [`01_FOUNDATIONS/00_RESEMBLANCE_WATCHLIST.md`](01_FOUNDATIONS/00_RESEMBLANCE_WATCHLIST.md) — anti-cliché discipline
 
 ## Canon Rule
 No document is deep lore until foundational questions are answered. Every document uses the mandatory section set: Purpose, Assumptions, Known Facts, Unknown Questions, Possible Improvements, Connections to Existing Canon, Future Story Opportunities.

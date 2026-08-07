@@ -204,12 +204,12 @@ PHASE G — GATE
 ### Ch01 — Visitor Parking
 | Field | Content |
 |-------|---------|
-| Revision required? | **Optional (No for draft-gate; Yes if ISS-27 taken)** |
-| Why | CD-validated APPROVED; only cosmetic comic-recovery note |
-| Sections to modify | §7 Emotional Rhythm (optional); §10 Drafting Constraints (optional) |
-| Continuity to verify | Phone face-down end state; P-APT open; Meera–Asha 3→2 |
+| Revision required? | **Production prose LOCKED (DOCX Ch1 canonical as of 2026-08-04)** |
+| Why | DOCX Ch1 is production master; Visitor Bay conflict retired; Resident Slot #B-2 / Security overnight pass locked |
+| Sections to modify | Outlines/ledgers synced; do not reintroduce Bay #3 |
+| Continuity to verify | Slot #B-2 empty; pass on dash; car in Visitor Parking; phone face-down; P-APT open; Meera–Asha 3→2; Malleshwaram (not HSR). See `PARKING_APARTMENT_RULES.md` |
 | Relationship changes | None |
-| Callbacks | Note future rhyme with Ch8 phone face-down (writer-only in Post-Outline Hooks) |
+| Callbacks | Note future rhyme with Ch8 phone face-down (writer-only in Post-Outline Hooks); Ch19 AGM visitor-parking agenda is committee rhyme, not Bay-3 callback |
 | Foreshadowing | None |
 | RP impact | 0 |
 
@@ -231,7 +231,7 @@ PHASE G — GATE
 | Revision required? | **No** (unless Nav ping placed here — prefer later) |
 | Why | Clean wedding-clock open |
 | Sections | — |
-| Continuity | Ticket Sat 4 Apr; “uncle difficult” plant |
+| Continuity | Ticket Sat 6 Apr; “uncle difficult” plant |
 | Relationship | Meera–Saroja 3 |
 | RP impact | 0 |
 

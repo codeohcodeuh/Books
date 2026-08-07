@@ -35,7 +35,7 @@
 - Meera–Asha 3→2 unchanged
 
 **Timeline impact:**
-- None (Wed 25 Mar 2026 D1 unchanged)
+- None (Wed 27 Mar 2024 D1 unchanged)
 
 **Higher-doc updates:**
 - Obeys `08_CD_DECISIONS.md`; executes `07_REVISION_PLAN.md` ISS-01/21/27 for Ch01

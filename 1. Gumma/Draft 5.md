@@ -2,6 +2,8 @@
 
 **Draft 5 — Production Lock**
 
+**Chapter 1 canonical source:** `Book 1 - The Path Between.docx` (Resident Parking Slot #B-2 / Security overnight pass plot). Draft 5 Ch1 synchronized to DOCX; do not reintroduce Visitor Bay conflict.
+
 ---
 
 # Chapter 1 — Visitor Parking
@@ -24,11 +26,11 @@ She chewed. Did not look. The group could wait. Everything in every group could 
 
 Another buzz. Then a third, close enough that the vibration travelled into the plate and made a soft ring against the spoon.
 
-Meera swallowed and kept eating. Traffic murmured beyond the compound wall. A pressure cooker two floors down hissed and finished. She wanted them to be enough.
+Meera swallowed and kept eating. Traffic murmured beyond the compound wall. A pressure cooker two floors above hissed and finished. She wanted them to be enough.
 
 The fourth buzz brought a preview that slid across the glass before she meant to see it.
 
-*Unauthorized vehicle in Resident Parking*
+*Unauthorized vehicle in Resident Parking Slot #B-2*
 
 She put the spoon down.
 
@@ -36,7 +38,7 @@ Not yet, she told herself, and wiped her fingers on a tissue, delaying by half a
 
 The apartment WhatsApp group was a climbing stack. Messages over messages. Asha's name at the head of most of them, the way Asha's name always found the head of things.
 
-*Resident Parking Slot B-2 — vehicle without resident sticker. Photo attached. Timestamp 6:48 p.m.*
+*Resident Parking Slot #B-2 — vehicle without resident sticker. Photo attached. Timestamp 6:48 p.m.*
 
 *Who parked this?*
 
@@ -44,17 +46,17 @@ The apartment WhatsApp group was a climbing stack. Messages over messages. Asha'
 
 Meera scrolled with her thumb, the rice cooling beside her hand.
 
-The photo loaded slowly on her network, then all at once: slot paint, a strip of evening concrete, a white hatchback angled a little wrong. The plate number sharp under whatever light Asha had used. Caption neat as a filled form.
+The photo loaded slowly on her network, then all at once: the painted B-2 on the pillar, a strip of evening concrete, a white hatchback angled a little wrong. The plate number sharp under whatever light Asha had used. Caption neat as a filled form.
 
-Parking Slot #B-2.
+Slot #B-2.
 
 Meera's thumb stopped.
 
-She knew the car before she let herself know it. The small scratch near the rear bumper from a Bastille Day parking adventure Divya still told as comedy. The faded sticker on the windshield Divya had never peeled — not a resident sticker, just something leftover. The way it sat — Divya always parked a little crooked and laughed when anyone mentioned it.
+She knew the car before she let herself know it. The small scratch near the rear bumper from a basement parking scrape Divya still told as comedy. The faded sticker on the windshield Divya had never peeled. The way it sat — Divya always parked a little crooked and laughed when anyone mentioned it.
 
-I parked that this morning.
+Divya had parked that this morning.
 
-She pinched the screen. Zoomed. Released. Plate unchanged. Slot unchanged. Timestamp offering no alternate morning in which she had been wiser.
+She pinched the screen. Zoomed. Released. Plate unchanged. The painted B-2 unchanged. Timestamp offering no alternate morning in which she had been wiser.
 
 More messages arrived while she stared.
 
@@ -66,7 +68,7 @@ More messages arrived while she stared.
 
 Her name sat in the chat like a sticker on a parcel nobody wanted to claim.
 
-She checked the photo's time against the morning she remembered: Divya in the doorway with a trolley bag, late for the airport train, spare key pressed into Meera's palm, a quick *just till evening, na*, and Meera's own slot empty and convenient — the sort of small wrong, Meera had thought, that dissolved by dinner.
+She checked the photo's time against the morning she remembered: Divya in the doorway with a trolley bag, late for the airport train, spare key pressed into Meera's palm, a quick *just till evening, na*, and her own resident slot empty and convenient and, Meera had thought, the sort of small wrong that dissolved by dinner.
 
 Facts lined up. They did not argue.
 
@@ -94,13 +96,13 @@ Meera stood with the phone warm in her palm and the meal unfinished, her name st
 
 She left the plate where it was.
 
-Bag in pocket. Flat door shut with more care than the situation deserved. The stairwell smelled of dust, phenyl, old paint. Tube light on the second landing flickered once and held. Her slippers slapped concrete in a rhythm that felt too loud, as if the building were listening for the person attached to B-2.
+Bag in pocket. Flat door shut with more care than the situation deserved. The stairwell smelled of dust, phenyl, old paint. Tube light on the second landing flickered once and held. Her slippers slapped concrete in a rhythm that felt too loud, as if the building were listening for the person attached to #B-2.
 
 By the ground floor her face was warm in a way that had nothing to do with March.
 
-Parking Slot #B-2 was exactly where the photo had said.
+The slot was exactly where the photo had said.
 
-Divya's hatchback. Still. Slightly crooked. The painted B-2 at her feet faded to the colour of old teeth. Heat rose off the concrete in a slow sheet. Somewhere a scooter reversed with a complaining whine. The air smelled of dust and hot metal and the faint sweetness of something rotting in a drain the association had been meaning to fix since last monsoon.
+Divya's hatchback. Still. Slightly crooked. The painted B-2 on the pillar faded to the colour of old teeth. Heat rose off the concrete in a slow sheet. Somewhere a scooter reversed with a complaining whine. The air smelled of dust and hot metal and the faint sweetness of something rotting in a drain the association had been meaning to fix since last monsoon.
 
 Asha was already there.
 
@@ -114,25 +116,23 @@ She nodded once and went to the driver's door as if speed itself could shrink th
 
 Empty.
 
-Other pocket. Empty. Kurta side pocket: phone, nothing else. She patted once more, uselessly, hoping physics might revise itself.
+Another pocket. Empty. Kurta side pocket: phone, nothing else. She patted once more, uselessly, hoping physics might revise itself.
 
 Of course.
 
-Divya's spare was in the bag on the kitchen chair, dropped there that morning while Meera was already late for a stand-up. She saw it with insulting clarity: strap hanging, side pocket, key under a lip balm and a folded bill from the Lakshmi Provision Stores. The morning had been hurry and kindness. The evening had turned both into evidence.
+Divya's spare was in the bag on the kitchen chair, dropped there that morning while Meera was already late for a stand-up. She saw it with insulting clarity: strap hanging, side pocket, key under a lip balm and a folded bill from the Lakshmi Provision Stores. The morning had been all hurry and kindness. The evening had turned both into evidence.
 
-"I'll get the pass," Meera said. "Now."
+Asha did not step into her path. She also did not make space as if space were a gift. She remained where she was, phone still lit, the small circle of light finding the number plate and then the painted #B-2. Sweat had made a faint shine at Asha's temple. Even correctness had a body.
 
-Asha did not step into her path. She also did not make space as if space were a gift. She remained where she was, phone still lit, the small circle of light finding the number plate and then the painted B-2. Sweat had made a faint shine at Asha's temple. Even correctness had a body.
-
-"This car needs a pass," Asha said. "As per the circular last month. Overnight visitor vehicles must be registered with Security. You understand."
+"This car needs a pass," Asha said. "As per the circular last month, Security needs the registration details and photographs. You understand."
 
 Meera's mouth found something short. "I understand. Friend's car. Airport. I'll get a pass."
 
-"Acknowledgment helps," Asha said, mild as water left too long in a bottle. "So we don't have to keep posting photos. The group gets… noisy."
+"Acknowledgment helps," Asha said, mild as water left too long in a bottle. "So that we don't have to keep posting photos. The group gets… noisy."
 
 As if the noise had arrived by weather.
 
-Meera could have said that Divya was gone, that the slot belonging to her had been empty, that she would not make a habit of it. Each sentence arrived pre-weighed and too heavy. In committee English she was always a step behind. She heard herself offer only the logistics again, thinner: "I'm moving it."
+Meera could have said that Divya was gone, that her slot had been empty, that she would not make a habit of it. Each sentence arrived pre-weighed and too heavy. In committee she was always a step behind. She heard herself offer only the logistics again, thinner: "I'm moving it."
 
 "Yes," Asha said. "Please."
 
@@ -140,11 +140,11 @@ Not unkind. Exact.
 
 The uncle shifted his weight from one slipper to the other. Looked at the slot number. Looked at the hatchback. Looked away toward the gate, where a guard was arguing with a delivery boy about a parcel that would not fit on a bike. Said nothing. Meera felt that if he had joked or scolded it might have been easier than this neutral attention, the attention of a man who would remember and not intervene.
 
-Meera's phone buzzed against her hip — the group still chewing. She did not take it out. Somewhere above, a child's voice called for water and was answered. Life continued in layers that did not know about Slot B-2.
+Meera's phone buzzed against her hip — the group still chewing. She did not take it out. Somewhere above, a child's voice called for water and was answered. Life continued in layers that did not know about Slot #B-2.
 
 "Key's upstairs," Meera said. The sentence came out flatter than pride preferred. "Two minutes."
 
-Asha's flashlight clicked brighter. The beam found the painted B-2 and held it — white characters in a hard white circle, a parking slot turned into a stage with one prop and an audience of two. The light caught a moth, lost it. The number remained.
+Asha's flashlight clicked brighter. The beam found the painted B-2 and held it — a white number inside a hard circle of light, a parking bay turned into a stage with one prop and an audience of two. The light caught a moth, lost it. The number remained.
 
 "I'll wait," Asha said.
 
@@ -152,7 +152,7 @@ No cruelty in it. Only the calm of a person who had nowhere else she needed to b
 
 Meera turned toward the stairs. Her slippers found the first step. Then the second. The hatchback stayed where it was, crooked, innocent of committee language. Heat came off the wall beside her hand.
 
-The climb was longer than the descent. Air trapped in the stairwell, thick with cooking from somebody's delayed dinner. Behind her the flashlight stayed on the slot, and every step stretched a small wrong.
+The climb was longer than the descent. Air trapped in the stairwell, thick with cooking from somebody's delayed dinner. Behind her the flashlight stayed on the bay, and every step stretched a small wrong.
 
 She did not look back. She did not need to. The light on the number followed her up the concrete.
 
@@ -162,9 +162,9 @@ She did not look back. She did not need to. The light on the number followed her
 
 The spare was exactly where she had pictured it — cold metal, side pocket, under the lip balm.
 
-She came back down with the key fisted in her hand, unlocked Divya's car under Asha's still-bright phone, and drove first to the security cabin by the gate. Registration number. Flat number. A photograph of the hatchback. The guard wrote out a temporary overnight visitor parking pass without hurry — valid for three days — and pointed to the dashboard. She thanked him, tucked the pass beneath the windshield, and drove the hatchback to one of the marked Visitor Parking spaces near the compound wall — the ones nobody preferred because the gulmohar dropped sticky litter and birds used the mirrors as a perch.
+She came back down, the key fisted in her hand. She unlocked Divya's car under Asha's still bright phone, and drove first to the security cabin by the gate. Registration number. Flat number. A few photographs. The guard wrote out a temporary overnight visitor pass without hurry and pointed at the dashboard beneath the windshield. She thanked him, tucked the pass beneath the windshield, and drove the hatchback to one of the marked Visitor Parking spaces near the compound wall — the ones nobody preferred because the Gulmohar dropped sticky litter and birds used the mirrors as a perch.
 
-Then it was done. Parking Slot #B-2 empty behind her. Asha still in the lot with her phone, finishing whatever record needed finishing. Meera locked the car, walked back without hurrying, and took the stairs because waiting for the lift would have meant standing still in fluorescent light with her own face.
+Then it was done. Slot #B-2 empty behind her. Asha still in the lot with her phone, finishing the record. Meera locked the car, walked back without hurrying, and took the stairs because waiting for the lift would have meant standing still in fluorescent light with her own face.
 
 Upstairs, the flat had not moved to meet her.
 
@@ -174,7 +174,7 @@ Her phone had not rested.
 
 Asha's new message sat at the top of the group like minutes from a meeting Meera had not agreed to attend.
 
-*Update: Visitor vehicle has been moved to Visitor Parking. Temporary overnight visitor parking pass verified. Residents are reminded that all overnight visitor vehicles must be registered with Security and display a valid visitor parking pass. Thank you for your cooperation. Timestamp 8:14 p.m.*
+*Update: Visitor vehicle has been moved to Visitor Parking and registered with Security. Residents are reminded that overnight visitor vehicles must be registered and display a valid visitor pass. Timestamp 8:14 p.m.*
 
 Below it, read receipts multiplied. Names from Dasara. Names from the complaint about generator noise. Blue ticks stacking without replies — people who had seen enough and agreed by looking.
 
@@ -205,6 +205,7 @@ Then the flat held only the fan and the small glow that would not quite go dark.
 Outside, Malleshwaram went on being Wednesday — horns, a dog, someone's late scooter. Inside, a phone lay face-down on laminate, blue light stacking unread beneath plastic.
 
 ---
+
 
 # Chapter 2 — The Hallway Promise
 
@@ -724,7 +725,7 @@ The smell released at once. Naphthalene, sharp and sweet at the back of the thro
 
 She lay on her back. Then her side. The window's pale rectangle did not illuminate enough to inventory her life, only enough to prove the world continued outside the naphthalene dark. A gecko clicked once on the wall and went still. Somewhere beyond the neem, a two-wheeler passed on the main road and faded. Tomorrow waited outside the door with trays and smiles and Ananya's brightness and Ramesh's weather and a wedding that was not hers and still required her body. Saroja's voice replayed without permission: *Smile tomorrow even if you're tired.* Meera let tomorrow wait. She owed it nothing until light.
 
-Darkness. Smell. The fanlessness of a small room that relied on night's slow mercy and the body's willingness to stop arguing. Her shoulder still held the ghost of the bag strap. Her cheek still held Lakshmi's palm, or the idea of it, which was the same temperature. Exhaustion pulled her toward the liminal place where adult arrangements, tickets, jobs, apartment bay numbers, Asha's blue ticks, Naveen's cooling coffee and *next week*, loosened their claims one by one, like fingers opening.
+Darkness. Smell. The fanlessness of a small room that relied on night's slow mercy and the body's willingness to stop arguing. Her shoulder still held the ghost of the bag strap. Her cheek still held Lakshmi's palm, or the idea of it, which was the same temperature. Exhaustion pulled her toward the liminal place where adult arrangements, tickets, jobs, apartment parking slots, Asha's blue ticks, Naveen's cooling coffee and *next week*, loosened their claims one by one, like fingers opening.
 
 She thought she might scroll her phone into numbness. She did not reach for it. Face-down was enough.
 
@@ -760,7 +761,7 @@ The plastic table on the veranda had been wiped twice.
 
 Ramesh knew because he had watched the household helper do it the second time, cloth moving in tight circles, erasing dust that would return before the tea cooled. He sat before Venki arrived because arriving second looked like eagerness, and eagerness looked like asking, and asking was a posture he would not take on his own veranda with his own fan failing above his own sweat. Ceiling fan on high, blades chopping light into strobe on the plastic, moving heat without removing it. Harsh morning glare through the open courtyard doors. Plastic chairs that complained when a man shifted his weight, the cheap sound of alliance furniture. April's still air sitting on the skin like a second shirt.
 
-Inside, the women were pretending not to listen. Saroja's footsteps too careful near the hall threshold. Revathi's voice too bright in the kitchen, inventing tasks that required volume. Meera somewhere beyond, city niece, arrived last night, useful hands, moving with the careful neutrality of a guest who had not yet chosen which silences to join. Wedding in thirteen days. Jasmine somewhere in water. The house dressed for peace.
+Inside, the women were pretending not to listen. Saroja's footsteps too careful near the hall threshold. Revathi's voice too bright in the kitchen, inventing tasks that required volume. Meera somewhere beyond, city niece, arrived last night, useful hands, moving with the careful neutrality of a guest who had not yet chosen which silences to join. Wedding in fourteen days. Jasmine somewhere in water. The house dressed for peace.
 
 Arjun's morning advice still sat in Ramesh's ear like a hand on his shoulder he had not asked for. They had spoken near the cattle shed before heat, Arjun's voice low, practical, the voice of a son who loved his father and feared spectacle. *Don't bring up the path. Not today. Let the functions pass. After the girl is settled, then talk like men.* Ramesh had not promised. He had only drunk his early chai, that cup emptied, unlike what was coming, and come to the veranda with his spine arranged for formality.
 
@@ -1539,7 +1540,7 @@ The priest's final chant faded into the hall's resumed noise. Fans audible, rela
 
 The courtyard still looked like a wedding.
 
-Strings of dead lights hung from the neem branch where someone had hung them three days ago with optimism about evening photography. Plastic chairs scattered in configurations that suggested conversations had ended mid-sentence. Plates stacked on a table near the kitchen door. Leftover payasa crusting at the edges, rice hardened into architectural failure, the honest debris of a feast that had fed two hundred and would feed ants until someone washed everything tomorrow. Warm night air pressing against bare arms. Mosquitoes circling with the persistence of creatures who understood post-celebration blood was sweeter. Meera carried three plates toward the plastic table where another aunt was sorting what could be saved from what should be thrown, moving with the tired competence of a woman who had decided helping was easier than sleeping.
+Strings of dead lights hung from the neem branch where someone had hung them last night with optimism about evening photography. Plastic chairs scattered in configurations that suggested conversations had ended mid-sentence. Plates stacked on a table near the kitchen door. Leftover payasa crusting at the edges, rice hardened into architectural failure, the honest debris of a feast that had fed two hundred and would feed ants until someone washed everything tomorrow. Warm night air pressing against bare arms. Mosquitoes circling with the persistence of creatures who understood post-celebration blood was sweeter. Meera carried three plates toward the plastic table where another aunt was sorting what could be saved from what should be thrown, moving with the tired competence of a woman who had decided helping was easier than sleeping.
 
 Post-wedding warmth lived in her shoulders.
 
@@ -1874,6 +1875,8 @@ Meera alone in the courtyard.
 Chairs in the arrangement where people had sat. Empty plastic holding the ghost of argument and revelation and silence. Physical evidence of gathered people, now dispersed. Evening darkening. Clouds thickening. Pre-storm weight still holding, still not releasing rain. The silence after specific sentences hanging in humid air.
 
 Empty courtyard. Chairs in arrangement. Evening clouds. Silence after specific sentences still hanging. Meera alone.
+
+Phone in her palm before she decided to lift it. Naveen's thread open from some ordinary Tuesday she had not answered properly. Thumb hovering. Then: *Things wild here. Tell you later.* Sent. Screen dark. The courtyard did not need more words from her tonight.
 
 ---
 
@@ -2893,9 +2896,9 @@ Not empty.
 
 A figure ahead. Walking toward her direction but on the path, heading past her toward the Gowda-side fields. Morning routine restored. Farmer's stride, neutral face, moving with the caution of a man who had decided to reclaim a habit without announcing the reclamation.
 
-Uncle.
+Appa.
 
-Ramesh. Her uncle. The path dispute's Hegde face. He walked without performing anything. Not anxious. Not triumphant. Collar damp with mist. Hands empty. Just: walking to work. On the path. That had been unused for weeks because of the dispute.
+Ramesh. Her father. The path dispute's Hegde face. He walked without performing anything. Not anxious. Not triumphant. Collar damp with mist. Hands empty. Just: walking to work. On the path. That had been unused for weeks because of the dispute.
 
 At the hedge line he had decided he would take the field edge. His feet found the path anyway.
 
@@ -3231,7 +3234,7 @@ The screen that didn't buzz. Absence where notification should be. He had done s
 
 *Things calmed.* *Path quiet.* Different rooms. Same month.
 
-The resignation letter would never leave his drafts folder now. Phone face-down, message sent, read receipt glowing faintly, no reply. Rain on glass. Somewhere four hundred kilometres away his cousin was folding clothes into a bag and not looking at her phone.
+The resignation letter would never leave his drafts folder now. Phone face-down, message sent, read receipt glowing faintly, no reply. Rain on glass. Somewhere four hundred kilometres away Meera was folding clothes into a bag and not looking at her phone.
 
 The letter stayed in drafts. The pages were signed. And the rain did not care either way.
 
@@ -3417,7 +3420,7 @@ Saroja met her at the kitchen threshold. Water bottle filled, tiffin box wrapped
 
 "Take the tiffin. Don't say no. Bus food is poison. Last time you came you said the same thing and then you ate nothing until Maddur—"
 
-"Yes, Saroja-aunty."
+"Yes, Amma."
 
 Phone charged, checked twice, Saroja's finger on the battery icon like a diagnostic. Bus time confirmed. Auto number written on a scrap of paper in case the stand was crowded. Umbrella offered and refused. The bag was enough, the rain was not heavy yet, she would get wet at the stand anyway. The practical caring that had been Saroja's mode throughout. Not eloquent, not deep in the way Lakshmi was deep, but consistent and warm and impossible to leave behind without feeling the loss of being looked after.
 

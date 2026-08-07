@@ -1,4 +1,6 @@
 # Gumma Universe — Book 1 Blueprint
+
+**Draft 7 sync (2026-08-07):** Master is `Draft 7.md` (30 chapters, no Coda). Calendar year **2024**. Story Structure Pass applied (sequencing cuts only). POV **Naveen**. Surnames **Hiregowda / Marigowda**. Chapter summaries: `14_CHAPTER_SUMMARIES.md`. Story map: `13_STORY_MAP.md`.
 **Working Title:** *The Path Between*  
 **Version:** 0.1  
 **Status:** Locked before Chapter 1 (structure locked; prose forbidden until Creative Director sign-off)  
@@ -42,14 +44,14 @@ When complete and approved, a competent writer should draft the entire novel wit
 | **Institutional pressure** | An unwritten 1962 path understanding still binds living people; a quiet outsider (Shankarappa) can recall it accurately, refuse ownership of the outcome, and withdraw when used — without ever naming what he is. |
 | **Main emotional journey** | From competent distance (Meera) and fortified pride (Ramesh) toward costly belonging and usable peace — not victory. |
 | **Final emotional state** | Held. Bruised. Quietly hopeful in the canon sense: tomorrow still worth serving. |
-| **Final mystery state** | Deepened. Readers know rememberers exist and leave; they cannot diagram an organization. Coda ambiguity open. |
+| **Final mystery state** | Deepened. Readers know rememberers exist and leave; they cannot diagram an organization. **No Coda in Draft 6**; urban stranger deferred optional. |
 | **Estimated word count** | 90,000 (range 85,000–100,000) |
-| **Chapter count** | 30 + Coda |
-| **Act structure** | Act I Ch.1–10 · Act II Ch.11–22 · Act III Ch.23–30 + Coda |
-| **Primary geography** | Village near Maddur (Mandya dt., KA) + Bengaluru (HSR / Koramangala corridor) |
-| **Present-day span** | 25 Mar 2026 → ~5 Jun 2026 (+ 2003 childhood echo) |
-| **Wedding date** | Saturday, 18 April 2026 |
-| **Festival beat** | Local temple *jatre*, Sunday 10 May 2026 (Ch.21 zone) |
+| **Chapter count** | **30 (Draft 6; Coda unwritten / deferred optional)** |
+| **Act structure** | Act I Ch.1–10 · Act II Ch.11–22 · Act III Ch.23–30 |
+| **Primary geography** | Village near Maddur (Mandya dt., KA) + Bengaluru (**Malleshwaram** apt; ~150 km / ~3.5h bus) |
+| **Present-day span** | 27 Mar 2024 → 2 Jun 2024 (+ 2003 childhood echo) |
+| **Wedding date** | Saturday, 20 April 2024 |
+| **Festival beat** | Local temple *jatre*, Sunday 12 May 2024 (Ch.21 zone) |
 
 **Secondary theme rhymes (never announced):** Oral promises rearrange lives (village path // Nav’s ESOP // apartment parking rights).
 
@@ -277,8 +279,8 @@ Lakshmi
 
 | Ch | POV | Location | Primary human conflict | Dominant emotion | Turning point | Ending image | RP | Threads | Promises opened | Promises closed |
 |----|-----|----------|------------------------|------------------|---------------|--------------|-----|---------|-----------------|-----------------|
-| 1 | Meera | HSR apt / parking | Visitor slot humiliation vs Asha’s rules | Embarrassment | Meera loses petty fight publicly | WhatsApp tick marks stacking | 0 | T07 apt | P-APT open | — |
-| 2 | Nav | Office / corridor | Oral ESOP promise re-aired then dodged | Unease | Vikram smiles the promise into fog | Meera’s eyes meet Nav’s | 0 | T07 Nav | P-ESOP reiterated | — |
+| 1 | Meera | Malleshwaram apt / Resident Slot #B-2 | Resident-slot humiliation vs Asha’s rules (missing sticker → Security overnight pass → Visitor Parking) | Embarrassment | Meera loses petty fight publicly | WhatsApp tick marks stacking | 0 | T07 apt | P-APT open | — |
+| 2 | Naveen | Office / corridor | Oral ESOP promise re-aired then dodged | Unease | Vikram smiles the promise into fog | Meera’s eyes meet Naveen’s | 0 | T07 Naveen | P-ESOP reiterated | — |
 | 3 | Meera | Flat / phone | Mother demands early arrival; uncle “difficult” | Anticipation | Meera books tickets against will | Ticket PDF glow on phone | 0 | T08 | P-WED clock | — |
 | 4 | Ramesh | Path / fields | Fence wire moved | Pride | He decides this is honor not nuisance | Palm on hot gatepost | 0 | T01 | P-PATH crisis | — |
 | 5 | Ananya | Mandya / Hegde house | Henna logistics vs rising father tension | Anticipation | She overhears path talk; swallows anger | Henna cone trembling | 0 | T08 | — | — |
@@ -294,7 +296,7 @@ Lakshmi
 | 15 | Ananya | Fields edge | Meera mediates cousins; fails | Regret | Intelligence ≠ legitimacy here | Meera’s clean sandals muddy | 0 | T08 | — | — |
 | 16 | Meera | Courtyard joint talk | 1962 terms spoken calmly | Disappointment | Both fathers flinch — both partly wrong | Silence after specific sentences | **3** | T01,T02 | P-1962 | — |
 | 17 | Ramesh | Fields / Mysuru call | Shame; Arjun says “put in writing” | Shame | Pride cracks; paper temptation | Cane leaf cutting his thumb | 0 | T01 | P-PAPER urge | — |
-| 18 | Nav | Bengaluru flat | Resignation letter draft | Loneliness | He almost sends; doesn’t | Unsent email | 0 | T07 | — | — |
+| 18 | Naveen | Bengaluru flat | Resignation letter draft | Loneliness | He almost sends; doesn’t | Unsent email | 0 | T07 | — | — |
 | 19 | Meera | Apt AGM (BLR return**) | CCTV / parking explosion | Amusement | Petty rhyme of path clear to Meera | Hall chairs scraping | 0 | T07 | — | **P-APT truce** |
 | 20 | Meera | Hegde house | Gayatri “drops by” with jasmine; mothers soften | Unease | Second quiet competence without label | Jasmine in steel bowl | **2** | T03 | P-GAYA | — |
 | 21 | Meera | Jatre ground | Rohan hunts “mediators”; smiles close | Unease | Near-discovery starved | Loudspeaker distortion | **0** | T06 | P-ROHAN | — |
@@ -304,12 +306,12 @@ Lakshmi
 | 25 | Meera | Courtyard | Return; restates + admits uncertainty | Disappointment | Humility > performance; refuses hero | He rubs bad knee | **2** | T01,T02 | — | — |
 | 26 | Ananya*** | The path | Joint walk after rain | Relief | Bodies agree before egos | Wet earth footprints overlapping | **0** | T01 | — | **P-PATH usable** |
 | 27 | Priya | PS / Farooq | File closes; ordinary resumes | Relief | Law anticlimax | Stamp dried crooked | 0 | T01 | — | **P-POLICE closed** |
-| 28 | Nav | Office / café | Partial paper with CEO | Regret | Adult settlement incomplete | Signed 2 pages, not the years | 0 | T07 | — | **P-ESOP partial** |
+| 28 | Naveen | Office / café | Partial paper with CEO | Regret | Adult settlement incomplete | Signed 2 pages, not the years | 0 | T07 | — | **P-ESOP partial** |
 | 29 | Meera | Lakshmi’s room | Who is he? | Loneliness | “Keeps things from becoming police.” Stops. | Unfinished sentence in air | **2** | T04 | — | — (deepens) |
 | 30 | Meera | Departure / bus | Leave-taking | Grief | Empty guest place; path photo arrives | Phone glow: mud path after rain | 0 | T05,T08 | — | **P-LEAVE** |
-| Coda | Meera | Bengaluru street/metro | Micro-quarrel; stranger’s timing | Unease+hope | Breath catches — coincidence? | Stranger already walking on | **1** | T05 | P-CODA | deferred B2 |
+| Coda | — | — | **NOT IN DRAFT 6** | — | — | — | 0 | T05 | P-CODA | DEFERRED_OPTIONAL_UNWRITTEN |
 
-**Locked RP total = 14** (Ch.6=1, 16=3, 20=2, 22=2, 24=1, 25=2, 29=2, Coda=1).  
+**Locked RP total = 13 in Draft 6** (Ch.6=1, 16=3, 20=2, 22=2, 24=1, 25=2, 29=2; Coda=0 unwritten). Prior plan 14 with Coda.  
 Ch.8 = 0 (misdirection; do not score doctor’s text as network). Ch.12/21/26 = 0 by design.
 
 \*Ch.8: **0 RP** by design (misdirection).  
@@ -436,8 +438,8 @@ Organization name; Houses; Covenant; training; functions; founding; Shankarappa�
 
 | ID | Location | First | Last | Purpose | Emotional association |
 |----|----------|-------|------|---------|------------------------|
-| L01 | HSR 1BHK (Meera) | 1 | Coda | City solitude | Control / loneliness |
-| L02 | Apt parking / meeting hall | 1 | 19 | Petty governance rhyme | Embarrassment → truce |
+| L01 | Malleshwaram 1BHK (Meera) | 1 | 30 | City solitude | Control / loneliness |
+| L02 | Apt parking (resident slots + Visitor Parking) / meeting hall | 1 | 19 | Petty governance rhyme (Ch1 = B-2/pass; not Visitor Bay) | Embarrassment → truce |
 | L03 | Office corridor / floors | 2 | 28 | Oral capitalism | Unease / regret |
 | L04 | Hegde house courtyard | 5 | 30 | Social stage | Belonging / knives |
 | L05 | Guest sleep room | 6 | 30 | Threshold | Childhood / absence |
@@ -464,43 +466,42 @@ Bengaluru → Maddur belt ≈ 3.5–5 hrs road/bus. Night buses exist. Same-day 
 | Date | Story day | Weather | Beats (Ch) | Travel / notes |
 |------|-----------|---------|------------|----------------|
 | 2003 (undated) | Echo | Summer heat | Ch.6 flashback | Meera age ~10 |
-| Wed 25 Mar 2026 | D1 | Hot, dry | Ch.1 parking | Meera in BLR |
-| Thu 26 Mar | D2 | Hot | Ch.2 office promise | BLR |
-| Fri 27 Mar | D3 | Hot | Ch.3 mother call; tickets | BLR |
-| Sat 28 Mar–Wed 1 Apr | — | — | Compression: work; wedding prep calls | — |
-| Thu 2 Apr | D4 | Hot | Ch.4 wire moved | Village (Ramesh) |
-| Fri 3 Apr | D5 | Hot | Ch.5 henna logistics | Ananya Mandya/village |
-| Sat 4 Apr | D6 | Hot | Ch.6 Meera arrives evening bus | BLR→village |
-| Sun 5 Apr | D7 | Hot | Ch.7 fathers via sons | Village |
-| Mon 6 Apr | D8 | Hot | Ch.8 clinic | Town |
-| Tue 7 Apr | D9 | Hot | Ch.9 temple donations | Town/temple |
-| Wed 8 Apr | D10 | Hot wind | Ch.10 shove | Path → clinic minor |
-| Thu 9 Apr | D11 | Hot | Ch.11 statements | PS |
-| Fri 17 Apr | D12* | Warm | Ch.12 wedding eve | *compress 10–16 Apr into prep montage inside Ch.12 opening if needed |
-| Sat 18 Apr | D13 | Warm, humid | Ch.13 wedding | Hall |
-| Sun 19 Apr | D14 | Warm | Ch.14 night/morning after | Houses |
-| Mon 20 Apr | D15 | Warm | Ch.15 failed mediation | Path edge |
-| Tue 21 Apr | D16 | Cloudy build | Ch.16 1962 terms | Courtyard |
-| Wed 22 Apr | D17 | Cloudy | Ch.17 Ramesh shame; Arjun call | Fields |
-| Thu 23–Fri 24 Apr | — | — | Nav pressure builds (offstage) | — |
-| Sat 25 Apr | D18 | — | Ch.18 Nav letter (BLR) | Parallel day |
-| Sun 26 Apr | D19 | — | Meera night bus to BLR for Mon work fire-drill | Village→BLR |
-| Mon 27 Apr | D20 | BLR storm cloud | Ch.19 AGM + work; evening return bus | BLR↔village |
-| Wed 29 Apr | D21 | Humid | Ch.20 Gayatri jasmine | Village |
-| Sun 10 May | D22 | Pre-monsoon heat | Ch.21 jatre + Rohan | Fair |
-| Tue 12 May | D23 | Humid | Ch.22 bribe/flattery; Shankarappa leaves | Village |
-| Wed 13–Fri 15 May | D24–26 | Heat | Ch.23 rumor 48–72 hrs | Absence |
-| Sat 16 May | D27 | Dust wind | Ch.24 traveler at bus stand | Town |
-| Sun 17 May | D28 | First light rain | Ch.25 return + uncertainty | Courtyard |
-| Mon 18 May | D29 | Rain night before, wet morning | Ch.26 path walk | Path |
-| Tue 19 May | D30 | Clearing | Ch.27 file close; biscuits | PS / store |
-| Wed 20–Thu 28 May | — | Onset showers | Compress: ordinary resumes; Meera stays for leftovers | — |
-| Fri 29 May | D31 | Showers | Ch.28 Nav–CEO (BLR) — Meera may be present or Nav solo | If Meera: she returned ~27 May |
-| Sat 30 May | D32 | Humid | Ch.29 Lakshmi question | Village (Meera final days) |
-| Mon 1 Jun | D33 | Rain spatters | Ch.30 departure | Village→BLR |
-| Thu 5 Jun | D34 | City rain | Coda micro-quarrel | BLR |
+| Wed 27 Mar 2024 | D1 | Hot, dry | Ch.1 parking | Meera in BLR |
+| Thu 28 Mar 2024 | D2 | Hot | Ch.2 office promise | BLR |
+| Fri 29 Mar 2024 | D3 | Hot | Ch.3 mother call; tickets Sat 6 Apr | BLR |
+| Sat 30 Mar–Wed 3 Apr | — | — | Compression: work; wedding prep calls | — |
+| Thu 4 Apr 2024 | D4 | Hot | Ch.4 wire moved | Village (Ramesh) |
+| Fri 5 Apr 2024 | D5 | Hot | Ch.5 henna logistics | Ananya Mandya/village |
+| Sat 6 Apr 2024 | D6 | Hot | Ch.6 Meera arrives evening bus | BLR→village |
+| Sun 7 Apr 2024 | D7 | Hot | Ch.7 fathers via sons | Village |
+| Mon 8 Apr 2024 | D8 | Hot | Ch.8 clinic | Town |
+| Tue 9 Apr 2024 | D9 | Hot | Ch.9 temple donations | Town/temple |
+| Wed 10 Apr 2024 | D10 | Hot wind | Ch.10 shove | Path → clinic minor |
+| Thu 11 Apr 2024 | D11 | Hot | Ch.11 statements | PS |
+| Fri 19 Apr 2024 | D12* | Warm | Ch.12 wedding eve | *compress 12–18 Apr into prep montage inside Ch.12 opening if needed |
+| Sat 20 Apr 2024 | D13 | Warm, humid | Ch.13 wedding | Hall |
+| Sat 20 Apr night / Sun 21 Apr | D14 | Warm | Ch.14 night after | Houses |
+| Sun 21 Apr 2024 | D15 | Warm | Ch.15 failed mediation | Path edge |
+| ~Tue–Wed 23–24 Apr | D16–17 | Cloudy | Ch.16–17 courtyard terms; Ramesh shame | Courtyard / fields |
+| Thu 25–Fri 26 Apr | — | — | Naveen pressure builds (offstage) | — |
+| Sat 27 Apr 2024 | D18 | — | Ch.18 resignation draft (BLR) | Parallel day |
+| Sun 28 Apr 2024 | D19 | — | Meera night bus to BLR for Mon work | Village→BLR |
+| Mon 29 Apr 2024 | D20 | BLR storm cloud | Ch.19 AGM + work; evening return bus | BLR↔village |
+| ~Wed 1 May 2024 | D21 | Humid | Ch.20 Gayatri jasmine | Village |
+| Sun 12 May 2024 | D22 | Pre-monsoon heat | Ch.21 jatre + Rohan | Fair |
+| Tue 14 May 2024 | D23 | Humid | Ch.22 Subbanna; Shankarappa leaves | Village |
+| Wed 15–Fri 17 May | D24–26 | Heat | Ch.23 rumor 48–72 hrs | Absence |
+| Sat 18 May 2024 | D27 | Dust wind | Ch.24 traveler | Town |
+| Sun 19 May 2024 | D28 | First light rain | Ch.25 return + uncertainty | Courtyard |
+| Mon 20 May 2024 | D29 | Rain night before, wet morning | Ch.26 path walk | Path |
+| Tue 21 May 2024 | D30 | Clearing | Ch.27 file close; biscuits | PS / store |
+| Wed 22–Thu 30 May | — | Onset showers | Compress: ordinary resumes; Meera stays | — |
+| Fri 31 May 2024 | D31 | Showers | Ch.28 Naveen–CEO (BLR) | Meera ~150 km packing |
+| Sat 1 Jun 2024 | D32 | Humid | Ch.29 Lakshmi question; second leave afternoon | Village |
+| Sun 2 Jun 2024 | D33 | Rain | Ch.30 departure ~7 a.m. | Village→BLR |
+| Thu 7 Jun 2024 | — | — | **Coda not in Draft 7** (deferred optional) | — |
 
-\*Wedding-eve jump: Chapters 12 covers the emotional “eve” after a week of off-page logistics; do not invent new crises in the gap.
+\*Wedding-eve jump: Chapter 12 covers the emotional “eve” after a week of off-page logistics; do not invent new crises in the gap.
 
 ---
 

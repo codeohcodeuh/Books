@@ -219,7 +219,7 @@ Track at minimum:
 | Food / tea | Last significant meal beat if carrying |
 | Fatigue / sleep | Who is exhausted / slept |
 | Festival timeline | Status vs 10 May jatre |
-| Wedding timeline | Status vs 18 Apr wedding |
+| Wedding timeline | Status vs Sat 20 Apr 2024 wedding |
 
 **Automatic fail flags (must mark FAIL if true):**
 

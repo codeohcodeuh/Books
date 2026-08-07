@@ -1,7 +1,9 @@
+> **SUPERSEDED FOR PRODUCTION FACTS (2026-08-04):** Canonical Ch1 is DOCX / Draft 5 — **Resident Parking Slot #B-2** + Security overnight pass + Visitor Parking. Visitor Bay #3 language below is **retired**. Prefer `B01-Ch01-S01/S02/S03.md` (synced) and `06_LEDGERS/PARKING_APARTMENT_RULES.md`.
+
 # BOOK 1 — CHAPTER 01 SCENE OUTLINES
 # VERSION 1
 **Parent chapter:** Ch01 — Visitor Parking (Chapter Outlines V2 — LOCKED)  
-**Story date:** Wed 25 Mar 2026  
+**Story date:** Wed 27 Mar 2024  
 **POV:** Meera Rao  
 **RP chapter total:** 0  
 **Promise:** P-APT opens  
@@ -44,12 +46,12 @@ Phone will not stop; chat accelerates with photo evidence before she can ignore 
 | Parent Chapter | Ch01 |
 | Sequence | 1 |
 | Estimated words | 900 |
-| Story date | Wed 25 Mar 2026 |
+| Story date | Wed 27 Mar 2024 |
 | Time | 7:10 p.m. → ~7:30 p.m. |
 | Duration | ~20 minutes |
 | POV | Meera Rao |
 | Weather | Hot, dry; residual heat off concrete; no breeze (felt at windows/walls) |
-| Location | L01 — HSR 1BHK; living room / kitchen counter |
+| Location | L01 — Malleshwaram 1BHK; living room / kitchen counter |
 | Onstage characters | Meera (alone) |
 | Offstage pressure | Apartment WhatsApp group; Asha posting; neighbors reading |
 | Reveal spend | 0 |
@@ -64,7 +66,7 @@ Phone will not stop; chat accelerates with photo evidence before she can ignore 
 
 ### POV
 - Emotion: Low-level work fatigue; mild satisfaction; looking forward to quiet evening
-- Knowledge: Parked Divya’s car in visitor bay that morning; considers it trivial; apartment rules known loosely
+- Knowledge: Parked Divya’s car in her resident slot #B-2 that morning; considers it trivial; apartment rules known loosely
 - Immediate objective: Eat leftover rice; decompress; scroll phone mindlessly
 
 ### Other characters
@@ -102,9 +104,9 @@ Phone will not stop; chat accelerates with photo evidence before she can ignore 
 | 1 | Meera sets rice plate on kitchen counter; sits / stands to eat | Day’s residue still in body; wants stillness | Neutral → mild comfort | none |
 | 2 | Phone face-up nearby; first notification buzz | Buzz interrupts first bite | Comfort → mild irritation | group chat active |
 | 3 | She ignores once; continues eating | Notification stack continues | Irritation holds | none |
-| 4 | Second/third buzz; she glances | Chat volume rising | Irritation → reluctant attention | “unauthorized visitor vehicle” visible in preview |
+| 4 | Second/third buzz; she glances | Chat volume rising | Irritation → reluctant attention | “Unauthorized vehicle in Resident Parking Slot #B-2” visible in preview |
 | 5 | Opens WhatsApp apartment group | Screen fills with escalating messages | Attention → alert | rule-talk; timestamps; Asha active |
-| 6 | Scrolls; sees photo of parking bay posted | Photo makes accusation concrete | Alert → unease | bay #3 image; plate/timestamp |
+| 6 | Scrolls; sees photo of parking bay posted | Photo makes accusation concrete | Alert → unease | slot #B-2 image; plate/timestamp |
 | 7 | Zooms / stares; recognizes Divya’s car | Recognition resists denial | Unease → dread | car identity confirmed to her |
 | 8 | Sees her name tagged / implied as responsible | Public naming; no private exit | Dread → embarrassment | she is the violator in the group’s eyes |
 | 9 | Checks time on photo vs her memory of parking | Facts align against her | Embarrassment deepens | no alibi in her own mind |
@@ -158,7 +160,7 @@ Kitchen counter zone only. Stand/sit at counter. Phone from counter to hand. No 
 | Wardrobe | Work clothes (kurta + jeans or office-casual) | Same | Y |
 | Mud/dust/sweat | Work-tired; light sweat possible | Same | Y |
 | Phones | Charged; WhatsApp on; notifications on | In hand; chat open; no reply sent | Y |
-| Vehicles | Divya’s car in visitor bay #3 (offstage) | Still there | Y |
+| Vehicles | Divya’s car in resident parking slot #B-2 (offstage) | Still there | Y |
 | Food/tea | Leftover rice started | Half-eaten; abandoned | Y |
 | Money | None | None | Y |
 | Time | 7:10 p.m. | ~7:30 p.m. | Y |
@@ -228,10 +230,10 @@ Embarrassment + urgency → she must go down to move the car. Beat: put phone do
 | Body | Appetite gone; tension in hands/shoulders |
 | Reader | Likes Meera; recognizes stakes; may find situation comic-recognizable |
 
-**Planned exit image:** Rice half-eaten; phone screen with her name tagged and parking-bay photo.
+**Planned exit image:** Rice half-eaten; phone screen with her name tagged and slot #B-2 photo.
 
 ## VIII. Dialogue Constraints
-**Allowed topics:** N/A spoken; chat UI: rules, bay number, timestamps.  
+**Allowed topics:** N/A spoken; chat UI: rules, slot number, timestamps.  
 **Forbidden exposition:** How societies work; cultural lecture.  
 **Forbidden speeches:** Theme statements in chat.  
 **Subtext goals:** Asha (offstage) = correctness as control; Meera = face.  
@@ -289,12 +291,12 @@ Spare key is in bag upstairs; Asha is physically present and correct; uncle watc
 | Parent Chapter | Ch01 |
 | Sequence | 2 |
 | Estimated words | 1000 |
-| Story date | Wed 25 Mar 2026 |
+| Story date | Wed 27 Mar 2024 |
 | Time | 7:35 p.m. → ~8:10 p.m. |
 | Duration | ~35 minutes |
 | POV | Meera Rao |
 | Weather | Hot, dry; concrete heat releasing; parking more open to air |
-| Location | L01 stair/lift → L02 parking bay → stairs back up (key fetch begins) |
+| Location | L01 stair/lift → L02 resident slot #B-2 → stairs back up (key fetch begins) |
 | Onstage characters | Meera; Asha; one older uncle-neighbor (spectator) |
 | Offstage pressure | Group chat still running; other residents reading |
 | Reveal spend | 0 |
@@ -309,7 +311,7 @@ Spare key is in bag upstairs; Asha is physically present and correct; uncle watc
 
 ### POV
 - Emotion: Alert embarrassment; determined to fix fast
-- Knowledge: She is tagged; car in bay #3; Divya left spare key in Meera’s bag upstairs
+- Knowledge: She is tagged; car in slot #B-2; Divya left spare key in Meera’s bag upstairs
 - Immediate objective: Move car quickly; defuse without losing face
 
 ### Other characters
@@ -345,7 +347,7 @@ Spare key is in bag upstairs; Asha is physically present and correct; uncle watc
 | # | Action | Conflict | Emotional shift | Information movement |
 |---|--------|----------|-----------------|----------------------|
 | 1 | Meera leaves flat; descends stairs/lift toward parking | Body carries embarrassment into public space | Embarrassment → braced irritation | none |
-| 2 | Arrives at visitor bay #3; car still there | Fix looks simple | Braced → practical confidence | confirms car location |
+| 2 | Arrives at resident parking slot #B-2; car still there | Fix looks simple | Braced → practical confidence | confirms car location |
 | 3 | Asha already at bay; phone light / inspection posture | Asha’s presence blocks private fix | Confidence → irritation | Asha is not only online |
 | 4 | Uncle-neighbor visible nearby (scooter/walk/standing) | Audience forms without malice | Irritation → self-consciousness | he can see them |
 | 5 | Meera moves to unlock/move car; reaches for spare key | Key not in pocket/hand | Confidence cracks | key missing on her person |
@@ -354,8 +356,8 @@ Spare key is in bag upstairs; Asha is physically present and correct; uncle watc
 | 8 | Meera’s minimal speech; outmaneuvered in words | She cannot match committee register | Exposed → shrinking | power with Asha |
 | 9 | Uncle’s gaze / non-intervention register | Neutrality feels like complicity | Shrinking → sharper embarrassment | witness locked |
 | 10 | Meera turns back toward stairs for key | Humiliation extends in time | Embarrassment → hot exposure | commitment to return publicly |
-| 11 | Asha’s phone flashlight stays on bay number / plate | Light makes space theatrical | Exposure peaks | bay number visually underlined |
-| 12 | Exit image: Asha's headlamp-bright phone flashlight on bay number; Meera climbing stairs | Cannot pretend this was quick | Exposed embarrassment locked | car still unmoved |
+| 11 | Asha’s phone flashlight stays on slot number / plate | Light makes space theatrical | Exposure peaks | slot number visually underlined |
+| 12 | Exit image: Asha's headlamp-bright phone flashlight on slot number; Meera climbing stairs | Cannot pretend this was quick | Exposed embarrassment locked | car still unmoved |
 
 ---
 
@@ -365,7 +367,7 @@ Asha: planted at bay; phone as tool.
 Uncle: peripheral stationary witness.
 
 ## 7. Dialogue opportunities (not dialogue)
-- Asha: committee language — clause/timestamp/bay number; request for acknowledgment.
+- Asha: committee language — clause/timestamp/slot number; request for acknowledgment.
 - Meera: minimal — logistics, clipped apology-adjacent words; no philosophy.
 - Uncle: ideally zero or one neutral syllable; presence > speech.
 - Forbidden: tradition, mediation, memory, oral agreements, “how we live in apartments” speeches.
@@ -373,13 +375,13 @@ Uncle: peripheral stationary witness.
 ## 8. Sensory opportunities
 | Sense | Anchors |
 |-------|---------|
-| Sight | Bay paint numbers; Divya’s car; Asha’s phone flashlight; uncle’s silhouette; stairwell tube light |
+| Sight | Slot #B-2 paint on pillar; Divya’s car; Asha’s phone flashlight; uncle’s silhouette; stairwell tube light |
 | Sound | Footsteps on stairs; distant scooters; phone buzz in pocket (group still alive) |
 | Touch | Hot car door handle; empty pocket; stair rail |
 | Temperature | Concrete heat; still air in bay |
 | Smell | Exhaust residual; dust; hot metal |
 | Motion | Descent; stalled hands; climb back up |
-| Concrete objects | Car; phone flashlight; bay number; (bag upstairs) |
+| Concrete objects | Car; phone flashlight; slot number; (bag upstairs) |
 
 ## 9. Internal thought opportunities
 - Micro: key upstairs / of course.
@@ -462,7 +464,7 @@ She will retrieve key, return, move car (can be brief bridge inside S02 end or o
 | Body | Hot face; stair breath |
 | Reader | Feels the stretch of petty public cost |
 
-**Planned exit image:** Asha's headlamp-bright phone flashlight illuminating the bay number while Meera climbs stairs.
+**Planned exit image:** Asha's headlamp-bright phone flashlight illuminating the slot number while Meera climbs stairs.
 
 ## VIII. Dialogue Constraints
 **Allowed topics:** Bay number, visitor rules, moving the car, brief acknowledgment.  
@@ -508,7 +510,7 @@ Language fails her; silence of neighbors reading Asha’s recap feels like agree
 | Parent Chapter | Ch01 |
 | Sequence | 3 |
 | Estimated words | 700 |
-| Story date | Wed 25 Mar 2026 |
+| Story date | Wed 27 Mar 2024 |
 | Time | 8:15 p.m. → 9:45 p.m. |
 | Duration | ~90 minutes (includes idle drafting time; dramatize selectively) |
 | POV | Meera Rao |
@@ -528,7 +530,7 @@ Language fails her; silence of neighbors reading Asha’s recap feels like agree
 
 ### POV
 - Emotion: Brief competence residue after moving car → determination to restore dignity in chat
-- Knowledge: Car moved to distant open spot; Asha was correct; uncle saw; she still hasn’t replied in group
+- Knowledge: Car moved to marked Visitor Parking after Security overnight pass; Asha was correct; uncle saw; she still hasn’t replied in group
 - Immediate objective: Compose polite non-groveling response; reclaim evening
 
 ### Other characters
@@ -562,7 +564,7 @@ Language fails her; silence of neighbors reading Asha’s recap feels like agree
 
 | # | Action | Conflict | Emotional shift | Information movement |
 |---|--------|----------|-----------------|----------------------|
-| 1 | Bridge: car moved to distant open spot; brief competence | Relief is short | Exposed → brief relief | car no longer in bay #3 |
+| 1 | Bridge: car moved to marked Visitor Parking after Security overnight pass; brief competence | Relief is short | Exposed → brief relief | car no longer in slot #B-2 |
 | 2 | Returns to flat; door; counter; cold rice still there | Domestic evidence of interrupted evening | Relief → flatness | time passed |
 | 3 | Phone shows Asha’s recap/summary message | Incident now narrated by Asha | Flatness → renewed pressure | recap exists as group artifact |
 | 4 | Read receipts begin stacking on recap | Silence of others = apparent agreement | Pressure → sting | neighbors viewing |
@@ -618,7 +620,7 @@ Re-entry → counter orbit → bin → phone placement → stop.
 
 | Item | Entering | Exiting | Pass? |
 |------|----------|---------|-------|
-| Vehicles | Car moved to distant open spot | Remains there | Y |
+| Vehicles | Car moved to marked Visitor Parking after Security overnight pass | Remains there | Y |
 | Keys | Spare used; returned to bag/pocket | Settled | Y |
 | Food | Cold rice on counter | Scraped to bin | Y |
 | Phones | Active; drafts | Face-down; no sent reply | Y |
@@ -700,7 +702,7 @@ Inherit Ch01 §10 + ISS-27 tone + ISS-21 motif non-explanation + allowed ambigui
 | Parent Chapter Outline V2 locked / unchanged in meaning | ✓ |
 | RP spend S01+S02+S03 = 0 | ✓ |
 | POV Meera throughout | ✓ |
-| Chronology Wed 25 Mar 2026 7:10–9:45 | ✓ |
+| Chronology Wed 27 Mar 2024 7:10–9:45 | ✓ |
 | P-APT opens; not closed | ✓ |
 | Word budgets 900+1000+700=2600 | ✓ |
 | Exit images match V2 | ✓ |

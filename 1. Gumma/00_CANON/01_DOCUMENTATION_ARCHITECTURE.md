@@ -25,7 +25,8 @@ Establish a studio-grade filing system so the Gumma Universe bible remains navig
 ### Directory Map
 
 ```text
-00_CANON/                 Project rules, architecture, status taxonomy, contradiction log
+00_CANON/                 Project rules, architecture, status taxonomy, contradiction log,
+                          editorial master constitution (novel craft law)
 01_FOUNDATIONS/           Open questions, core premises, naming, tone, medium
 02_UNIVERSE_BIBLE/        Master overview and pillar summaries
 03_TIMELINE/              Eras, chronologies, divergence notes
@@ -36,10 +37,11 @@ Establish a studio-grade filing system so the Gumma Universe bible remains navig
 08_PEOPLE/                Character database and dossiers
 09_CULTURE/               Languages, symbols, rituals, daily praxis
 10_CRAFT/                 Training, weapons, technologies, methods
-11_STORY_SEEDS/           Long-term seeds, mystery ledgers, franchise arcs
+11_STORY_SEEDS/           Long-term seeds, mystery ledgers, franchise arcs, book production
 99_ARCHIVE/               Deprecated, superseded, or rejected concepts (never delete silently)
 ```
 
+**Novel production authority:** For manuscript / draft / chapter work, `00_CANON/03_EDITORIAL_MASTER_CONSTITUTION.md` outranks chat improvisation and outline convenience. Universe truth remains governed by Project Charter + Foundations.
 ### Document Header Convention
 
 ```markdown

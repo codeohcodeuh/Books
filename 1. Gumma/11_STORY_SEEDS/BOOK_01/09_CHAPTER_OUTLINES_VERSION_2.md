@@ -19,7 +19,8 @@
 ========================================================================
 # Book 1 — Chapter Outline: Ch01
 **Working title:** Visitor Parking  
-**Status:** V2 PRODUCTION-READY
+**Status:** V2 PRODUCTION-READY — Ch1 PROSE LOCKED to DOCX (2026-08-04)
+**Parking canon:** Resident Slot #B-2 / Security overnight pass (Visitor Bay RETIRED).
 **Package:** BOOK_01 CHAPTER OUTLINES VERSION 2
 **Act:** I  
 **Outline version:** 2.0
@@ -37,10 +38,10 @@
 | Working title | Visitor Parking |
 | Act | I |
 | POV | Meera Rao |
-| Story date | Wed 25 Mar 2026 |
+| Story date | Wed 27 Mar 2024 |
 | Time of day span | 7:10 p.m. → 9:45 p.m. |
 | Weather | Hot, dry; residual daytime heat releasing off concrete; no breeze |
-| Location(s) | L01 (HSR 1BHK), L02 (apartment parking bay + association meeting room) |
+| Location(s) | L01 (Malleshwaram 1BHK), L02 (apartment resident parking / Visitor Parking + association meeting room) |
 | Timeline references | D1 per Blueprint Part XI; no prior chapter; first introduction |
 | Estimated word count | 2,600 |
 | Reveal Point spend | 0 |
@@ -83,7 +84,7 @@ Reader experiences embarrassment with Meera. Small-stakes, recognizable, warm en
 Low-level work fatigue; mild satisfaction from a productive day; looking forward to quiet evening.
 
 **POV entering knowledge:**  
-Meera knows apartment rules loosely; knows she parked a friend's car in visitor bay earlier that day; considers it trivial.
+Meera knows apartment rules loosely; knows she parked a friend's car in her resident parking slot (#B-2) earlier that day; considers it trivial.
 
 **Other characters — entering emotions:**
 - Asha: wound-tight from a long day of WhatsApp governance; this violation is her latest grievance-of-the-hour
@@ -106,18 +107,18 @@ N/A.
 
 | Field | Value |
 |-------|-------|
-| Location | HSR 1BHK flat — living room / kitchen counter |
+| Location | Malleshwaram 1BHK flat — living room / kitchen counter |
 | Time of day | 7:10 p.m. |
 | Characters onstage | Meera (alone) |
 | Offstage pressure | WhatsApp group notifications pinging |
 | Goal (POV want) | Eat leftover rice, decompress, scroll phone mindlessly |
-| Conflict / obstacle | Phone keeps buzzing; apartment group chat escalating about "unauthorized visitor vehicle" |
+| Conflict / obstacle | Phone keeps buzzing; apartment group chat escalating about "Unauthorized vehicle in Resident Parking Slot #B-2" |
 | Turning point | Meera realizes the vehicle in question is Divya's car she parked that morning — she is the violator |
-| Exit image | Rice half-eaten; phone screen showing her name tagged in the group with a parking-bay photo |
+| Exit image | Rice half-eaten; phone screen showing her name tagged in the group with a slot #B-2 photo |
 | Emotional delta | Relaxed-tired → alert embarrassment |
 | Reveal usage | 0 |
 | Continuity dependencies | None (novel opens) |
-| Continuity outputs | Meera has been tagged publicly; Divya's car is in visitor bay #3; Asha has posted the photo with timestamp; Meera has not yet responded; rice plate on counter |
+| Continuity outputs | Meera has been tagged publicly; Divya's car is in resident parking slot #B-2; Asha has posted the photo with timestamp; Meera has not yet responded; rice plate on counter |
 | Word budget | 900 |
 | Fail if | Exposition about apartment society structure as teaching; narrator attitude toward "Indian apartment drama" as spectacle; narrator mocks Meera or the group for reader laughs |
 
@@ -125,14 +126,14 @@ N/A.
 
 | Field | Value |
 |-------|-------|
-| Location | HSR flat → parking bay (Meera goes down to move car) |
+| Location | Malleshwaram flat → parking bay (Meera goes down to move car) |
 | Time of day | 7:35 p.m. |
 | Characters onstage | Meera; Asha (in parking area inspecting); one older uncle-neighbor (witness/spectator) |
 | Offstage pressure | Group chat still running; other residents reading |
 | Goal (POV want) | Move the car quickly, defuse without losing face |
 | Conflict / obstacle | Asha is physically present and wants a verbal acknowledgment of the rule — not just car removal; uncle watches making it public; Meera's keys fumble (Divya left a spare; it's in her bag upstairs) |
 | Turning point | Meera must go back upstairs for keys in front of Asha, turning a quick fix into an extended public minor humiliation |
-| Exit image | Asha's headlamp-bright phone flashlight illuminating the bay number while Meera climbs stairs |
+| Exit image | Asha's headlamp-bright phone flashlight illuminating the slot number while Meera climbs stairs |
 | Emotional delta | Irritated confidence → exposed embarrassment |
 | Reveal usage | 0 |
 | Continuity dependencies | S01 tag; Divya's spare key location (bag, upstairs) |
@@ -202,7 +203,7 @@ N/A.
 | Beginning | Tired satisfaction; routine | Rice, phone, flat |
 | Middle | Irritation → embarrassment → exposure | Parking bay; keys; stairs |
 | Ending (dominant) | Embarrassment settling into quiet petty anger | Phone face-down; silence chosen |
-| Recovery beat | Y — brief car-moved relief between S02 and S03 before new wave | Driving to open bay = 30 seconds of competence |
+| Recovery beat | Y — brief car-moved relief between S02 and S03 before new wave | Security pass + move to Visitor Parking = brief competence |
 | Reader breathing space | Opening rice scene; low-stakes domestic before buzz | First 400 words |
 | Reader recovery (Blueprint Part IX: Laugh) | Situation may land comic-recognizable for reader | Meera's embarrassment stays real; humor is recognition, not narrator mockery (ISS-27) |
 
@@ -215,9 +216,9 @@ N/A.
 | Weather vs prior chapter | N/A (first chapter); hot dry Bengaluru March evening locked | Pass |
 | Travel feasibility | Flat to parking = stairs/lift in same building; no external travel | Pass |
 | Wardrobe / body state | Work clothes still on (kurta + jeans or similar office-casual); no change | Pass |
-| Props | Phone (Meera's); Divya's spare car key (in bag); rice plate; parking-bay photo (digital) | Pass |
+| Props | Phone (Meera's); Divya's spare car key (in bag); rice plate; slot #B-2 photo (digital) | Pass |
 | Phone states | Meera's phone charged; WhatsApp active; group notifications on; at end: face-down | Pass |
-| Vehicles | Divya's car (hatchback/sedan — lock model in scene outline); visitor bay #3 → moved to distant open spot | Pass |
+| Vehicles | Divya's car (hatchback/sedan — lock model in scene outline); resident parking slot #B-2 → moved to marked Visitor Parking after Security overnight pass | Pass |
 | Food / tea / meals | Leftover rice started; not finished; scraped at end | Pass |
 | Time elapsed in chapter | ~2.5 hours (7:10–9:45 p.m.) | Pass |
 | Village activity fit to date | N/A — Bengaluru chapter | Pass |
@@ -239,7 +240,7 @@ N/A.
 | Knowledge matrix respected for POV (Meera knows only apartment life; no institutional awareness) | **Pass** |
 | Character arc position matches Blueprint Part II/IX (competent exile; start state) | **Pass** |
 | Relationship map inches, not jumps (3→2 with Asha is one notch, appropriate) | **Pass** |
-| Timeline / Part XI date honored (Wed 25 Mar 2026) | **Pass** |
+| Timeline / Part XI date honored (Wed 27 Mar 2024) | **Pass** |
 | Production Manual voice/scene/chapter rules honored in plan | **Pass** |
 | Series Bible threads not wrongly closed (P-APT opened, not closed) | **Pass** |
 | No nuclear vocabulary planned | **Pass** |
@@ -344,7 +345,7 @@ OUTLINE STATUS: **V2 PRODUCTION-READY**
 | Working title | The Hallway Promise |
 | Act | I |
 | POV | Nav (Naveen Krishnamurthy) |
-| Story date | Thu 26 Mar 2026 |
+| Story date | Thu 28 Mar 2024 |
 | Time of day span | 11:20 a.m. → 1:00 p.m. |
 | Weather | Hot, dry; office AC interior; bright glare from windows |
 | Location(s) | L03 (office — corridor, open-plan floor, small meeting room, café downstairs) |
@@ -525,7 +526,7 @@ That this is a corporate subplot unrelated to the broader novel — it will prov
 | Knowledge matrix respected (Nav/Meera: civilian only) | **Pass** |
 | Character arc position (Nav: loyalty stage; Meera: work-competent) | **Pass** |
 | Relationship map inches only | **Pass** |
-| Timeline / Part XI (Thu 26 Mar 2026) | **Pass** |
+| Timeline / Part XI (Thu 28 Mar 2024) | **Pass** |
 | Production Manual rules | **Pass** |
 | Series Bible threads safe (P-ESOP opened, not closed) | **Pass** |
 | No nuclear vocabulary | **Pass** |
@@ -624,7 +625,7 @@ OUTLINE STATUS: **V2 PRODUCTION-READY**
 | Working title | Ticket PDF |
 | Act | I |
 | POV | Meera Rao |
-| Story date | Fri 27 Mar 2026 |
+| Story date | Fri 29 Mar 2024 |
 | Time of day span | 8:30 p.m. → 10:15 p.m. |
 | Weather | Hot evening; fan on high; Bengaluru night traffic background |
 | Location(s) | L01 (HSR 1BHK — kitchen counter, bedroom) |
@@ -722,7 +723,7 @@ That "uncle being difficult" is ordinary wedding logistics drama.
 | Emotional delta | Procrastinating control → resignation → quiet reluctant anticipation |
 | Reveal usage | 0 |
 | Continuity dependencies | S01 promise; travel time BLR→Maddur belt (~3.5–5 hrs by bus/road per Blueprint XI); work calendar (not detailed, just "mid-project") |
-| Continuity outputs | Ticket booked: evening bus Sat 4 Apr arriving village ~10 p.m. (aligns with Ch6 arrival per Blueprint); Meera now committed; PDF exists as digital artifact; she has not told Nav or anyone at work yet |
+| Continuity outputs | Ticket booked: evening bus Sat 6 Apr arriving village ~10 p.m. (aligns with Ch6 arrival per Blueprint); Meera now committed; PDF exists as digital artifact; she has not told Nav or anyone at work yet |
 | Word budget | 1,000 |
 | Fail if | Booking process becomes tech/UX commentary; Meera's inner life becomes essay on family obligation; any institutional content |
 
@@ -779,7 +780,7 @@ That "uncle being difficult" is ordinary wedding logistics drama.
 | Item | State / note | Pass? |
 |------|--------------|-------|
 | Weather vs prior chapter | Still hot Bengaluru March; consistent | Pass |
-| Travel feasibility | Booking for Sat 4 Apr (8 days ahead); plausible work-notice | Pass |
+| Travel feasibility | Booking for Sat 6 Apr (8 days ahead); plausible work-notice | Pass |
 | Wardrobe / body state | Home clothes; post-work changed | Pass |
 | Props | Phone; laptop; ticket PDF; stove clock | Pass |
 | Phone states | Multiple missed calls from Saroja (3); phone used for call then dark | Pass |
@@ -805,7 +806,7 @@ That "uncle being difficult" is ordinary wedding logistics drama.
 | Knowledge matrix respected (Meera: civilian; knows only "uncle difficult") | **Pass** |
 | Character arc position (Meera: exile being pulled back; not yet curious) | **Pass** |
 | Relationship map inches only | **Pass** |
-| Timeline / Part XI (Fri 27 Mar 2026; booking for Sat 4 Apr arrival) | **Pass** |
+| Timeline / Part XI (Fri 29 Mar 2024; booking for Sat 6 Apr arrival) | **Pass** |
 | Production Manual rules | **Pass** |
 | Series Bible threads (P-WED clock opened) | **Pass** |
 | No nuclear vocabulary | **Pass** |
@@ -864,7 +865,7 @@ Whether Meera's reluctance is laziness, genuine alienation, or protective distan
 | Field | Content |
 |-------|---------|
 | Residue into next chapter | Meera committed to travel; wedding clock running; "uncle difficult" planted in memory; reader expects village soon |
-| Open clocks | P-WED active; P-APT background; P-ESOP background; ticket date (Sat 4 Apr) |
+| Open clocks | P-WED active; P-APT background; P-ESOP background; ticket date (Sat 6 Apr) |
 | Bible updates required after prose | Promise ledger P-WED → OPEN Ch3; Relationship Meera–Saroja confirmed 3; Timeline D3 confirmed; Saroja first speaking appearance |
 
 ---
@@ -902,7 +903,7 @@ OUTLINE STATUS: **V2 PRODUCTION-READY**
 | Working title | Gatepost |
 | Act | I |
 | POV | Ramesh Hegde |
-| Story date | Thu 2 Apr 2026 |
+| Story date | Thu 4 Apr 2024 |
 | Time of day span | 6:40 a.m. → 8:30 a.m. |
 | Weather | Pre-dawn heat already; mist burning off fields; dry red earth |
 | Location(s) | L06 (the path between fields) + Hegde field edge + gatepost |
@@ -1083,7 +1084,7 @@ That this is a standard land dispute between neighbors.
 | Knowledge matrix respected (Ramesh: civilian; knows land use, not formal history) | **Pass** |
 | Character arc position (Ramesh: fortified pride; "reasonable man" who decides this is honor) | **Pass** |
 | Relationship map inches only (3→2 internal only; external unchanged) | **Pass** |
-| Timeline / Part XI (Thu 2 Apr 2026 = D4) | **Pass** |
+| Timeline / Part XI (Thu 4 Apr 2024 = D4) | **Pass** |
 | Production Manual rules | **Pass** |
 | Series Bible threads (P-PATH opened as crisis) | **Pass** |
 | No nuclear vocabulary | **Pass** |
@@ -1142,7 +1143,7 @@ Whether Venki ordered the shift or farmhand overstepped; whether Ramesh's pride 
 | Field | Content |
 |-------|---------|
 | Residue into next chapter | Wire discovery unshared; Ramesh's silence is a pressure vessel; wedding in 16 days with this underneath |
-| Open clocks | P-PATH simmering; P-WED clock (16 days); Meera arriving in 2 days (Sat 4 Apr) |
+| Open clocks | P-PATH simmering; P-WED clock (16 days); Meera arriving in 2 days (Sat 6 Apr) |
 | Bible updates required after prose | Promise ledger P-PATH → OPEN Ch4; Relationship Ramesh–Venki 3→2 (internal); Location L06 first appearance; Timeline D4 confirmed; Ramesh first POV appearance |
 
 ---
@@ -1180,7 +1181,7 @@ OUTLINE STATUS: **V2 PRODUCTION-READY**
 | Working title | Henna Cone |
 | Act | I |
 | POV | Ananya Hegde |
-| Story date | Fri 3 Apr 2026 |
+| Story date | Fri 5 Apr 2024 |
 | Time of day span | 4:00 p.m. → 7:30 p.m. |
 | Weather | Late afternoon heat; fans on high; tube-light brightness inside |
 | Location(s) | L04 (Hegde house courtyard/hall — wedding prep zone), brief kitchen |
@@ -1363,7 +1364,7 @@ That path-talk is manageable background and won't poison the wedding.
 | Knowledge matrix respected (Ananya: civilian bride; no institutional awareness) | **Pass** |
 | Character arc position (Ananya: cheerful → first anger crack; setup for Ch.13) | **Pass** |
 | Relationship map inches only (4→3 with Ramesh = one notch) | **Pass** |
-| Timeline / Part XI (Fri 3 Apr 2026 = D5) | **Pass** |
+| Timeline / Part XI (Fri 5 Apr 2024 = D5) | **Pass** |
 | Production Manual rules | **Pass** |
 | Series Bible threads (P-WED advanced) | **Pass** |
 | No nuclear vocabulary | **Pass** |
@@ -1422,7 +1423,7 @@ Whether Ramesh is being unreasonable or protecting legitimate interests — read
 | Field | Content |
 |-------|---------|
 | Residue into next chapter | Ananya's swallowed anger; wedding prep continuing despite crack; Meera arriving next day |
-| Open clocks | P-PATH active; P-WED clock (15 days); Meera arrival tomorrow (Sat 4 Apr) |
+| Open clocks | P-PATH active; P-WED clock (15 days); Meera arrival tomorrow (Sat 6 Apr) |
 | Bible updates required after prose | P-WED advanced Ch5; Relationship Ananya–Ramesh 4→3; Location L04 first proper establishment; Ananya first appearance; Revathi first appearance; Malathi first appearance |
 
 ---
@@ -1460,7 +1461,7 @@ OUTLINE STATUS: **V2 PRODUCTION-READY**
 | Working title | Stored Blankets |
 | Act | I |
 | POV | Meera Rao |
-| Story date | Sat 4 Apr 2026 (evening arrival) |
+| Story date | Sat 6 Apr 2024 (evening arrival) |
 | Time of day span | 9:30 p.m. → 11:45 p.m. |
 | Weather | Night heat releasing; cricket-sound; kerosene-and-old-cotton smell indoors |
 | Location(s) | L04 (Hegde house courtyard — arrival), L05 (guest sleep room) |
@@ -1641,7 +1642,7 @@ That the childhood memory is merely nostalgic color.
 | Knowledge matrix respected (Meera: childhood sensory memory only; no institutional awareness; no name; no analysis) | **Pass** |
 | Character arc position (Meera: crossing threshold; exile arriving; not yet curious) | **Pass** |
 | Relationship map inches only | **Pass** |
-| Timeline / Part XI (Sat 4 Apr 2026 = D6; evening arrival) | **Pass** |
+| Timeline / Part XI (Sat 6 Apr 2024 = D6; evening arrival) | **Pass** |
 | Production Manual rules (R1 delivered as sensory < 300 words; no narrator explanation) | **Pass** |
 | Series Bible threads (P-CHILD opened; P-WED advanced) | **Pass** |
 | No nuclear vocabulary | **Pass** |
@@ -1745,7 +1746,7 @@ OUTLINE STATUS: **V2 PRODUCTION-READY**
 | Working title | Untouched Teacups |
 | Act | I |
 | POV | Ramesh Hegde |
-| Story date | Sun 5 Apr 2026 |
+| Story date | Sun 7 Apr 2024 |
 | Time of day span | 10:00 a.m. → 12:30 p.m. |
 | Weather | Hot, still; ceiling fan inadequate; sweat on foreheads; harsh light through open doors |
 | Location(s) | L04 (Hegde courtyard entrance), L07 (Gowda courtyard — brief) — meeting at edge/threshold between properties |
@@ -1927,7 +1928,7 @@ That tea-politeness means actual goodwill.
 | Knowledge matrix respected (Ramesh: no institutional awareness; feels absence but can't name it) | **Pass** |
 | Character arc position (Ramesh: pride hardening; "reasonable man" facade cracking) | **Pass** |
 | Relationship map inches only | **Pass** |
-| Timeline / Part XI (Sun 5 Apr 2026 = D7) | **Pass** |
+| Timeline / Part XI (Sun 7 Apr 2024 = D7) | **Pass** |
 | Production Manual rules | **Pass** |
 | Series Bible threads (P-PATH advanced) | **Pass** |
 | No nuclear vocabulary | **Pass** |
@@ -2026,7 +2027,7 @@ OUTLINE STATUS: **V2 PRODUCTION-READY**
 | Working title | Phone Face-Down |
 | Act | I |
 | POV | Dr. Suresh Bhat |
-| Story date | Mon 6 Apr 2026 |
+| Story date | Mon 8 Apr 2024 |
 | Time of day span | 11:00 a.m. → 1:30 p.m. |
 | Weather | Hot; clinic fan working hard; afternoon glare through frosted glass |
 | Location(s) | L08 (Suresh's clinic — consultation room, waiting room, brief corridor) |
@@ -2210,7 +2211,7 @@ That Suresh's pause and text might connect to something bigger. (It doesn't. But
 | Knowledge matrix respected (Suresh: civilian doctor; no institutional awareness; text is to wife) | **Pass** |
 | Character arc position (Suresh: "exhausted confessor who hates the role") | **Pass** |
 | Relationship map inches only | **Pass** |
-| Timeline / Part XI (Mon 6 Apr 2026 = D8) | **Pass** |
+| Timeline / Part XI (Mon 8 Apr 2024 = D8) | **Pass** |
 | Production Manual rules | **Pass** |
 | Series Bible threads (P-DOC opened as misdirection) | **Pass** |
 | No nuclear vocabulary | **Pass** |
@@ -2313,7 +2314,7 @@ OUTLINE STATUS: **V2 PRODUCTION-READY**
 | Working title | Biscuit Tin |
 | Act | I |
 | POV | Meera Rao |
-| Story date | Tue 7 Apr 2026 |
+| Story date | Tue 9 Apr 2024 |
 | Time of day span | 10:00 a.m. → 12:45 p.m. |
 | Weather | Hot; temple shade needed; biscuit wrappers wilting in heat |
 | Location(s) | L09 (temple committee area), L12 (Farooq's store — brief) |
@@ -2495,7 +2496,7 @@ That Farooq is just a shopkeeper (he is — but his node-function in the novel c
 | Knowledge matrix respected (Meera: amused observer; no institutional awareness) | **Pass** |
 | Character arc position (Meera: detachment cracking toward amusement — not curiosity yet) | **Pass** |
 | Relationship map inches only | **Pass** |
-| Timeline / Part XI (Tue 7 Apr 2026 = D9) | **Pass** |
+| Timeline / Part XI (Tue 9 Apr 2024 = D9) | **Pass** |
 | Production Manual rules | **Pass** |
 | Series Bible threads (no new threads; breathing chapter) | **Pass** |
 | No nuclear vocabulary | **Pass** |
@@ -2594,7 +2595,7 @@ OUTLINE STATUS: **V2 PRODUCTION-READY**
 | Working title | Broken Post |
 | Act | I (final chapter) |
 | POV | Ramesh Hegde |
-| Story date | Wed 8 Apr 2026 |
+| Story date | Wed 10 Apr 2024 |
 | Time of day span | 6:00 a.m. → 9:30 a.m. |
 | Weather | Hot wind; dust; early heat oppressive; pre-monsoon tension in air |
 | Location(s) | L06 (the path between fields) |
@@ -2778,7 +2779,7 @@ None. This chapter corrects the reader's last comfortable assumption: that viole
 | Knowledge matrix respected (Ramesh: civilian; reacting to violence without institutional resource) | **Pass** |
 | Character arc position (Ramesh: "reasonable man" whose reasonableness is failing — pride escalates past control) | **Pass** |
 | Relationship map crisis-level appropriate for Act I end | **Pass** |
-| Timeline / Part XI (Wed 8 Apr 2026 = D10) | **Pass** |
+| Timeline / Part XI (Wed 10 Apr 2024 = D10) | **Pass** |
 | Production Manual rules | **Pass** |
 | Series Bible threads (P-POLICE opened; P-PATH crisis) | **Pass** |
 | No nuclear vocabulary | **Pass** |
@@ -2874,7 +2875,7 @@ OUTLINE STATUS: **V2 PRODUCTION-READY**
 | Working title | Notebook Arrows |
 | Act | II (opens) |
 | POV | Inspector Priya Naik |
-| Story date | Thu 9 Apr 2026 |
+| Story date | Thu 11 Apr 2024 |
 | Time of day span | 9:00 a.m. → 2:00 p.m. |
 | Weather | Hot; PS ceiling fan barely working; sweat on forms; bright glare from compound |
 | Location(s) | L10 (police station), brief: L06 (path — visited for inspection) |
@@ -3058,7 +3059,7 @@ That Priya might discover the deeper history. (She won't — her tools can't rea
 | Knowledge matrix respected (Priya: state tools only; no institutional awareness; smells something but can't name it) | **Pass** |
 | Character arc position (Priya: "needs to believe prevention still happens" — challenged; personal stake adds human weight) | **Pass** |
 | Relationship map inches only | **Pass** |
-| Timeline / Part XI (Thu 9 Apr 2026 = D11) | **Pass** |
+| Timeline / Part XI (Thu 11 Apr 2024 = D11) | **Pass** |
 | Production Manual rules | **Pass** |
 | Series Bible threads (P-POLICE advanced) | **Pass** |
 | No nuclear vocabulary | **Pass** |
@@ -3118,7 +3119,7 @@ Whether Priya's "something underneath" intuition will lead anywhere; whether pol
 | Field | Content |
 |-------|---------|
 | Residue into next chapter | Legal system engaged but impotent; both sides warned; wedding in 9 days under police shadow; reader uneasy about resolution path; Priya carries private file-anxiety |
-| Open clocks | P-POLICE (file open, no resolution); P-PATH (legal + social); P-WED (9 days, now with police shadow); wedding eve approaching (Ch12 = Fri 17 Apr) |
+| Open clocks | P-POLICE (file open, no resolution); P-PATH (legal + social); P-WED (9 days, now with police shadow); wedding eve approaching (Ch12 = Fri 19 Apr) |
 | Bible updates required after prose | P-POLICE advanced; Location L10 first appearance; Priya first full appearance; Notebook-arrows prop established (returns Ch27); Timeline D11 confirmed; ACT II OPENS; Priya private stake logged in Character State |
 
 ---
@@ -3164,7 +3165,7 @@ Signed: _______________ Date: _______________
 | Working title | Aligned Sandals |
 | Act | II |
 | POV | Meera Rao |
-| Story date | Fri 17 Apr 2026 |
+| Story date | Fri 19 Apr 2024 |
 | Time of day span | 5:00 p.m. → 10:30 p.m. |
 | Weather | Warm evening; tube-lights on early; courtyard cooling after day's heat |
 | Location(s) | L04 (Hegde courtyard/house — wedding-eve gathering) |
@@ -3211,7 +3212,7 @@ Performing cheerfulness for wedding eve; genuinely trying; aware of the path-vio
 **POV entering knowledge:**  
 Meera knows: the shove happened; police were involved (Ch11 — she heard Ramesh came back tight-lipped from the station); families are strained; tonight is wedding-eve gathering (both sides present — fragile truce for ceremony); she doesn't know the path's deep history; she doesn't know who Shankarappa is (first time noticing him).
 
-**Compressed Week Packet (Thu 9 Apr – Thu 16 Apr 2026) — mandatory; no new crisis in this window:**
+**Compressed Week Packet (Thu 9 Apr – Thu 18 Apr 2024) — mandatory; no new crisis in this window:**
 
 | Date | Meera's day (summary) |
 |------|------------------------|
@@ -3373,7 +3374,7 @@ That the "dull guest" is just an elder relative getting routine respect. (DEC-G:
 | Knowledge matrix respected (Meera: notices deference, gets name; no institutional knowledge; no function) | **Pass** |
 | Character arc position (Meera: curiosity activating; observer becoming alert) | **Pass** |
 | Relationship map inches only | **Pass** |
-| Timeline / Part XI (Fri 17 Apr 2026 = D12 wedding eve) | **Pass** |
+| Timeline / Part XI (Fri 19 Apr 2024 = D12 wedding eve) | **Pass** |
 | Production Manual rules | **Pass** |
 | Series Bible threads (P-GUEST opened; P-WED advanced) | **Pass** |
 | No nuclear vocabulary | **Pass** |
@@ -3485,7 +3486,7 @@ Signed: _______________ Date: _______________
 | Working title | Jasmine and Sweat |
 | Act | II |
 | POV | Ananya Hegde |
-| Story date | Sat 18 Apr 2026 |
+| Story date | Sat 110 Apr 2024 |
 | Time of day span | 5:30 a.m. → 1:00 p.m. |
 | Weather | Warm, humid; April heat; indoors muggy; fans working overtime |
 | Location(s) | L11 (marriage hall / wedding routes), L04 (Hegde house — early morning prep) |
@@ -3668,7 +3669,7 @@ None. This chapter delivers what was promised — the wedding.
 | Knowledge matrix respected (Ananya: civilian; knows families strained; no institutional knowledge) | **Pass** |
 | Character arc position (Ananya: "chooses ceremony anyway" — active agency, not passive bride) | **Pass** |
 | Relationship map appropriate (wedding = relationship milestone; Ananya–Karthik → 5) | **Pass** |
-| Timeline / Part XI (Sat 18 Apr 2026 = D13 = wedding day) | **Pass** |
+| Timeline / Part XI (Sat 110 Apr 2024 = D13 = wedding day) | **Pass** |
 | Production Manual rules | **Pass** |
 | Series Bible threads (P-WED → CLOSED KEPT) | **Pass** |
 | No nuclear vocabulary | **Pass** |
@@ -3776,7 +3777,7 @@ Signed: _______________ Date: _______________
 | Working title | Overturned Chair |
 | Act | II |
 | POV | Meera Rao |
-| Story date | Sun 19 Apr 2026 |
+| Story date | Sun 111 Apr 2024 |
 | Time of day span | 10:00 p.m. → 12:30 a.m. (into early Mon 20 Apr) |
 | Weather | Warm night; mosquitoes; post-wedding disarray |
 | Location(s) | L04 (Hegde house — post-wedding night; courtyard with leftover setup), L07 (Gowda courtyard mentioned) |
@@ -4068,7 +4069,7 @@ Signed: _______________ Date: _______________
 | Working title | Muddy Sandals |
 | Act | II |
 | POV | Ananya Hegde |
-| Story date | Mon 20 Apr 2026 |
+| Story date | Mon 22 Apr 2024 |
 | Time of day span | 3:00 p.m. → 5:30 p.m. |
 | Weather | Overcast; brief cloud cover; humid; ground slightly damp from morning moisture |
 | Location(s) | L06 (path — fields edge) |
@@ -4247,7 +4248,7 @@ None. This chapter corrects the assumption that intelligence can substitute for 
 | Knowledge matrix respected | **Pass** |
 | Character arc position (Meera: humbled; intelligence ≠ legitimacy) | **Pass** |
 | Relationship map appropriate | **Pass** |
-| Timeline / Part XI (Mon 20 Apr 2026 = D15) | **Pass** |
+| Timeline / Part XI (Mon 22 Apr 2024 = D15) | **Pass** |
 | Production Manual rules | **Pass** |
 | No nuclear vocabulary | **Pass** |
 | Invisible layer not protagonist | **Pass** |
@@ -4356,7 +4357,7 @@ Signed: _______________ Date: _______________
 | Working title | Specific Sentences |
 | Act | II |
 | POV | Meera Rao |
-| Story date | Tue 21 Apr 2026 |
+| Story date | Tue 23 Apr 2024 |
 | Time of day span | 4:00 p.m. → 6:30 p.m. |
 | Weather | Cloudy buildup; humidity thick; pre-storm weight; no rain yet |
 | Location(s) | L04 (Hegde courtyard — joint gathering; both families present) |
@@ -4575,7 +4576,7 @@ How Shankarappa knows what he knows. (Reader will suspect documents / official r
 | Character arc position (Meera: from humbled Ch15 → now witnessing what legitimate authority looks like — without naming it; chose to attend) | **Pass** |
 | Reveal Map R2 alignment (1962 terms precise; both flinch; transmission not eyewitness) | **Pass** |
 | Relationship map appropriate (dramatic shift in room dynamics; appropriate for 3-RP chapter) | **Pass** |
-| Timeline / Part XI (Tue 21 Apr 2026 = D16) | **Pass** |
+| Timeline / Part XI (Tue 23 Apr 2024 = D16) | **Pass** |
 | Production Manual rules (reveal delivered as character action, not exposition) | **Pass** |
 | Series Bible threads (P-1962 opened; P-GUEST advanced) | **Pass** |
 | No nuclear vocabulary (he doesn't name himself; no one labels him) | **Pass** |
@@ -4695,7 +4696,7 @@ Signed: _______________ Date: _______________
 | Working title | Cutting Leaf |
 | Act | II |
 | POV | Ramesh Hegde |
-| Story date | Wed 22 Apr 2026 |
+| Story date | Wed 24 Apr 2024 |
 | Time of day span | 7:00 a.m. → 3:00 p.m. |
 | Weather | Cloudy; humid; no rain; oppressive grey |
 | Location(s) | L15 (fields alone — Ramesh), L04 (back briefly — phone call zone) |
@@ -4982,7 +4983,7 @@ Signed: _______________ Date: _______________
 | Working title | Unsent Email |
 | Act | II |
 | POV | Nav (Naveen Krishnamurthy) |
-| Story date | Sat 25 Apr 2026 |
+| Story date | Sat 27 Apr 2024 |
 | Time of day span | 8:00 p.m. → 11:30 p.m. |
 | Weather | Bengaluru evening; warm; apartment lights; city hum |
 | Location(s) | L01 (city flat — Nav's apartment, not Meera's) |
@@ -5254,7 +5255,7 @@ Signed: _______________ Date: _______________
 | Working title | Scraping Chairs |
 | Act | II |
 | POV | Meera Rao |
-| Story date | Mon 27 Apr 2026 |
+| Story date | Mon 29 Apr 2024 |
 | Time of day span | 6:00 p.m. → 9:30 p.m. |
 | Weather | BLR: storm-cloud evening; wind; pre-monsoon energy |
 | Location(s) | L02 (apartment meeting hall / parking — AGM) |
@@ -5437,7 +5438,7 @@ Whether village and apartment governance are "the same thing" objectively — Me
 | Knowledge matrix respected for POV | **Pass** |
 | Character arc position matches Blueprint Part II/IX | **Pass** |
 | Relationship map inches, not jumps (Meera–Asha 2→3) | **Pass** |
-| Timeline / Part XI date honored (Mon 27 Apr 2026) | **Pass** |
+| Timeline / Part XI date honored (Mon 29 Apr 2024) | **Pass** |
 | Production Manual voice/scene/chapter rules honored | **Pass** |
 | Series Bible threads not wrongly closed | **Pass** (P-APT closed as designed) |
 | No nuclear vocabulary planned | **Pass** |
@@ -5546,7 +5547,7 @@ Signed: _______________ Date: _______________
 | Working title | Jasmine in Steel Bowl |
 | Act | II |
 | POV | Meera Rao |
-| Story date | Wed 29 Apr 2026 |
+| Story date | Wed 211 Apr 2024 |
 | Time of day span | 10:00 a.m. → 12:30 p.m. |
 | Weather | Humid; pre-monsoon haze; jasmine smells stronger in moisture |
 | Location(s) | L04 (Hegde house courtyard/kitchen) |
@@ -5844,7 +5845,7 @@ Signed: _______________ Date: _______________
 | Working title | Loudspeaker Distortion |
 | Act | II |
 | POV | Meera Rao |
-| Story date | Sun 10 May 2026 |
+| Story date | Sun 12 May 2024 |
 | Time of day span | 10:00 a.m. → 4:00 p.m. |
 | Weather | Pre-monsoon heat; dusty; bright; loudspeakers echoing off buildings |
 | Location(s) | L14 (jatre ground — temple fair / festival area) |
@@ -6142,7 +6143,7 @@ Signed: _______________ Date: _______________
 | Working title | Empty Guest Mat |
 | Act | II (closes) |
 | POV | Meera Rao |
-| Story date | Tue 12 May 2026 |
+| Story date | Tue 14 May 2024 |
 | Time of day span | 11:00 a.m. → **~3:30 p.m. departure locked** |
 | Weather | Humid; oppressive; storm building again; no rain |
 | Location(s) | L04 (Hegde courtyard), L05 (guest room — empty afterward) |
@@ -6449,7 +6450,7 @@ Signed: _______________ Date: _______________
 | Working title | WhatsApp Forward |
 | Act | III (opens) |
 | POV | Ramesh Hegde |
-| Story date | Wed 13 – Fri 15 May 2026 |
+| Story date | Wed 13 – Fri 17 May 2024 |
 | Time of day span | Multi-day compression (48–72 hrs of absence); **opens Wed 13 May morning-after guest left** |
 | Weather | Heat; dust wind; oppressive grey |
 | Location(s) | L04 (Hegde house), L06 (path — avoided), village at large |
@@ -6741,7 +6742,7 @@ Signed: _______________ Date: _______________
 | Working title | Dust on the Bag |
 | Act | III |
 | POV | Meera Rao |
-| Story date | Sat 16 May 2026 |
+| Story date | Sat 18 May 2024 |
 | Time of day span | 9:00 a.m. → 11:00 a.m. |
 | Weather | Dust wind; hot; gritty |
 | Location(s) | L13 (bus stand — taluk town), L12 (Farooq's store — adjacent) |
@@ -7025,7 +7026,7 @@ Signed: _______________ Date: _______________
 | Working title | Bad Knee |
 | Act | III |
 | POV | Meera Rao |
-| Story date | Sun 17 May 2026 |
+| Story date | Sun 19 May 2024 |
 | Time of day span | 8:00 a.m. → 12:00 p.m. |
 | Weather | First light rain (pre-monsoon shower overnight); morning fresh; wet earth smell |
 | Location(s) | L04 (Hegde courtyard / back porch edge) |
@@ -7322,7 +7323,7 @@ Signed: _______________ Date: _______________
 | Working title | Overlapping Footprints |
 | Act | III |
 | POV | Ananya Hegde |
-| Story date | Mon 18 May 2026 |
+| Story date | Mon 110 May 2024 |
 | Time of day span | 6:30 a.m. → 8:00 a.m. |
 | Weather | Rain overnight; wet morning; mud; fresh earth smell; mist clearing |
 | Location(s) | L06 (the path between fields) |
@@ -7594,7 +7595,7 @@ Signed: _______________ Date: _______________
 | Working title | Crooked Stamp |
 | Act | III |
 | POV | Inspector Priya Naik |
-| Story date | Tue 19 May 2026 |
+| Story date | Tue 111 May 2024 |
 | Time of day span | 10:00 a.m. → 1:00 p.m. |
 | Weather | Clearing after rain; bright midday; puddles drying in PS compound; warm breeze |
 | Location(s) | L10 (police station), L12 (Farooq's store — brief) |
@@ -7781,7 +7782,7 @@ Social peace preceded legal closure. Priya's tools could never reach the agreeme
 | Knowledge matrix respected for POV (Priya: state tools only; no network) | **Pass** |
 | Character arc position matches Blueprint (Priya closure; acceptance) | **Pass** |
 | Relationship map inches only | **Pass** |
-| Timeline / Part XI date honored (Tue 19 May 2026 = D30) | **Pass** |
+| Timeline / Part XI date honored (Tue 111 May 2024 = D30) | **Pass** |
 | Production Manual plan-compliant | **Pass** |
 | Series Bible threads not wrongly closed (P-DOC untouched per DEC-D) | **Pass** |
 | No nuclear vocabulary planned | **Pass** |
@@ -7900,7 +7901,7 @@ Signed: _______________ Date: _______________
 | Working title | Two Pages Signed |
 | Act | III |
 | POV | Nav (Naveen Krishnamurthy) |
-| Story date | Fri 29 May 2026 |
+| Story date | Fri 211 May 2024 |
 | Time of day span | 11:00 a.m. → 2:00 p.m. |
 | Weather | Bengaluru pre-monsoon showers; grey sky; café warmth; rain on windows |
 | Location(s) | L03 (office vicinity — neutral café; not Vikram's corridor) |
@@ -8084,7 +8085,7 @@ Urban mirror of village imperfect peace. Ch18 unsent letter = road not taken.
 | Knowledge matrix (Nav: corporate only) | **Pass** |
 | Character arc (Nav partial settlement complete) | **Pass** |
 | Relationship inches (Nav–Vikram 1→2) | **Pass** |
-| Timeline (Fri 29 May 2026 = D31) | **Pass** |
+| Timeline (Fri 211 May 2024 = D31) | **Pass** |
 | Production Manual compliant | **Pass** |
 | P-ESOP partial close authorized | **Pass** |
 | No nuclear vocabulary | **Pass** |
@@ -8198,7 +8199,7 @@ Signed: _______________ Date: _______________
 | Working title | Unfinished Sentence |
 | Act | III |
 | POV | Meera Rao |
-| Story date | Sat 30 May 2026 |
+| Story date | Sat 1 Jun 2024 |
 | Time of day span | 9:00 p.m. → 11:00 p.m. |
 | Weather | Humid night; onset showers outside; warm inside L05 |
 | Location(s) | L05 (Lakshmi's room — Meera visiting at night) |
@@ -8365,7 +8366,7 @@ R7: Lakshmi adjacent-aware. Civilian-adjacent understanding of Holder function: 
 | Knowledge matrix (Meera: frame not structure) | **Pass** |
 | Character arc (Meera humility; Lakshmi peak) | **Pass** |
 | Relationship Meera–Lakshmi → 5 earned | **Pass** |
-| Timeline (Sat 30 May 2026 = D32) | **Pass** |
+| Timeline (Sat 1 Jun 2024 = D32) | **Pass** |
 | Production Manual compliant | **Pass** |
 | P-LAK deepened not closed | **Pass** |
 | No nuclear vocabulary | **Pass** |
@@ -8481,11 +8482,11 @@ Signed: _______________ Date: _______________
 | Working title | Phone Glow |
 | Act | III (final chapter before Coda) |
 | POV | Meera Rao |
-| Story date | Mon 1 Jun 2026 |
+| Story date | Mon 3 Jun 2024 |
 | Time of day span | 6:00 a.m. → 11:00 a.m. |
 | Weather | Rain spatters; monsoon arriving; green smell; bus-window wet |
 | Location(s) | L04 (Hegde house — departure); L13 (bus stand — leaving); L06 (path — via photo only) |
-| Timeline references | D33; departure day; Shankarappa left quietly **Sat 30 May 2026** (~two days before Mon 1 Jun — ISS-25); night after Ch29 |
+| Timeline references | D33; departure day; Shankarappa left quietly **Sat 1 Jun 2024** (~two days before Mon 1 Jun — ISS-25); night after Ch29 |
 | Estimated word count | 2,600 |
 | Reveal Point spend | 0 |
 | Cumulative RP after this chapter | 13 |
@@ -8659,7 +8660,7 @@ Shankarappa left Sat 30 May when function complete. Meera may return as series b
 | Conversation memory | Ch29 sentence internal — not repeated aloud to family | Pass |
 | Sleep / fatigue | Short night after Ch29 | Pass |
 | Money / refusal of money | Bus fare; change | Pass |
-| **ISS-25 Shankarappa leave date** | **Left quietly Sat 30 May 2026** — two days before Mon 1 Jun departure morning | **Pass** |
+| **ISS-25 Shankarappa leave date** | **Left quietly Sat 1 Jun 2024** — two days before Mon 1 Jun departure morning | **Pass** |
 
 ---
 
@@ -8672,7 +8673,7 @@ Shankarappa left Sat 30 May when function complete. Meera may return as series b
 | Knowledge matrix | **Pass** |
 | Meera arc (exile → belonging → grief departure) | **Pass** |
 | Relationships inch (Ramesh 3→4) | **Pass** |
-| Timeline Mon 1 Jun 2026 = D33 | **Pass** |
+| Timeline Mon 3 Jun 2024 = D33 | **Pass** |
 | P-LEAVE close | **Pass** |
 | DEC-J Shankarappa not death | **Pass** |
 | DEC-J Meera return door open | **Pass** |
@@ -8752,7 +8753,7 @@ Not death. Meera may return — don't close series protagonist door. No "never a
 | Change | Source |
 |--------|--------|
 | Stub §§5–12 full Appendix A expansion | ISS-01 |
-| Shankarappa departure **Sat 30 May 2026** locked §1, §3, §4, §8, §10 | ISS-25 |
+| Shankarappa departure **Sat 1 Jun 2024** locked §1, §3, §4, §8, §10 | ISS-25 |
 | Bookends: cheek Ch6, blankets Ch6, sandals Ch12, path photo Ch26 | ISS-21 |
 | DEC-J work-complete not death; Meera return bridge | DEC-J |
 | DEC-A Ramesh nod payoff | DEC-A + ISS-04 zone |
@@ -8791,7 +8792,7 @@ Signed: _______________ Date: _______________
 | Working title | Already Walking On |
 | Act | Coda |
 | POV | Meera Rao |
-| Story date | Thu 5 Jun 2026 |
+| Story date | Thu 7 Jun 2024 |
 | Time of day span | 6:15 p.m. → 6:45 p.m. |
 | Weather | City rain; monsoon; evening; metro station light; wet asphalt |
 | Location(s) | L16 (Bengaluru street/metro) |

@@ -1,0 +1,299 @@
+[
+  {
+    "file": "Draft 6.md",
+    "chapter": "Header",
+    "before": "**Draft 5 — Production Lock**\n\n**Chapter 1 canonical source:** `Book 1 - The Path Between.docx` (Resident Parking Slot #B-2 / Security overnight pass plot). Draft 5 Ch1 synchronized to DOCX; do not reintroduce Visitor Bay conflict.",
+    "after": "**Draft 6 — Final Production Fix**\n\n**Source:** Draft 5 — Production Lock.\n**Chapter 1 parking lock unchanged:** Resident Parking Slot #B-2 / Security overnight pass / Visitor Parking (Visitor Bay conflict retired).\n**Scope:** Objective continuity, timeline, geography, kinship, copyedit, and formatting fixes only. No prose polish.",
+    "reason": "Identify Draft 6 as final production-fix manuscript",
+    "kind": "Production formatting",
+    "occurrences": 1
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "Ch7",
+    "before": "He nodded. Flat. No space to greet properly, no warmth left in the register that said *welcome, daughter's daughter*.",
+    "after": "He nodded. Flat. No space to greet properly, no warmth left in the register that said *welcome, sister's daughter*.",
+    "reason": "Ramesh is Meera's mama; she is niece/sister's daughter, not granddaughter.",
+    "kind": "Character",
+    "occurrences": 1
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "Ch28",
+    "before": "Friday afternoon in a village four hundred kilometres away",
+    "after": "Friday afternoon in a village a hundred and fifty kilometres away",
+    "reason": "Fit Ch6 3.5h Maddur-route bus (~150 km); 400 km impossible.",
+    "kind": "Geography",
+    "occurrences": 1
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "Ch28",
+    "before": "Somewhere four hundred kilometres away Meera was folding clothes",
+    "after": "Somewhere a hundred and fifty kilometres away Meera was folding clothes",
+    "reason": "Same distance lock.",
+    "kind": "Geography",
+    "occurrences": 1
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "Ch29",
+    "before": "The guest room down the corridor empty since Saturday morning — he had returned once after the first leaving, then gone again without announcement — mat rolled, threshold bare, the silence of a room between occupants.",
+    "after": "The guest room down the corridor empty since Saturday afternoon — he had returned once after the first leaving, then gone again without announcement — mat rolled, threshold bare, the silence of a room between occupants.",
+    "reason": "Align second exit with Ch22 afternoon-rest pattern.",
+    "kind": "Timeline",
+    "occurrences": 1
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "Ch29",
+    "before": "Shankarappa's room empty since morning. The aligned chappals gone from the threshold.",
+    "after": "Shankarappa's room empty since Saturday afternoon. The aligned chappals gone from the threshold.",
+    "reason": "Same second-departure lock.",
+    "kind": "Timeline",
+    "occurrences": 1
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "Ch30",
+    "before": "Blankets on the bed, neat, waiting. The room empty since Saturday morning, mat rolled, no naphthalene ghost strong enough to announce absence, just the faint residue of stored cotton and a room between occupants.",
+    "after": "Blankets on the bed, neat, waiting. The room empty since Saturday afternoon, mat rolled, no naphthalene ghost strong enough to announce absence, just the faint residue of stored cotton and a room between occupants.",
+    "reason": "Same second-departure lock.",
+    "kind": "Timeline",
+    "occurrences": 1
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "Ch30",
+    "before": "Clean. No chappals aligned with geometric precision. No rubber soles pointing the same direction while everyone else's sandals lay in chaos. Saturday morning. He had left quietly again, afternoon rest, house blind, the lane empty, and the spot had stayed empty since.",
+    "after": "Clean. No chappals aligned with geometric precision. No rubber soles pointing the same direction while everyone else's sandals lay in chaos. Saturday afternoon. He had left quietly again during afternoon rest, house blind, the lane empty, and the spot had stayed empty since.",
+    "reason": "Remove morning vs afternoon-rest collision.",
+    "kind": "Timeline",
+    "occurrences": 1
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "Ch1",
+    "before": "Divya had parked that this morning.",
+    "after": "She had parked it that morning.",
+    "reason": "Meera parked Divya's car; restore grammar and correct agency.",
+    "kind": "Grammar",
+    "occurrences": 1
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "Ch1",
+    "before": "She came back down, the key fisted in her hand. She unlocked Divya's car under Asha's still bright phone,",
+    "after": "She came back down, the key fisted in her hand. She unlocked Divya's car under Asha's still-bright phone,",
+    "reason": "Hyphenate still-bright; sentence already repaired with subject.",
+    "kind": "Copyediting",
+    "occurrences": 1
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "Ch18",
+    "before": "She was in the village. Two days ago her text had appeared on his screen: *Things wild here. Tell you later.*",
+    "after": "She was in the village. Days ago her text had appeared on his screen: *Things wild here. Tell you later.*",
+    "reason": "Remove false two-day precision without weekday lock on Ch16 send.",
+    "kind": "Timeline",
+    "occurrences": 1
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "Ch18",
+    "before": "Meera's thread sat below. *Things wild here. Tell you later.* Two days old.",
+    "after": "Meera's thread sat below. *Things wild here. Tell you later.* Days old.",
+    "reason": "Same timeline precision fix.",
+    "kind": "Timeline",
+    "occurrences": 1
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "Ch29",
+    "before": "Gayatri once, at the jatre edge.",
+    "after": "Gayatri once, in the courtyard with jasmine.",
+    "reason": "Gayatri visit is Ch20 courtyard, not jatre.",
+    "kind": "Continuity",
+    "occurrences": 1
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "Ch11",
+    "before": "The fan continued losing.",
+    "after": "The fan continued losing the fight against the heat.",
+    "reason": "Complete truncated phrase.",
+    "kind": "Grammar",
+    "occurrences": 1
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "Ch10",
+    "before": "Hot wind already moving across the fields. Not cooling. Just moving. Carrying dust and the pre-monsoon pressure that made everything feel charged and unfinished, sky pale, mist burned off, birds starting their work-song as if someone had switched them on. A distant pump coughed and failed and coughed again. Somewhere a dog barked once and thought better of it. His field gate opened with the squeal he had been meaning to fix since last monsoon.",
+    "after": "Hot wind already moving across the fields. Not cooling. Just moving. Carrying dust and the pre-monsoon pressure that made everything feel charged and unfinished, sky pale, mist burned off. Birds worked the margins. A distant pump coughed and failed and coughed again. Somewhere a dog barked once and thought better of it. His field gate opened with the squeal he had been meaning to fix since last monsoon.",
+    "reason": "Remove near-duplicate Ch4 dawn-chorus phrasing.",
+    "kind": "Continuity",
+    "occurrences": 1
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "Ch10",
+    "before": "Red earth under chappals, packed hard by decades of feet and cart wheels and the stubbornness of routes that existed before anyone needed a sentence to defend them. To his right, Hegde cane, his cane, stood in rows that would need water soon. To his left, beyond the wire, Gowda land began with the same crop and a different accounting of pride. Between them, the path: narrow enough to keep a man honest, or it had been, until the wire moved.",
+    "after": "Red earth under chappals, packed hard by decades of feet and cart wheels. To his right, Hegde cane, his cane, stood in rows that would need water soon. To his left, beyond the wire, Gowda land began with the same crop and a different accounting of pride. Between them, the path: narrow enough to keep a man honest, or it had been, until the wire moved.",
+    "reason": "Trim Ch4-echo path block.",
+    "kind": "Continuity",
+    "occurrences": 1
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "Ch10",
+    "before": "Since the wire, these walks had become patrols. Since the tea meeting, waiting. He checked the wire each morning the way other men checked crop, looking for wrongness without wanting to find it, finding it anyway. Wedding in ten days sat behind his thoughts like a date circled in someone else's handwriting. The field was older than alliance.",
+    "after": "Since the wire, these walks had become patrols. Since the tea meeting, waiting. He checked the wire each morning the way other men checked crop, expecting fresh insult and hoping not to find it. Wedding in ten days. The field was older than alliance.",
+    "reason": "Remove duplicate Ch4 wrongness/date-circled phrasing.",
+    "kind": "Continuity",
+    "occurrences": 1
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "Ch23",
+    "before": "He went to Farooq's store mid-morning because he needed soap and because leaving the house was sometimes easier than staying in it.",
+    "after": "The coconut pickle had gone to the Gowda side two days earlier; the jar had come back empty with a brief thank-you that meant more than the words. Conciliation in chili and coconut, still standing while everything else frayed.\n\nHe went to Farooq's store mid-morning because he needed soap and because leaving the house was sometimes easier than staying in it.",
+    "reason": "Close Ch20 planted pickle-conciliation thread.",
+    "kind": "Continuity",
+    "occurrences": 1
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "Ch19",
+    "before": "Meera arrived late because traffic in Bengaluru did not care that she had already given this city a night on a bus seat that had memorized her spine.",
+    "after": "Meera arrived late because traffic in Bengaluru did not care that she had already given this city a night on a bus seat that had memorized her spine — Sunday night out of the village, after the courtyard and the fields and the week that would not fit in a status update.",
+    "reason": "Make village→BLR Sunday-night return explicit.",
+    "kind": "Timeline",
+    "occurrences": 1
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "Ch1",
+    "before": "phone facedown later",
+    "after": "phone face-down later",
+    "reason": "Hyphenation consistency.",
+    "kind": "Copyediting",
+    "occurrences": 1
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "Multiple",
+    "before": "(US spelling outliers)",
+    "after": "(British/Indian spelling)",
+    "reason": "Consistent British/Indian English.",
+    "kind": "Copyediting",
+    "occurrences": "batch"
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "Ch12",
+    "before": "tea cup",
+    "after": "teacup",
+    "reason": "Compound consistency.",
+    "kind": "Copyediting",
+    "occurrences": 1
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "# Chapter 7",
+    "before": "(no ---)",
+    "after": "--- before chapter",
+    "reason": "Chapter break formatting.",
+    "kind": "Production formatting",
+    "occurrences": 1
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "# Chapter 13",
+    "before": "(no ---)",
+    "after": "--- before chapter",
+    "reason": "Chapter break formatting.",
+    "kind": "Production formatting",
+    "occurrences": 1
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "# Chapter 19",
+    "before": "(no ---)",
+    "after": "--- before chapter",
+    "reason": "Chapter break formatting.",
+    "kind": "Production formatting",
+    "occurrences": 1
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "# Chapter 25",
+    "before": "(no ---)",
+    "after": "--- before chapter",
+    "reason": "Chapter break formatting.",
+    "kind": "Production formatting",
+    "occurrences": 1
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "Ch30",
+    "before": "## S02 — Phone Glow",
+    "after": "## S02 — She Carried It",
+    "reason": "Avoid duplicate scene/chapter title.",
+    "kind": "Production formatting",
+    "occurrences": 1
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "Ch11",
+    "before": "Notebook with arrows pointing toward a centre that had no label. Priya's pen hovering. Sweat on the page.",
+    "after": "(removed)",
+    "reason": "Remove in-scene compressed replay duplicating prior three beats.",
+    "kind": "Continuity",
+    "occurrences": 1
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "Header",
+    "before": "# The Path Between\n\n**Draft 6 — Final Production Fix**\n\n**Source:** Draft 5 — Pr",
+    "after": "# The Path Between\n\n**Draft 6**\n\n---",
+    "reason": "Strip production meta from reader-facing manuscript.",
+    "kind": "Production formatting",
+    "occurrences": 1
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "Ch16",
+    "before": "Saroja forgotten her logistics entirely",
+    "after": "Saroja had forgotten her logistics entirely",
+    "reason": "Missing auxiliary had.",
+    "kind": "Grammar",
+    "occurrences": 1
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "Ch29",
+    "before": "Shankarappa's room empty since Saturday afternoon. The aligned chappals gone from the threshold.",
+    "after": "Shankarappa's room empty since Saturday afternoon. The chappals gone again from the threshold.",
+    "reason": "Avoid conflating second-exit empty threshold with wedding-eve aligned-chappals image.",
+    "kind": "Continuity",
+    "occurrences": 1
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "Multiple",
+    "before": "(honor/rumor/favoring/memorized/organize/recognized/chili)",
+    "after": "(British equivalents)",
+    "reason": "Complete British/Indian spelling consistency.",
+    "kind": "Copyediting",
+    "occurrences": 1
+  },
+  {
+    "file": "Draft 6.md",
+    "chapter": "Multiple",
+    "before": "an Hegde",
+    "after": "a Hegde",
+    "reason": "Article before consonant sound.",
+    "kind": "Grammar",
+    "occurrences": 1
+  }
+]

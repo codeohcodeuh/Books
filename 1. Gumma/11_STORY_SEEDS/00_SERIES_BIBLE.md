@@ -1,9 +1,11 @@
 # Gumma Universe — Series Bible
 **Version:** 0.1  
 **Status:** Provisional — Operational (Storytelling)  
-**Last Reviewed:** 2026-08-02  
+**Last Reviewed:** 2026-08-07  
 **Authority:** Storytelling operations. Does **not** override canon.  
-**Constitutional reference:** `01_FOUNDATIONS/*`, `00_CANON/*`
+**Constitutional reference:** `01_FOUNDATIONS/*`, `00_CANON/*`  
+**Book 1 master:** `Draft 7.md` (Character Arc Pass)  
+**Character ops companions:** `BOOK_01/06_LEDGERS/CHARACTER_STATE.md` · `RELATIONSHIP.md` · `15_CHARACTER_TIMELINE.md`
 
 ---
 
@@ -65,10 +67,10 @@ Civilization survives because someone remembers.
 | Year | Event | Book |
 |------|-------|------|
 | ~2003 | Meera (age ~10) witnesses a quiet man end a courtyard shout; forgets | 1 (echo) |
-| 1962 | Path understanding between Hegde & Gowda forebears (oral) | 1 (recalled) |
+| 1962 | Path understanding between Hiregowda & Marigowda forebears (oral) | 1 (recalled) |
 | 2021 | Nav receives oral ESOP clarity promise in a car | 1 |
-| 25 Mar–5 Jun 2026 | Main action of Book 1 (wedding 18 Apr; jatre 10 May) | 1 |
-| After Jun 2026 | Open future; characters age forward | 2+ |
+| 27 Mar–2 Jun 2024 | Main action of Book 1 (wedding 20 Apr; jatre 12 May) | 1 |
+| After Jun 2024 | Open future; characters age forward | 2+ |
 
 **Historical canon backdrop (not plotted yet):** Founding 1311–1336; nine Houses; House 1 Deccan oldest. Do not dump into novels.
 
@@ -85,26 +87,26 @@ Civilization survives because someone remembers.
 
 ### Book 1 Principals
 
-| ID | Name | Born (approx) | Age in 2026 | Status | POV | Recurring | Notes |
+| ID | Name | Born (approx) | Age in 2024 | Status | POV | Recurring | Notes |
 |----|------|---------------|-------------|--------|-----|-----------|-------|
-| B01-C01 | Meera Rao | 1993–94 | 32 | C | Y | Y | Primary bridge character |
-| B01-C02 | Ramesh Hegde | 1967–68 | 58 | C | Y | Probable | Uncle; path dispute |
-| B01-C03 | Ananya Hegde | 2001–02 | 24 | C | Limited | Possible | Bride; teacher |
-| B01-C04 | Naveen Krishnamurthy (“Nav”) | 1991–92 | 34 | C | Y | Possible | Urban oral-promise mirror |
-| B01-C05 | Dr. Suresh Bhat | 1978–79 | 47 | C | Sparse | Probable | Misdirection magnet; not G |
-| B01-C06 | Insp. Priya Naik | 1986–87 | 39 | C | Sparse | Possible | State incompleteness |
-| B01-C07 | Lakshmi Hegde | 1951–52 | 74 | Adj/C | Sparse | Y | Pattern-aware; not confirmed G |
-| B01-G01 | Shankarappa | 1959–60 | 66 | G-Holder (H1) | Minimal | TBD | Never named as Gumma |
-| B01-G02 | Gayatri | 1981–82 | 44 | G-Connector (H1) | No | Probable B2 | Timing; tea-stall ecology |
-| B01-G03 | Unnamed traveler | ~1975 | ~50 | G-Walker? | No | Maybe | One message beat |
+| B01-C01 | Meera Rao | 1993–94 | 30 | C | Y | Y | Primary bridge character |
+| B01-C02 | Ramesh Hiregowda | 1967–68 | 56 | C | Y | Probable | Maternal uncle to Meera (Ramesh-mama); Appa to Ananya; path dispute; prose surname **Hiregowda** |
+| B01-C03 | Ananya Hiregowda | 2001–02 | 22 | C | Limited | Possible | Bride; teacher |
+| B01-C04 | Naveen Krishnamurthy | 1991–92 | 32 | C | Y | Possible | Urban oral-promise mirror; prose uses **Naveen** only |
+| B01-C05 | Dr. Suresh Bhat | 1978–79 | 45 | C | Sparse | Probable | Misdirection magnet; not G |
+| B01-C06 | Insp. Priya Naik | 1986–87 | 37 | C | Sparse | Possible | State incompleteness |
+| B01-C07 | Lakshmi Hiregowda | 1951–52 | 72 | Adj/C | Sparse | Y | Pattern-aware; not confirmed G |
+| B01-G01 | Shankarappa | 1959–60 | 64 | G-Holder (H1) | Minimal | TBD | Never named as Gumma |
+| B01-G02 | Gayatri | 1981–82 | 42 | G-Connector (H1) | No | Probable B2 | Timing; tea-stall ecology |
+| B01-G03 | Unnamed traveler | ~1975 | ~49 | G-Walker? | No | Maybe | One message beat |
 
 ### Book 1 Supporting (abbreviated)
 
 | ID | Name | Status | Notes |
 |----|------|--------|-------|
-| B01-C08 | Saroja Hegde | C | Meera’s mother |
-| B01-C09 | Venkatesh Gowda | C | Counterpart father; not villain |
-| B01-C10 | Karthik Gowda | C | Groom (≠ Nav’s world) |
+| B01-C08 | Saroja Hiregowda | C | Meera’s mother |
+| B01-C09 | Venkatesh Marigowda | C | Counterpart father; not villain |
+| B01-C10 | Karthik Marigowda | C | Groom (≠ Naveen’s world) |
 | B01-C11 | Revathi | C | Wedding logistics |
 | B01-C12 | Farooq | C | Shop; message node unknowingly |
 | B01-C13 | Asha | C | Apt secretary |
@@ -120,11 +122,11 @@ Civilization survives because someone remembers.
 
 | ID | Place | Region | House territory (canon) | Books | Notes |
 |----|-------|--------|-------------------------|-------|-------|
-| L01 | Hegde house / fields / **the path** | Near Maddur, Mandya dt., KA | House 1 | 1 | Central image |
-| L02 | Gowda house | Adjacent | House 1 | 1 | |
+| L01 | Hiregowda house / fields / **the path** | Near Maddur, Mandya dt., KA | House 1 | 1 | Central image |
+| L02 | Marigowda house | Adjacent | House 1 | 1 | |
 | L03 | Taluk town (clinic, station, stores) | Mandya belt | House 1 | 1 | |
-| L04 | HSR Layout flat + apt society | Bengaluru | House 1 urban edge | 1+ | |
-| L05 | Meera’s office (Koramangala/HSR corridor) | Bengaluru | — | 1 | |
+| L04 | Malleshwaram flat + apt society (resident slots + Visitor Parking) | Bengaluru | House 1 urban edge | 1+ | Book 1 Ch1 lock: Resident Slot #B-2 / Security overnight pass. HSR retired for Meera’s flat. |
+| L05 | Meera’s office (Bengaluru tech corridor) | Bengaluru | — | 1 | |
 | L06 | Mysuru (son’s flat) | KA | House 1 | 1 brief | |
 | L07 | Temple fair / jatre ground | Local | House 1 | 1 | Lock exact festival in draft |
 
@@ -140,12 +142,13 @@ Civilization survives because someone remembers.
 | T02 | Who trained Shankarappa? | B1 hint only | Open | Later |
 | T03 | Gayatri ↔ Shankarappa link | B1 ambiguous | Open | B2 |
 | T04 | Lakshmi’s stopped sentence | B1 | Open | B2/B3 |
-| T05 | Coda city stranger | B1 | Irreducible ambiguity | B2 optional |
-| T06 | Rohan’s unfinished article | B1 | Open | B2/B3 |
-| T07 | Nav’s remaining unpapered value | B1 | Partially open | Optional |
-| T08 | Meera’s belonging | B1 | Softened, not solved | Series |
+| T05 | Coda city stranger | B1 planned | **Unwritten in Draft 7** | B2 optional |
+| T06 | Rohan’s unfinished article | B1 | Open (Meera closed door Ch21) | B2/B3 |
+| T07 | Naveen’s remaining unpapered value | B1 | Partially open (Ch28) | Optional |
+| T08 | Meera’s belonging | B1 | Softened, not solved; carry | Series |
 | T09 | Dr. Suresh’s off-page text | B1 | Open (reader may over-read) | Optional misdirection retirement |
-| T10 | Traveler’s message network | B1 | Open | Later |
+| T10 | Traveler’s message network | B1 | Open (Ch24) | Later |
+| T11 | Meera–Naveen verbal reunion | B1 | Deferred; parallel *later* only | B2 optional |
 
 ---
 
@@ -178,7 +181,7 @@ Civilization survives because someone remembers.
 
 | Character | Knows pattern exists? | Knows organization? | Knows name Gumma? |
 |-----------|----------------------|---------------------|-------------------|
-| Meera | Suspects / feels | No | No |
+| Meera | Suspects / feels; active concealment (Ch14, 21, 24) | No | No |
 | Ramesh | Practical yes | No | No |
 | Ananya | Mild | No | No |
 | Lakshmi | Yes (long) | Unclear even to her | No on-page |
@@ -187,7 +190,7 @@ Civilization survives because someone remembers.
 | Rohan | Hunts story | No | No |
 | Shankarappa | Yes | Yes | Yes (never speaks it) |
 | Gayatri | Yes | Yes | Yes (never speaks it) |
-| Nav / Asha | No | No | No |
+| Naveen / Asha | No | No | No |
 
 ---
 
@@ -223,7 +226,7 @@ Civilization survives because someone remembers.
 
 *Advance when Book 2 year locks.*
 
-| Character | B1 (2026) | B2 (TBD) | B3 (TBD) |
+| Character | B1 (2024) | B2 (TBD) | B3 (TBD) |
 |-----------|-----------|----------|----------|
 | Meera | 32 | | |
 | Ramesh | 58 | | |
@@ -268,3 +271,6 @@ This bible is a living desk document. After every chapter draft, update: reveals
 
 Canon tells us what the Gumma are.  
 This bible tells us what the reader has been allowed to see — and what ordinary people are still busy living through while the invisible layer does its quiet work.
+
+| 2026-08-04 | Draft 6 production sync: Malleshwaram; Naveen naming; Ramesh kinship clarified; Coda marked unwritten |
+| 2026-08-07 | Timeline Pass: Book 1 present → **2024**; wedding Sat 20 Apr; ages column Age in 2024; sequel window After Jun 2024 |

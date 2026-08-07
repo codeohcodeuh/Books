@@ -19,7 +19,7 @@
 | Working title | Already Walking On |
 | Act | Coda |
 | POV | Meera Rao |
-| Story date | Thu 5 Jun 2026 |
+| Story date | Thu 7 Jun 2024 |
 | Time of day span | 6:15 p.m. → 6:45 p.m. |
 | Weather | City rain; monsoon; evening; metro station light; wet asphalt |
 | Location(s) | L16 (Bengaluru street/metro) |
