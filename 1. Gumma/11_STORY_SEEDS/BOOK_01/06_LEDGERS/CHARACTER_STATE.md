@@ -1,6 +1,6 @@
 # Character Bible / State Ledger — Book 1
-**Master:** `Draft 7.md`  
-**Last updated:** 2026-08-07 (Character Arc Pass)  
+**Master:** `Draft 8.md` (baseline: Draft 7)  
+**Last updated:** 2026-08-07 (Continuity Pass)  
 **Calendar:** 2024  
 **Surnames in prose:** Hiregowda / Marigowda (not Hegde/Gowda)
 
@@ -12,7 +12,7 @@
 | Saroja | Meera’s mother (Amma); Ananya’s aunt (*Saroja-auntie*); Ramesh’s sister |
 | Ramesh | Ananya’s father (Appa); Meera’s maternal uncle (Ramesh-mama); greets Meera as *sister's daughter* |
 | Ananya | Ramesh’s daughter; Meera’s cousin; bride → Karthik’s wife |
-| Lakshmi | Elder / ajji generation in Hiregowda house |
+| Lakshmi | Elder / ajji; **Saroja’s mother**; Meera’s maternal grandmother (not aunt) |
 | Meera’s father | Absent; does not attend wedding (Ch3) |
 | Venki / Venkatesh | Marigowda counterpart father; Karthik’s side |
 | Karthik | Groom; Ananya’s husband (≠ Naveen) |
@@ -67,7 +67,7 @@
 Opaque steadiness → courtyard speech → *I'm no one's man* → *I cannot prove* → gone. **No explanatory lines added.** P-GUEST open for series.
 
 ### Lakshmi Hiregowda
-Warmth + sealed rooms → *He keeps things from becoming police* → unfinished *By—* → cheek-touch. **P-LAK open.** Do not finish sentence.
+Warmth + sealed rooms → *He keeps things from becoming police* → unfinished *By—* → cheek-touch. **Maternal grandmother (ajji)** to Meera; Saroja’s mother. **P-LAK open.** Do not finish sentence. Do not call her Meera’s aunt.
 
 ### Saroja Hiregowda
 Logistics love / enforcement → pickle conciliation channel (Ch20) → forward panic (Ch23). High agency in kitchen/committee; chooses not to press Ramesh after Ch7 tea (*Fine*).
@@ -87,6 +87,36 @@ Alliance face → path dismisser → proxy shove → diminished by 1962 terms �
 | Vikram | Warm emptiness; sufficient |
 | Rohan | Near-discovery; closed door. Thread open for series |
 | Traveler | One message beat. **P-MSG open** |
+
+---
+
+## Dialogue voice profiles (Dialogue and Voice Pass)
+
+Major speakers must not sound interchangeable. Prefer authentic rhythm over cleverness; cut exposition that belongs in narration.
+
+| Character | Vocabulary / rhythm | Humour / affect | Behavioural note from dialogue |
+|-----------|---------------------|-----------------|--------------------------------|
+| **Meera** | Concrete nouns first; self-interrupts; city understatement | Dry, private; rarely jokes aloud | Stops herself mid-mediation (Ch15); short Rohan lie (Ch21); does not finish Lakshmi |
+| **Ramesh** | Nouns and land words; short refusals; *Fine* as seal | Almost none in public; shame stays in body | Speaks claim as fact (*All fathers…*); typed-deleted Venki text (Ch23) |
+| **Ananya** | Soft, walking pace; splits hard truths into two beats | Warm without speeches | Walk line: leave vs care (Ch15); half-step then stop at circle |
+| **Naveen** | Fragmented when stressed; tech/office residue; unfinished *later* | Self-deprecating, thin | 2021 recap as broken pieces (Ch2); erases *To:* (Ch18) |
+| **Saroja** | Staccato logistics; commands; kitchen nouns | Practical edge, not jokes | Pickle as route (Ch20); phone panic as question blast (Ch23) |
+| **Venki** | Blunt path claim; alliance face; fewer proverbs | Surface ease that hardens | Cup glance before exit (Ch7); diminished after 1962 terms |
+| **Lakshmi** | Soft seals; unfinished sentences; guest protection | Quiet humour of habit | *He's a guest. Sleep now.* (Ch12) — no “old family” gloss |
+| **Shankarappa** | Minimal; locked lines only | None | No added explanation; *I'm no one's man* / *I cannot prove* |
+| **Farooq** | Shopkeeper brevity; merchant nouns | Dry local | Short traveler / *Quiet now* beats |
+| **Asha** | Pass language; parking competence | Mild office irony | Short pass lines (Ch1/19); no goodwill thesis |
+| **Revathi** | Breathless henna/pressure lists | Nervous social | Pressure as cascade (Ch5); route with Saroja (Ch20) |
+| **Gayatri** | One settling question; timing competence | Soft deflect | Does not explain pickle seed |
+| **Priya** | Institutional calm; file nouns | None on record | *Quiet now* with Farooq |
+| **Rohan** | Probe without aphorism | Journalist lightness checked | Near-discovery; closed door |
+| **Elder / drunk / Subbanna** | One-beat village speech | Rough or honor-formal | Elder: *Settled… Common path.*; Subbanna: one honor beat then lock |
+
+### Voice collisions avoided
+- Ramesh ≠ Venki (nouns/refusal vs claim/surface ease; not mirrored proverbs in Ch16).
+- Meera ≠ Ananya (self-stop / concrete vs walking generosity).
+- Saroja ≠ Revathi (command vs cascade).
+- Naveen ≠ Rohan (fragment / erase vs probe).
 
 ---
 

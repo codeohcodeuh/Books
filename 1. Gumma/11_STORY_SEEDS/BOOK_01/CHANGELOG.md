@@ -1,6 +1,233 @@
 # CHANGELOG — Book 1 (*The Path Between*)
-**Current master:** `Draft 7.md` — Character Arc Pass  
-**Prior:** Reader Psychology Pass
+**Current master:** `Draft 8.md` — Momentum Engineering Pass  
+**Baseline:** `Draft 7.md` — Invisible Page (locked; do not edit)  
+**Prior:** Human Author Pass
+
+---
+
+## 2026-08-07 — Draft 8 Pass 1 · Momentum Engineering
+
+**Mode:** Increase inability to stop reading. Preserve Draft 7 literary soul. No melodrama, no thriller twists, no artificial cliffhangers. Diagnose valleys before editing; smallest revision only.
+
+**Words:** ~40.2k (from ~41.8k) — net cut via enter-later / leave-earlier; peaks untouched.
+
+### Valleys repaired
+| Valley | Diagnosis | Change |
+|--------|-----------|--------|
+| Ch6→7 | Soft sleep-complete | Ending leaves house still deciding |
+| Ch8 | Cool clinic; thesis close | Enter mid-arrival; trim reflection; end on unread message |
+| Ch9 | Soft vignette complete | End on pending banner + held sentence |
+| Ch11 | Procedural notebook shut | Pen still open; blank centre held |
+| Ch17 | Post-peak shame replay | Compress field reflection; Arjun ask stays open |
+| Ch18 | Tomorrow-enumeration closure | Cut futures list; two laters only |
+| Ch19 | “Fight over” comfort | Drop truce declaration; *Reply later* debt held |
+| Ch20 | Long tea; soft bowl close | Enter later; end on pickle tomorrow + unfinished Lakshmi call |
+| Ch21 | Afternoon lie-processing | Cut stall overhang; lie unfinished in auto |
+| Ch22→23 | Rolled-mat still life | Doorway wait for sound that doesn’t come |
+| Ch23 | Rumor dump + thesis close | Compress; end on unpressed call |
+| Ch24 | Architecture lecture after traveler | Cut anonymity essay; question stays |
+
+### Protected (untouched)
+Ch13–16 · Ch25–26 · Ch27–30 peaks/locked lines · continuity facts · surnames · calendar
+
+### Docs
+`10_PRODUCTION_LOCK_NOTES.md` · `14_CHAPTER_SUMMARIES.md` · `13_STORY_MAP.md` · this CHANGELOG
+
+---
+
+## 2026-08-07 — Draft 7 Final Publisher QA
+
+**Mode:** Acquisition-level editorial review only. No manuscript rewrite.
+
+### Verdict
+Revise → Draft 8 (length strategy + valley repair) → then submit. Literary peaks acquisition-grade; commercial as-is conditional (~42k + mid-book cool zones).
+
+### Deliverable
+Canvas: `draft7-publisher-qa.canvas.tsx` (chapter scores × 10 dimensions · strengths · weaknesses · publication risks · Draft 8 recommendations)
+
+### Docs
+`10_PRODUCTION_LOCK_NOTES.md` · this CHANGELOG
+
+---
+
+## 2026-08-07 — Draft 7 Invisible Page Pass
+
+**Mode:** Make every page effortless. Readers inhabit the story, not the writing. Cut only what slows momentum without emotional value. Preserve quality. Protect locked peaks.
+
+### Thinned (examples)
+| Ch | What left |
+|----|-----------|
+| 1 | Ornamental fan / “private theatre” |
+| 2 | Corridor photograph / culture-deck shoulder gloss |
+| 5 | Ending knuckle/weather flourish |
+| 6 | Arrival sensory stack; logistics-as-love thesis; water-vessel simile |
+| 7 | Eagerness-chain opener; ants/philosophy/slap thesis; kitchen-translation gloss |
+| 9 | Governance-pleasure / weapon-notebook ornament |
+| 22 | Stone/period metaphors around *I'm no one's man* (line kept) |
+
+**Words:** ~41.9k
+
+### Docs
+`10_PRODUCTION_LOCK_NOTES.md` · this CHANGELOG
+
+---
+
+## 2026-08-07 — Draft 7 Human Author Pass
+
+**Mode:** Remove detectable AI fingerprints only. Keep clarity and elegance. No plot change. Locked lines protected.
+
+### Fingerprints reduced
+| Pattern | Action |
+|---------|--------|
+| `Not X. Not Y.` stacks | Broken into natural variants (20 → 0) |
+| Weather-as-default metaphor | Cut/varied overuse (~weather hits reduced) |
+| Em dashes | Thinned densest Ch1 / Ch23 appositions |
+| Abstract *geometry / liturgy / cemetery of* | Softened to concrete phrasing |
+| Symmetrical *Did not… Did not…* / *Away from… Away from…* | Combined or varied |
+| *Somewhere a…* opener repeat | Cut duplicate TV laugh; varied others |
+| *the way you…* template | Softened several instances |
+| Generic label lines | Trimmed where they restated shown action |
+
+**Words:** ~43.0k
+
+### Docs
+`10_PRODUCTION_LOCK_NOTES.md` · this CHANGELOG
+
+---
+
+## 2026-08-07 — Draft 7 Continuity Pass
+
+**Mode:** Full continuity audit; correct every inconsistency; sync supporting documents.
+
+### Manuscript corrections
+| Item | Was | Now |
+|------|-----|-----|
+| Ch3 alt bus weekday | “Sunday the fifth” (impossible: 5 Apr 2024 = Fri) | **Sunday the seventh** |
+| Ch7 countdown | fourteen days (exclusive = 13) | **thirteen days** |
+| Ch8 clinic date | missing on-page | Wall calendar **eight April** |
+| Ch10 grammar | “Hotheaded.” | “hotheaded.” |
+| Ch12 Lakshmi kinship | “her aunt” | **“her ajji”** |
+| Ch27 file age | “Ten days since the statements” (Apr 11→May 21) | **“Weeks since the statements”** |
+
+### Verified OK (sample)
+Calendar/weekdays 2024; countdowns 16/15/13/10/9; 150 km / 3.5 h; Hiregowda/Marigowda; B-2→Visitor Parking; pickle Hiregowda→Marigowda; three-day absence Ch23; season arc; WhatsApp/PDF/ESOP; locked lines.
+
+### Docs updated
+`CONTINUITY.md` · `TIMELINE.md` · `11_BOOK1_EVENT_TIMELINE.md` · `OBJECT.md` · `GEOGRAPHY_NOTES.md` · `CHARACTER_STATE.md` · `14_CHAPTER_SUMMARIES.md` · `10_PRODUCTION_LOCK_NOTES.md` · this CHANGELOG
+
+**Words:** ~43.1k
+
+---
+
+## 2026-08-07 — Draft 7 Literary Balance Pass
+
+**Mode:** Protect literary identity. Strip artificial suspense, thriller pacing, melodrama, movie dialogue tags, clever thesis, AI-pattern metaphor, cheap emotional manipulation. Keep subtlety, silence, subtext, cultural authenticity, warmth. Restore original intent where prior passes over-explained; retain readability.
+
+### Rolled back / softened (examples)
+| Ch | Drift removed |
+|----|----------------|
+| 1 | Self-aware almost-laugh with TV |
+| 7 | Interior “swallowed *Ramesh-mama*” / meeting thesis |
+| 8 | Movie *path* confession; “only instrument” / “care dressed as” cleverness |
+| 9 | “Line would stay longer than the banner” memorability thesis |
+| 14 | Staccato thriller ending → held-knowledge quiet restored |
+| 17 | Explanatory “for the first time… missing paper” gloss |
+| 18 | “Truer for that” / door metaphor |
+| 19 | Parking-sticker-into-weather thesis; movie stairs smile |
+| 20 | “White flag you could eat”; bowl-as-riddle |
+| 21 | Thriller probe tags; villain thesis; “only true thing” lie; over-reflection |
+| 25 | Personified Relief |
+| 28 | “Room felt lighter” manipulation; “words would have cheapened” |
+
+### Kept
+Readability gains, distinct voices, emotional contrast, authentic memorable beats (cups, equal-size line, *It wasn't supposed to need that*, pickle jar, *Some uncle*, locked peaks).
+
+**Words:** ~43.1k
+
+### Docs
+`10_PRODUCTION_LOCK_NOTES.md` · this CHANGELOG
+
+---
+
+## 2026-08-07 — Draft 7 Memorability Pass
+
+**Mode:** At least one indelible beat per ~30–40 pages from relationship / decision / revelation / emotion / family / cultural authenticity. No spectacle, violence-as-hook, shock, or artificial twists. Peaks protected.
+
+### Stretch map (~35pp)
+| Stretch | Chapters | Anchor moments (strengthened or confirmed) |
+|---------|----------|-----------------------------------------------|
+| 1 | 1–7 | Parking name-as-sticker; *Next week*; non-refundable; wire; path overhear; *Sleep now, kanda*; full cups + hallway miss (plates / swallowed *Ramesh-mama*) |
+| 2 | 8–14 | *Don't carry your uncle's nights*; phone face-down as only instrument; *Equal size means nothing if one is on top*; guest sandals; wedding; boast hold |
+| 3 | 15–24 | Bangalore wound; 1962; *It wasn't supposed to need that*; empty *To:*; corridor nod (B-2 echo); pickle as edible white flag; *Some uncle / Family memory*; *I'm no one's man* |
+| 4 | 25–30 | *I cannot prove*; *Temporary. Real.*; *Quiet now.*; *We're done.*; unfinished sentence; *Come sooner next time*; *She carried it.* |
+
+### Touched (deepen, not invent)
+Ch7 hallway; Ch8 clinic; Ch9 banner line; Ch17 father–son; Ch18 *To:* erase; Ch19 nod; Ch20 pickle; Ch21 lie.
+
+**Words:** ~43.6k
+
+### Docs
+`14_CHAPTER_SUMMARIES.md` · `10_PRODUCTION_LOCK_NOTES.md` · this CHANGELOG
+
+---
+
+## 2026-08-07 — Draft 7 Emotional Rhythm Pass
+
+**Mode:** Contrast over sameness; no manufactured drama; authenticity held. Break Observation→Conversation→Reflection→Quiet-ending loop where it had become default.
+
+### Ending / mid rhythm shifts (examples)
+| Ch | From → Toward |
+|----|----------------|
+| 1 | Mirrored city-weather quiet → anxiety + dry neighbour-TV humour |
+| 3 | Same Outside/Inside rhyme as Ch1 → commitment / non-refundable dread |
+| 4 | Reflective cement thesis → body + wire dread |
+| 6 | Ghost-sleep reflection → relief after non-shout |
+| 14 | Settled sleep → *house slept; she did not* (anxiety held) |
+| 17 | Poetic field gaze → son still waiting |
+| 19 | Generations thesis quiet → truce relief + motion |
+| 20 | Pattern essay → almost-ask / curiosity |
+| 21 | Thesis fade + closed door → sticky-stick joy / auto relief |
+| 22 | Negation list → bare absence image |
+| 25 | Static porch watch → thin embarrassing relief |
+| 28 | Double packing reflection → brief lightness then unanswered later |
+
+### Protected
+Peaks and locked lines untouched in substance (Ch13–16, 26, 27, 29–30; Shankarappa / 1962 / Lakshmi unfinished / carry lines).
+
+**Words:** ~43.5k
+
+### Docs
+`14_CHAPTER_SUMMARIES.md` · `10_PRODUCTION_LOCK_NOTES.md` · this CHANGELOG
+
+---
+
+## 2026-08-07 — Draft 7 Dialogue and Voice Pass
+
+**Mode:** Distinct speakers; cut exposition / repetition / over-explain in dialogue; authentic rhythm; no plot-only cleverness.
+
+### Manuscript (voice + trim examples)
+| Ch | Speaker | Change |
+|----|---------|--------|
+| 1 / 19 | Asha | Shorter pass language; cut goodwill thesis |
+| 2 | Vikram / Naveen | Trim deferral; fragmented 2021 recap |
+| 3 / 20 / 23 | Saroja | Staccato; pickle command; phone question blast |
+| 5 / 20 | Revathi | Breathless pressure; route with Saroja |
+| 7 / 16 | Venki / Ramesh | Blunter claim; nouns vs question (not mirrored proverbs) |
+| 9 / 23 | Farooq | Shorter shopkeeper lines |
+| 11 | Elder | *Settled, madam. Common path.* |
+| 12 | Lakshmi | *He's a guest. Sleep now.* (no “old family” gloss) |
+| 14 | Drunk | Cut “three generations” |
+| 15 | Meera / Ananya | Concrete opener; self-interrupt; two-beat walk line |
+| 21 | Meera / Rohan | Shorter lie; less aphorism |
+| 22 | Subbanna | One honor beat before lock |
+
+### Docs
+- `06_LEDGERS/CHARACTER_STATE.md` — dialogue voice profiles + behavioural notes
+
+### Protected
+Locked lines intact (`I'm no one's man`, `I cannot prove`, wider-than-pride / 1962, Lakshmi unfinished, `Come sooner next time`, `Quiet now.`, `Sleep now, kanda`, Bangalore leave line, `We're done.`, traveler tamarind, etc.).
+
+**Words:** ~43.6k
 
 ---
 

@@ -1,5 +1,5 @@
 # Copyedit Notes — Book 1
-**Master:** `Draft 7.md`  
+**Master:** `Draft 8.md` (baseline: Draft 7)  
 **Last updated:** 2026-08-04  
 
 ## House style (Draft 6)

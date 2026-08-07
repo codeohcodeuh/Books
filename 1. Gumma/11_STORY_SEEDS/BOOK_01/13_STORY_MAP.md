@@ -1,7 +1,8 @@
-# Book 1 — Story Map (Draft 7)
-**Master:** `Draft 7.md`  
+# Book 1 — Story Map (Draft 8)
+**Master:** `Draft 8.md`  
+**Baseline:** `Draft 7.md`  
 **Last updated:** 2026-08-07  
-**Pass:** Scene Compression (enter later / leave earlier / de-dupe; no chapter merge)
+**Pass:** Momentum Engineering (valleys: enter later / leave earlier / unfinished pressure; peaks protected)
 
 ---
 

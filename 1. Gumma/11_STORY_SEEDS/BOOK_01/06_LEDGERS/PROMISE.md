@@ -1,5 +1,5 @@
 # Promise Ledger — Book 1
-**Master:** `Draft 7.md`  
+**Master:** `Draft 8.md` (baseline: Draft 7)  
 **Last updated:** 2026-08-07 (Draft 7 Timeline Pass)
 
 Status: OPEN · ADVANCED · CLOSED · PARTIAL · DEFERRED_B2 · DEFERRED_SERIES · BACKGROUND · DEFERRED_OPTIONAL_UNWRITTEN

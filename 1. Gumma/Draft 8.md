@@ -1,11 +1,12 @@
 # The Path Between
 
-**Draft 7** — Invisible Page Pass (calendar year **2024**) — **ARCHIVED BASELINE** (do not edit; master is `Draft 8.md`)
+**Draft 8** — Momentum Engineering Pass (calendar year **2024**)
 
-**Prose source:** `Book 1 v2- The Path Between.docx`
+**Prose source:** `Draft 7.md` (Invisible Page baseline) · earlier: `Book 1 v2- The Path Between.docx`
 
-**Mode:** Invisible Page Pass (immerse in story; prose unnoticed)
-**Prior modes:** Timeline · Structure · Opening · Ending · Compression · Transparency · Trust · Psychology · Character Arc · Dialogue · Emotional Rhythm · Memorability · Literary Balance · Continuity · Human Author
+**Mode:** Momentum Engineering Pass (reader inability to stop; literary soul preserved)
+**Prior modes:** Timeline · Structure · Opening · Ending · Compression · Transparency · Trust · Psychology · Character Arc · Dialogue · Emotional Rhythm · Memorability · Literary Balance · Continuity · Human Author · Invisible Page
+**Baseline:** Draft 7 locked — peaks, voice, continuity protected
 **Calendar lock:** Wedding **Saturday, 20 April 2024**; Meera arrival **Saturday, 6 April 2024**; present-day span **27 Mar – 2 Jun 2024**
 
 ---
@@ -673,7 +674,7 @@ The thought was small. Incomplete. No face attached. No name. Only sound and sme
 
 Outside, crickets kept their braid. Somewhere in a back room a man's voice rose once and chose not to become a shout. Then nothing — the house holding its breath, then releasing it. Heat lay along her shins where the blanket had slipped; she pulled it up again.
 
-Sleep took her easy after that. The living house still deciding what it would allow — but quieter now.
+Sleep took her. Outside, a man's voice rose once and chose again not to become a shout. The house was still deciding.
 
 # Chapter 7 — Untouched Teacups
 
@@ -751,9 +752,7 @@ He stood in his own hall with steel cooling against his skin, Venki's cup still 
 
 # Chapter 8 — Phone Face-Down
 
-Dr. Suresh Bhat sat at the steel desk between patients with the frosted glass throwing Monday glare into a soft smear across charts and the BP cuff's coiled tubing. Waiting room murmur beyond the door. Dettol. Dust. His stethoscope still warm from the last chest. On the wall calendar a red circle held **eight April** without explaining itself. Third mention today of "the families." Wedding talk. Path talk.
-
-The Marigowda nephew entered with the posture of a man rehearsing a medical sentence. Mid-twenties. Shirt buttoned wrong at the collar, corrected as he sat. Eyes that had not slept the sleep they claimed. A faint smell of soap and nervous sweat. He glanced at the certificates on the wall.
+The Marigowda nephew entered before Suresh had finished writing the last patient's dose. Mid-twenties. Shirt buttoned wrong at the collar, corrected as he sat. Eyes that had not slept the sleep they claimed. A faint smell of soap and nervous sweat. On the wall calendar a red circle held **eight April** without explaining itself. Third mention today of "the families." Wedding talk. Path talk.
 
 "BP check, doctor. Just routine. Uncle said I should keep checking."
 
@@ -771,29 +770,25 @@ Hesitation first, the cover story dying politely, mouth opening and closing on a
 
 Suresh listened.
 
-He did not take notes on family politics. Notes became files; files became stories that travelled. He watched the boy's hands twisting each other as if wringing a cloth that would not dry. The nephew's eyes shone; a tear escaped and was shamed away with a knuckle, then another that was not shamed in time. He heard himself make small doctor-sounds, *hmm*, *I see*, *go on*, proof of presence. He could not fix interpersonal politics with a stethoscope. He also could not say *leave*.
+He did not take notes on family politics. Notes became files; files became stories that travelled. The boy's hands twisted each other as if wringing a cloth that would not dry. A tear escaped and was shamed away with a knuckle. Suresh made the small doctor-sounds that meant presence without promise. He could not fix this with a stethoscope. He also could not say *leave*.
 
-He closed as he closed such things, kind, generic, the boundary reasserting in sentences that sounded like care and functioned as exit ramps for both of them.
+"These things have happened before," Suresh said. "They usually settle after events pass. You sleep. You eat. You don't carry your uncle's nights on your own back. If your sleep doesn't improve in a week, come. We'll talk about that — sleep, not the rest."
 
-"These things have happened before," Suresh said. "They usually settle after events pass. You sleep. You eat. You don't carry your uncle's nights on your own back. If your BP stays like this, fine. If your sleep doesn't improve in a week, come. We'll talk about that, sleep, not the rest. The rest is not my instrument."
+The nephew nodded, calmer by a degree that was not cure. Wiped his face. Thanked him. The chair scraped. Door closed.
 
-The nephew nodded, calmer by a degree that was not cure and not nothing. Wiped his face with the heel of his hand. Thanked him. Stood. The chair scraped. Exited. Door closed with the soft finality of a room returning to its owner.
-
-Thirty seconds alone. Stethoscope off. Eyes rubbed until lights bloomed behind the lids. Then the next patient was already a shadow on frosted glass.
+Thirty seconds alone. Stethoscope off. The next patient already a shadow on frosted glass.
 
 ---
-
-He thought of saying something to someone who could act. There was no such person in his phone who was also his business.
 
 He picked up his phone.
 
 Paused.
 
-The pause held longer than logistics required, thumb hovering, eyes on the dark glass. A scooter horn outside. The attendant sweeping. His own breath. Then his thumb woke the screen. He typed a short message — a sentence that moved a household clock without moving history. Sent. The whoosh of departure. He did not watch for the tick that meant read.
+Thumb hovering. Scooter horn outside. Attendant sweeping. Then the screen woke. He typed a short message — a sentence that moved a household clock without moving history. Sent. He did not watch for the tick that meant read.
 
 He placed the phone face-down on the steel desk. Glass against metal. Soft click.
 
-Somewhere a household clock had moved. The wedding had not.
+He did not know who would read it first.
 
 # Chapter 9 — Biscuit Tin
 
@@ -903,7 +898,7 @@ Saroja counted change on the counter, coins aligned, notes folded, the arithmeti
 
 They paid. They left. The sun hit again immediately.
 
-Behind them on the counter: the biscuit tin lid, open. Farooq's grin. Saroja counting change one final time, lips moving on numbers that would become tomorrow's enforcement. Sunlight on dusty jars.
+Saroja was already on the next list before the lane widened — banner names still pending, and tomorrow she would enforce whatever the printer had not yet decided. Behind them on the counter: the biscuit tin lid, open. Farooq's grin held. Meera's mouth still held the sentence she was not sure she was allowed to find funny tomorrow.
 
 # Chapter 10 — Broken Post
 
@@ -1129,11 +1124,7 @@ Priya wrote in her book: *Shared use, no exclusive documentation, dispute likely
 
 She added the date. Added her initials. Added the constable's name as witness to the visit. The file would grow. The file would not resolve. She would monitor. She would warn.
 
-Pen clicked closed. Notebook shut. The sound small in the hot wind.
-
-She walked back to the jeep. Distant windows visible now that she knew to look. Figures half-seen behind glass, families watching her leave, watching her leave.
-
-Hot wind on the path. Nine days to the wedding. Both families' distant windows watching her leave.
+Pen hovered. Notebook still open on her knee. Nine days to the wedding. Both families' distant windows watching her leave — and the centre of her diagram still blank.
 
 # Chapter 12 — Aligned Sandals
 
@@ -1669,43 +1660,35 @@ Phone in her palm before she decided to lift it. Naveen's thread open from some 
 
 # Chapter 17 — Cutting Leaf
 
-Ramesh had left before anyone woke. Before Saroja could put a plate in his hands, before the courtyard could look at him the way the courtyard had looked at him since the chairs were carried back inside and the tea went cold in cups nobody finished. Old shirt. Old trousers. Feet in chappals that knew these rows better than the house floor. He had not eaten. His stomach was a closed fist. Shame sat in his chest like heat that had nowhere to go.
+Ramesh had left before anyone woke. Old shirt. Old trousers. Feet in chappals that knew these rows better than the house floor. He had not eaten. Shame sat in his chest like heat that had nowhere to go.
 
-Between the rows the world was green against cloud. Dew on the leaves. Earth damp underfoot. He walked because standing in the house had become impossible.
-
-Not toward anything. Back and forth along the lines he had planted. Nobody could see him from the road. That was the point.
+Between the rows the world was green against cloud. Dew on the leaves. He walked because standing in the house had become impossible. Nobody could see him from the road. That was the point.
 
 *Let the path be wider than our pride.*
 
-The words from yesterday. Not his voice. Mallappa's voice, carried through another man's mouth with a precision that still made Ramesh's teeth ache when he replayed it.
-
-His father's words. The words he had built a life on without ever having heard them whole until a stranger spoke them in his courtyard while both families sat with their tea going cold and their certainties draining out through the cracks.
+Mallappa's voice, carried through another man's mouth. His father's words — the ones he had built a life on without ever having heard them whole until yesterday, while both families sat with their tea going cold.
 
 *I became the pride.*
 
-His fence. His certainty. His *our path* spoken over and over at every gathering, every boundary dispute, every moment when sharing would have cost him face and narrowing gave him a story. All of it the tightening his father had warned against. 
+His fence. His certainty. His *our path* spoken over and over when sharing would have cost him face. All of it the tightening his father had warned against.
 
-He snapped a leaf. The sound was small and sharp. His hands needed occupation. His mind would not grant it.
+He snapped a leaf. The sound was small and sharp.
 
 Maybe the man was wrong. Maybe memory bent with age.
 
 The tamarind tree killed that thought.
 
-He remembered that tree. Not from a story told at a wedding. From his body. It had stood where the old men said it stood, at the bend where the path narrowed and the shade fell thick in afternoons. He had been young when it fell in '88, young enough that his back still remembered the work of clearing it, the sour smell of broken wood, the cursing in two dialects of exhaustion, Venki's father swearing at a root that would not release while Ramesh's own hands bled slightly on bark that did not care. Shankarappa had not guessed. He had named a thing Ramesh's own palms had touched.
+He remembered that tree. Not from a wedding story. From his body. It had stood at the bend where the path narrowed. He had been young when it fell in '88 — young enough that his back still remembered clearing it, Venki's father swearing at a root while Ramesh's hands bled slightly on bark that did not care. Shankarappa had not guessed. He had named a thing Ramesh's own palms had touched.
 
 *Let neither of us need a document for what our sons should remember.*
 
-Sons should remember. He was the son. He had not remembered. He had inherited a dispute he thought he understood.
+He was the son. He had not remembered. He had inherited a dispute he thought he understood.
 
-Humidity pressed his shirt damp against his back. He passed the same row markers twice. Phone left at home.
+Humidity pressed his shirt damp against his back. Phone left at home. His hand dragged along a row without attention.
 
-His hand dragged along a row without attention.
-
-The leaf caught his thumb. Not dramatic, not a wound, the slow paper-cut kind sugarcane gave when you treated it carelessly. Thin green blade. A line of blood appearing clean and small against brown skin. He stopped. Looked at it.
+The leaf caught his thumb. Not dramatic — the slow paper-cut kind sugarcane gave when you treated it carelessly. A line of blood appearing clean and small against brown skin. He stopped. Looked at it.
 
 He turned toward the house.
-
-The rows behind him. Grey sky above them.
 
 Blood drying in a thin line as he went.
 
@@ -1713,45 +1696,45 @@ Blood drying in a thin line as he went.
 
 The back porch held him.
 
-Ramesh sat with the field smell still on his clothes. Cut stalk, sweat, the damp of a morning that never decided to be morning. His thumb throbbed faintly where the blood had dried into a thin brown line. The phone sat heavy in his hand. Messages waited. He did not read them yet. Saroja was somewhere inside, giving him space the way she gave him space when she knew words would not help and food would be rejected and silence was the only kindness available.
+Ramesh sat with the field smell still on his clothes. His thumb throbbed faintly where the blood had dried. The phone sat heavy in his hand. Messages waited. He did not read them yet. Saroja was somewhere inside, giving him space.
 
-The courtyard was visible from the angle of his chair. Empty now. Yesterday's chairs gone.
+The courtyard was empty now. Yesterday's chairs gone.
 
 It rang.
 
-"Appa." Arjun's voice, Mysuru clear through the speaker, professional edges softened by concern that did not know how to enter a village shame without bringing a spreadsheet. "I heard about what happened yesterday. Are you all right?"
+"Appa." Arjun's voice, Mysuru clear through the speaker. "I heard about what happened yesterday. Are you all right?"
 
-The grapevine had done its work. Cousins. WhatsApp. The family architecture that moved news faster than bullock carts and with less mercy.
+The grapevine had done its work. Cousins. WhatsApp. Less mercy than bullock carts.
 
 "I'm here," Ramesh said.
 
-A pause on the line. Arjun had learned to read his father's *I'm here*. Not as forecast but as current condition.
+A pause. Arjun had learned to read his father's *I'm here*.
 
-"If he says there were terms, put it in writing now. Get both sides to sign." The words came fast. The modern answer, clean and confident, the voice of a man who solved problems by making them legible to systems that did not care about tamarind trees or fathers' warnings. "Written agreement. Survey adjustment. Legal standing. Then this can't happen again, Appa. Boundaries. Writing. Signatures."
+"If he says there were terms, put it in writing now. Get both sides to sign." The words came fast. "Written agreement. Survey adjustment. Legal standing. Then this can't happen again, Appa."
 
 Ramesh listened.
 
-Part of him wanted it — paper as a wall you could stand behind. Another part heard his father underneath. *What our sons should remember.* He was the son. He had not remembered. And now his son was asking for a document because the sons had failed.
+Part of him wanted it — paper as a wall. Another part heard his father underneath. *What our sons should remember.* And now his son was asking for a document because the sons had failed.
 
 "I'll think," Ramesh said.
 
 "Think about what? This is simple."
 
-Silence on the porch. A fan turning somewhere inside. Cooking smell, something with coconut — a house continuing its day. The field direction visible beyond the rail. The same rows he had walked, the place where two old men once agreed without anyone writing it down, where trust was the instrument because paper would have insulted the trust.
+Silence on the porch. A fan turning somewhere inside. Cooking smell — a house continuing its day. The field direction visible beyond the rail. The place where two old men once agreed without writing it down.
 
 "It wasn't supposed to need that."
 
-The sentence left his mouth before he knew it was coming. His father's position surfacing through him like water finding a crack.
+The sentence left his mouth before he knew it was coming.
 
-Arjun went quiet. Not angry quiet. Processing quiet — a practical man encountering a principle he could not file.
+Arjun went quiet. Processing quiet — a practical man encountering a principle he could not file.
 
 "Okay, Appa." Warm again. Careful. "Just think about it. I'm here if you need."
 
 "Yes."
 
-The call ended. Not hostile. Unresolved — two people who loved each other, living in different centuries.
+The call ended. Not hostile. Unresolved.
 
-Ramesh set the phone on the porch rail. His cut thumb rested against the warm wood beside it. No document. A son still waiting for an answer.
+Ramesh set the phone on the porch rail. His cut thumb rested against the warm wood beside it. Arjun's ask still open. No document. Not yet. Not tonight.
 
 # Chapter 18 — Unsent Email
 
@@ -1767,33 +1750,27 @@ He typed.
 
 He read it.
 
-Perfect.
-
-His finger hovered over the trackpad. Send lived somewhere below the draft. One gesture from real. One click and Monday became a different country. Bridges burned or bridges crossed, but at least movement. At least the end of stewing.
+His finger hovered over the trackpad. Send lived somewhere below the draft. One gesture from real.
 
 The *To:* field was empty.
 
-He typed the first letter of Vikram's name. Erased it. The letter existed without a recipient. Complete and going nowhere. The cursor blinked in the blank *To:* line.
+He typed the first letter of Vikram's name. Erased it. The letter existed without a recipient. The cursor blinked in the blank *To:* line.
 
-He read the final version once more. *Before the person I blame becomes me.* That was the truest line.
+*Before the person I blame becomes me.* That was the truest line.
 
-Memory arrived without permission. Meera in that kitchen years ago, visiting, not staying, laughing at his dal. Burnt cumin rising from the pan like a small domestic disaster. Smoke that made them both cough. Her face not unkind, amused like someone who had already decided his failures were not disqualifying. *You're hopeless but you tried.* The relief of being known in failure. Not fixed. Seen.
+Memory arrived without permission. Meera in that kitchen years ago, visiting, not staying, laughing at his dal. Burnt cumin. Smoke that made them both cough. Her face not unkind. *You're hopeless but you tried.* Seen, not fixed.
 
-She was in the village. Days ago her text had appeared on his screen: *Things wild here. Tell you later.* He had not pushed. She had not explained. Tonight they were both in storms the other could not enter.
+She was in the village. Days ago her text: *Things wild here. Tell you later.* He had not pushed. She had not explained.
 
 He glanced at his phone. The thread sat there. He did not reply.
 
-Returned to the screen. The *To:* field still empty. The letter perfect below. The send not done.
+Returned to the screen. The *To:* field still empty. The letter below it. The send not done.
 
 ---
 
 He closed the laptop.
 
-The screen went dark. The letter sealed inside, unsent. He did not make tea or reopen the thread. Tonight he was still the man who drafted and did not send.
-
-Tomorrow he would wake and the draft would still exist. He could send it before standup. He could delete it and pretend tonight never happened. He could revise one more time until the words lost their nerve. All of those futures were real. None of them were tonight.
-
-Bed. Lights off. Through the window the city continued without reference to his crisis.
+The screen went dark. The letter sealed inside, unsent.
 
 On the bedside table his phone still held Meera's thread: *Things wild here. Tell you later.* He had not replied. The laptop on the couch held an empty *To:* field. Two unanswered laters. Same night.
 
@@ -1813,11 +1790,11 @@ Her phone buzzed.
 
 Naveen: *Seriously ok?*
 
-Earlier text from him, *still alive?* or similar, sat above it in the thread. The village chaos he did not know the details of. The ESOP storm he was living parallel to her own storm in a different costume. She typed between agenda items without looking fully at the screen. One thumb, quick, the way you answered someone who had been waiting while you were elsewhere.
+Earlier text from him, *still alive?* or similar, sat above it in the thread. The village chaos he did not know the details of. The ESOP storm he was living parallel to her own storm in a different costume. She typed between agenda items without looking fully at the screen. One thumb, quick.
 
 *Alive. AGM hell. Reply later.*
 
-Sent. Phone away.
+Sent. Phone away. *Reply later* already a debt she could feel.
 
 Item two: CCTV proposal.
 
@@ -1869,9 +1846,9 @@ She nodded as they drew level. Minimal, deliberate, her head moving once while h
 
 Asha received it. Nodded back. Neither stopped. Neither spoke. They passed in the corridor's fluorescent light and continued toward their separate doors.
 
-Five minutes. The flat looked back at her with the closed-up smell of a place she visited between other lives. Kitchen counter. Balcony door. Muted apartment group she would not read tonight. The parking fight was over. Truce — small, enough.
+Five minutes. The flat looked back at her with the closed-up smell of a place she visited between other lives. Kitchen counter. Balcony door. Muted apartment group she would not read tonight.
 
-She closed the door. Locked it. Bag on shoulder. The nod still in her shoulders as she took the stairs, bag strap cutting.
+She closed the door. Locked it. Bag on shoulder. Phone face-up once — Naveen's thread still waiting for the *later* she had promised. Face-down again.
 
 Bus ticket in pocket. Village tonight.
 
@@ -1881,57 +1858,45 @@ Meera's hands were in dishwater when Gayatri arrived at the courtyard door aroun
 
 "I was at the temple," she called. "These were extra. Thought you'd want them."
 
-Jasmine in a steel bowl. White flowers packed loose, fragrant, the smell stronger in the pre-monsoon moisture that made everything bloom a little louder than it needed to. She was middle-aged, cotton saree practical rather than ceremonial, body language confident in the unremarkable way of village women who moved through houses as if she had always belonged in them. Meera filed her: wedding periphery maybe, someone's aunt, not important enough to have stuck until now.
+Jasmine in a steel bowl. White flowers packed loose, fragrant in the pre-monsoon moisture. Cotton saree practical rather than ceremonial. Meera filed her: wedding periphery maybe, someone's aunt, not important enough to have stuck until now.
 
-Gayatri set the bowl on the counter. Tea offered. Accepted. The women settled into the circle that morning tea created. Unhurried, domestic, the social texture of a visit that required no announcement and no apology.
+Gayatri set the bowl on the counter. Tea offered. Accepted. The women settled into morning tea — unhurried, domestic.
 
-"How was the queue?" Saroja asked.
+Temple timings. Whether the rains would come early. A neighbour's son's exam results. Gayatri laughed at the right moments. Asked the right small questions. Did not hurry. Did not linger with the intensity of someone who wanted something.
 
-"Long. But the flowers were generous today." Gayatri arranged a stem between her fingers without performing delicacy. Just the habit of hands that knew flowers. "The fabric store raised prices again. Revathi, you'll have a heart attack."
-
-"I already had one," Revathi said. "Thirty rupees for onions. Now fabric. We should all wear gunny sacks."
-
-Laughter. Easy, real. Temple timings discussed. Whether the rains would come early this year. A neighbour's son's exam results. Gayatri laughed at the right moments. Asked the right small questions. Did not hurry. Did not linger with the intensity of someone who wanted something. Just the unhurried presence of a woman dropping by because dropping by was what women did when men were in fields and the house had room for talk.
-
-Jasmine distributed into portions. A handful for the pooja room, some carried toward Lakshmi's door by Saroja's hand, stems arranged on the kitchen counter where the smell would linger and attach itself to curtains and hair and the day's memory whether anyone planned it or not.
+Jasmine distributed into portions. A handful for the pooja room, some carried toward Lakshmi's door, stems on the kitchen counter where the smell would linger.
 
 Meera dried her hands and sat with her tea.
 
-Saroja mentioned the shopping again. Soap, dal, the thin kind. Revathi volunteered to walk to Farooq's later if the sun stayed manageable. Normal logistics. Normal morning. Fathers on both sides were not speaking properly and police files still existed in drawers and weddings had happened under conditions that were not peace so much as truce with garlands.
+Saroja mentioned shopping. Soap, dal. Revathi volunteered Farooq's later if the sun stayed manageable. Fathers on both sides were not speaking properly. Police files still existed in drawers. The wedding had happened under conditions that were not peace so much as truce with garlands.
 
-Gayatri asked about the temple festival preparations with genuine interest. Saroja answered. Revathi had opinions about which committee handled flowers badly every year. The conversation moved like water. Finding the lowest point, settling, moving on.
-
-"How is Ananya settling on their side?" Gayatri asked Saroja, as casually as she had asked about fabric prices. One sentence among many, embedded in the flow of visit-talk the way a stone was embedded in a stream. Visible if you looked, invisible if you didn't.
+"How is Ananya settling on their side?" Gayatri asked Saroja, as casually as she had asked about fabric prices. One sentence among many.
 
 Saroja's face softened. The guard that Ramesh's silence had built around that subject seemed to thin in the women's morning.
 
 "Fine." She looked at her tea. "I'll send something."
 
-Revathi leaned in immediately. Bridge-builder by nature, amplifier by habit, the woman who heard an opening and walked through it because walking through openings was what she did when men were busy being proud in other rooms.
+Revathi leaned in immediately.
 
 "Coconut pickle. Extra chilli — Venki's mother's way. I'll tell the container."
 
-Saroja nodded, already planning. Container. Who would carry it. Whether tomorrow or the day after. Not a speech. A jar for a house that would not take a phone call from a man. Extra chilli. Venki's mother's way. Meera watched the guard thin on her aunt's face and said nothing.
+Saroja nodded, already planning. Container. Who would carry it. Whether tomorrow or the day after. Not a speech. A jar for a house that would not take a phone call from a man. Meera watched the guard thin on her aunt's face and said nothing.
 
-Gayatri did not push. Did not say *what a good idea*. Did not claim the moment or look pleased in the way of someone who had scored. She nodded once and returned to fabric prices while Saroja and Revathi built the pickle mission between them with the warmth of women who had been waiting for permission to be warm and had not known they were waiting until the permission arrived dressed as a question about a daughter-in-law.
+Gayatri did not push. She nodded once and returned to ordinary talk while Saroja and Revathi built the pickle mission between them.
 
-More tea poured. Temple gossip resumed. Gayatri mentioned a sari she had seen in town. Colour, price, whether it was worth it. Revathi had opinions. Saroja had opinions. Someone's grandson had failed maths. Someone else's cow had calved. The visit continued on its ordinary rails.
-
-Meera helped distribute the last of the jasmine. Fingers brushing cool petals, the smell attaching to skin. She said nothing that would mark her as observing too closely. City training: do not make the room conscious of the observer. Village training, newer and still awkward: pay attention anyway.
-
-The visit wound down the way normal visits wound down. Rising, collecting the steel bowl now empty, warm goodbye at the courtyard door.
+The visit wound down. Rising, collecting the steel bowl now empty, warm goodbye at the courtyard door.
 
 "I'll come again when the fresh batch is ready."
 
-She left. Footsteps fading. The bowl gone with her. Empty, clean, practical.
+She left. Footsteps fading.
 
-She tried to replay the visit and could not find the hinge. Only the door opening, the question about the Marigowda girl, the pickle idea blooming as if it had been Saroja's all along.
+Meera tried to replay the visit and could not find the hinge. Only the question about the Marigowda girl, the pickle idea blooming as if it had been Saroja's all along.
 
 ---
 
 Later, alone in the courtyard, Gayatri's empty steel bowl on the ledge. Two quiet visits now — flowers, chairs — neither announced. Lakshmi passed carrying an empty cup. Meera's mouth opened. Closed. Her hand lifted from the wall. Dropped back.
 
-The jasmine still smelled. She almost called after Lakshmi. Didn't. The empty bowl stayed on the ledge.
+Tomorrow the pickle would travel. Tonight the empty bowl stayed on the ledge, and Lakshmi's back had already turned the corner.
 
 # Chapter 21 — Loudspeaker Distortion
 
@@ -1979,21 +1944,9 @@ She did not know.
 
 ---
 
-The afternoon heat peaked while the crowd thinned.
+Across the thinning fair, Saroja waved from near the auto stand — *come, we're leaving*. Meera walked toward them with the lie still in her mouth. Ananya held out something sticky on a stick. Meera took a bite. Too sweet. Fine. Ramesh looked hot and tired and unaware that anything had happened at a biscuit stall near the temple.
 
-Families who had come early began drifting toward buses and autos. Stalls started discounting unsold stock. Meera found shade under a stall overhang at the jatre's edge, the festival continuing around her without her full participation.
-
-She stood with her errand bag. The lie still in her mouth.
-
-The loudspeakers peaked, a devotional song climbing toward its chorus, the cheap amplifier straining, and then broke. Feedback screech, three seconds, raw and physical. Everyone winced. A child covered both ears and started crying until his mother shushed him. An elderly man near Meera muttered something about the committee's equipment budget. Then the screech cleared and the song continued as if nothing had happened.
-
-She would not tell anyone about Rohan.
-
-A vendor packed up unsold toys. An auto driver slept on his seat with a handkerchief over his face.
-
-Across the thinning fair, Saroja waved from near the auto stand, arm raised — *come, we're leaving*. Meera walked toward them. Ananya was eating something sticky on a stick and held it out without ceremony. Meera took a bite. Too sweet. Fine. Ramesh looked hot and tired and unaware that anything had happened at a biscuit stall near the temple.
-
-Saroja was already arguing with the auto driver about three in the back. Meera wiped sugar from her thumb and got in.
+Saroja was already arguing with the auto driver about three in the back. Meera wiped sugar from her thumb and got in. She would not tell anyone about Rohan. Not yet. The words sat unfinished beside her in the auto, waiting for a place she would not give them.
 
 # Chapter 22 — Empty Guest Mat
 
@@ -2087,35 +2040,35 @@ Subbanna came to the corridor later, Meera heard his voice, low, asking Saroja s
 
 Evening light through the small window. Naphthalene and emptiness. The threshold bare, no chappals aligned.
 
-The rolled mat against the wall.
+The rolled mat against the wall. She stood in the doorway longer than she meant to, waiting for a sound that did not come.
 
 # Chapter 23 — WhatsApp Forward
 
 He woke to the silence of a guest room standing open down the corridor. The guest left. He registered it flatly, courtyard shame still in his chest.
 
-Routine pulled him anyway: tea on the back porch, field edge, the slow walk along the boundary he no longer felt authoritative about, back to the house by mid-morning. The guest room door visible when he passed the corridor: open, empty glimpse, the rolled mat like a scroll no one would read. He did not stop to look.
+Routine pulled him anyway: tea, field edge, back by mid-morning. The guest room door open when he passed — empty glimpse, rolled mat. He did not stop.
 
 The phone started before noon.
 
-Forwards. Screenshots. Group notifications stacking. Hiregowda cousin sharing a Marigowda-group message: *Hiregowda side planning fencing.* Then a Marigowda neighbour's counter in the extended family chat: *Hiregowda bringing in new wire.* False, both of them. Ramesh knew they were false. He was not planning fencing, he had not bought wire, he could barely plan lunch. WhatsApp had become the village's second mouth, faster than the panchayat, wider than the lane, immune to shame because shame required a face and forwards had none.
+Forwards. Screenshots. Group notifications stacking. Hiregowda cousin sharing a Marigowda-group message: *Hiregowda side planning fencing.* Then a Marigowda neighbour's counter: *Hiregowda bringing in new wire.* False, both of them. Ramesh knew they were false. He was not planning fencing. He could barely plan lunch. WhatsApp had become the village's second mouth — faster than the panchayat, wider than the lane, immune to shame because shame required a face and forwards had none.
 
-"What is all this on your phone?" Saroja hovered, tea refilled, not drunk, phone in her hand showing the same screenshots from her own contacts.
+"What is all this on your phone?" Saroja hovered, tea refilled, not drunk, her own screen showing the same screenshots.
 
-Ramesh grunted. Frozen. The phone buzzed again. He scrolled without replying. Opened a chat to Venki. Typed: *These forwards are false.* Looked at the words. Deleted them. His thumb hovered over the call button and did not press.
+Ramesh grunted. The phone buzzed again. He opened a chat to Venki. Typed: *These forwards are false.* Looked at the words. Deleted them. Thumb hovered over the call button and did not press.
 
 "I'll look at it later."
 
-He would not. Looking was engagement. Sending would have been worse.
+He would not.
 
-At the gate a cousin said, "Things were quieter when the guest was here, no?" Complaint, not wisdom. Ramesh barely registered it. Before, that man's presence kept this from— He did not finish the thought.
+At the gate a cousin said, "Things were quieter when the guest was here, no?" Complaint, not wisdom. Before, that man's presence kept this from— Ramesh did not finish the thought.
 
-Evening. The grey sky darker without rain. Saroja thrust the screen at him where he sat on the kitchen bench.
+Evening. Saroja thrust the screen at him on the kitchen bench.
 
-Google Maps. Screenshot. Hand-drawn red line claiming *original boundary*, wrong, not even close to the actual path, a child's geography pretending to be proof, the line crossing fields that had never been disputed because they had never mattered. Forwarded. Commented on. Shared again. Forty people had seen it now. Maybe more. *Proof*, the caption said, as if proof were something you could draw with a finger on a screen and send to everyone who wanted to believe the worst.
+Google Maps. Hand-drawn red line claiming *original boundary* — wrong, not even close, a child's geography pretending to be proof. Forwarded. Shared again. Forty people had seen it. *Proof*, the caption said.
 
 I can't correct this.
 
-Credibility shot since the courtyard. Anything he posted would become more fuel. He closed the screen. The guest room down the corridor stayed empty.
+Credibility shot since the courtyard. Anything he posted would become more fuel. He closed the screen. The guest room stayed empty.
 
 ---
 
@@ -2123,29 +2076,31 @@ Thursday brought more of the same before breakfast.
 
 The coconut pickle had gone to the Marigowda side two days earlier; the jar had come back empty with a brief thank-you that meant more than the words. Conciliation in chilli and coconut, still standing while everything else frayed.
 
-At Farooq's store mid-morning, soap across the counter, Farooq said: "Forwards die if nobody feeds them. Everyone's feeding them. Talking feels like work."
+At Farooq's mid-morning: "Forwards die if nobody feeds them. Everyone's feeding them."
 
 "He's right. And I can't be that person."
 
-Thursday afternoon Saroja got a call, or a forward, or a cousin at the door; the channel did not matter. The content did. She found Ramesh on the porch and her face had the colour of someone who had heard raised voices reported rather than heard them herself.
+Thursday afternoon Saroja found him on the porch. Her face had the colour of someone who had heard raised voices reported rather than heard them herself.
 
 "Two men nearly fought at the path today—"
 
-Field-hands. Opposite sides. Arguing at the path mouth where the shove had been, where the ground remembered trouble. Voices rising. Ramesh could imagine them even third-hand, the pitch of men who had been feeding on forwards and needed a body to attach the feeding to. Someone said *call Venki*. Someone said *call Ramesh*. A small crowd gathered, not large, not wedding-size, but enough to make a scene if a scene wanted to happen. Saroja's voice shook slightly on the last words. She had not been there either. The village was reporting itself to itself now, phone to phone, mouth to mouth, faster than anyone in authority could intercept.
+Field-hands. Opposite sides. Arguing at the path mouth where the shove had been. Someone said *call Venki*. Someone said *call Ramesh*. A small crowd. Saroja's voice shook slightly on the last words.
 
-Then: nothing. Both men left. No shove. No new complaint. No police. The argument lost steam. No one official stopped it. It just didn't. This time. Saroja reported it factual, frightened, almost, and then not.
+Then: nothing. Both men left. No shove. No new complaint. No police. The argument lost steam. No one official stopped it. It just didn't. This time.
 
 "They stopped before—" she said, and did not finish.
 
-Ramesh heard about it third-hand and felt sick.
+Ramesh felt sick.
 
 It just had not happened. This time. No quiet man in the courtyard.
 
-Evening. Back porch. The screen glowed. Three days without the quiet man. Things were quieter when the guest was here, the cousin's line returning without invitation.
+Evening. Back porch. The screen glowed. Three days without him.
 
-His thumb hovered over Venki's name again. Did not press.
+His thumb hovered over Venki's name again.
 
-Slower than a shove. Wider.
+Did not press.
+
+The call would still be there in the morning. So would the empty room.
 
 # Chapter 24 — Dust on the Bag
 
@@ -2215,19 +2170,15 @@ Shankarappa, Gayatri, now this.
 
 Outside, she looked toward the bus stand.
 
-The traveler: not visible. Saturday bustle, people with bags, buses loading and unloading, the ordinary churn of departure. A bus pulled away toward the highway, diesel smoke trailing; another idled with its door open. She could not know which one he had taken. Or whether he had walked somewhere else entirely. The system did not leave traces for observers who were not meant to observe.
-
-Footprints in the dust, a hundred of them, overlapping, none distinguishable. Everyone had that bag. Everyone had those shoes. The canvas that might have been his already indistinguishable from every other canvas that passed through this stand on every other Saturday. Meera had seen Shankarappa arrive dusty at this same stand, anonymous bag, the same infrastructure carrying people who did not announce themselves. The traveler had echoed that mode without copying it.
+The traveler: not visible. Saturday bustle. A bus pulled away toward the highway; another idled with its door open. She could not know which one he had taken. Footprints in the dust, a hundred of them, overlapping. Everyone had that bag. Everyone had those shoes.
 
 Which one?
-
-She stood at the edge of the stand and scanned and found nothing anomalous in a field of ordinary. A woman argued with an auto driver about fare. A boy sold peanuts from a tray. Buses came and went. The anonymity was not a failure of attention. It was architecture.
 
 If I ask—
 
 Her feet stayed on the pavement. She did not go back.
 
-Bus stand behind her. Dust settling. The bag already gone. Tamarind still sitting in her ear, unanswered.
+Dust settling. The bag already gone. Tamarind still sitting in her ear — and nowhere to put the question that would not leave.
 
 # Chapter 25 — Bad Knee
 

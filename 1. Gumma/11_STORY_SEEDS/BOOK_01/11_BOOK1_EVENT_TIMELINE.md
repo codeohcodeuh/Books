@@ -1,10 +1,10 @@
 # Book 1 — Event Timeline
 **Title:** *The Path Between*  
-**Master:** `Draft 7.md` (prose from DOCX + Timeline Pass + **Story Structure Pass**)  
+**Master:** `Draft 8.md` (baseline: Draft 7) (prose from DOCX + Timeline Pass + **Story Structure Pass**)  
 **Calendar year:** **2024** (production lock)  
-**Last updated:** 2026-08-07  
+**Last updated:** 2026-08-07 (Continuity Pass)  
 
-**Structure Pass note:** Chapter order and calendar anchors unchanged. Sequencing improved via begin-later / end-earlier / duplicate-cut ops (see `13_STORY_MAP.md`, `CHANGELOG.md`). No new scenes; no peak rewrites.
+**Continuity Pass note:** Ch7 countdown **13 days**; Ch3 alt-bus **Sunday 7 Apr**; Ch8 **eight April** on-page; Ch27 file age **weeks**; Lakshmi = ajji.
 ---
 
 ## How to read this document
@@ -48,20 +48,20 @@ Weekdays and relative gaps preserved. Absolute dates shifted so Saturday wedding
 | 28 Mar 2024 | Thursday | Noon / lunch | 2 | Naveen | Café with Meera; parallel silences. |
 | **29 Mar 2024** | **Friday** | Afternoon | 3 | Meera | Missed calls from Amma. |
 | 29 Mar 2024 | Friday | Evening (~home) | 3 | Meera | Phone call: come before wedding; better **Saturday evening**. |
-| 29 Mar 2024 | Friday | Night | 3 | Meera | Books **Saturday 6 April** evening bus (non-refundable). |
+| 29 Mar 2024 | Friday | Night | 3 | Meera | Books **Saturday 6 April** evening bus (non-refundable); rejects **Sunday 7 April** morning as too late. |
 | **4 Apr 2024** | **Thursday** | Dawn (~before 8 a.m.) | 4 | Ramesh | Discovers fence/wire shift + fresh cement; **16 days** to wedding. |
 | 4 Apr 2024 | Thursday | Morning (after walk) | 4 | Ramesh | Porch chai; decides not to escalate yet. |
 | **5 Apr 2024** | **Friday** | Late afternoon | 5 | Ananya | Henna / fabric hall; overhears “our path”; **15 days** to wedding. |
 | 5 Apr 2024 | Friday | Afternoon (same day) | 5 | — | Saroja call fragment: Meera coming **Saturday night**. |
 | **6 Apr 2024** | **Saturday** | Evening → night | 6 | Meera | Bus BLR→village (~3.5 h); arrives after dark; Lakshmi palm; sleep room. |
-| **7 Apr 2024** | **Sunday** | Mid-morning | 7 | Ramesh | Veranda tea with Venki; cups untouched; **14 days** to wedding (stated); sees Meera (niece). |
+| **7 Apr 2024** | **Sunday** | Mid-morning | 7 | Ramesh | Veranda tea with Venki; cups untouched; **13 days** to wedding; sees Meera (niece). |
 | **8 Apr 2024** | **Monday** | Clinic hours → midday | 8 | Suresh | Calendar **eight April**; Marigowda nephew “stress”; phone face-down. |
 | **9 Apr 2024** | **Tuesday** | Morning (~10 a.m.) | 9 | Meera | Temple committee / donation politics; Farooq’s biscuit tin. *(Civil calendar note: Ugadi 2024 fell on 9 Apr — off-page unless later seeded.)* |
 | **10 Apr 2024** | **Wednesday** | Dawn / early morning | 10 | Ramesh | Path patrol; shove; Raju hurt; **10 days** to wedding. |
 | 10 Apr 2024 | Wednesday | Morning → mid-morning | 10 | Ramesh | Aftermath; tea unused; police becomes real. |
 | **11 Apr 2024** | **Thursday** | Morning (~9:00 a.m. → ~12:30 p.m.) | 11 | Priya | Statements at PS; path visit; **9 days** to wedding; notebook arrows. |
 | **12–18 Apr 2024** | Fri–Thu | (compressed week) | 12* | — | Recapped in Ch12: complaint weather, path cold war, wedding prep. *Not a separate chapter day.* |
-| **19 Apr 2024** | **Friday** | Evening / night | 12 | Meera | **Wedding eve**; courtyard; Shankarappa noticed; aligned chappals. |
+| **19 Apr 2024** | **Friday** | Evening / night | 12 | Meera | **Wedding eve**; courtyard; Shankarappa noticed; aligned chappals; Lakshmi as **ajji**. |
 | **20 Apr 2024** | **Saturday** | ~5:30 a.m. → ceremony | 13 | Ananya | **WEDDING DAY**; hall; jasmine and sweat. |
 | 20 Apr 2024 | Saturday | Post-feast night | 14 | Meera | Cleanup; drunk boast; overturned chair; truce costume broken. |
 | **21 Apr 2024** | **Sunday** | Morning → afternoon | 15 | Ananya / Meera | Failed youth mediation; muddy sandals. |
@@ -84,7 +84,7 @@ Weekdays and relative gaps preserved. Absolute dates shifted so Saturday wedding
 | **19 May 2024** | **Sunday** | Morning (~wet earth) | 25 | Meera | Shankarappa **returned**; “I cannot prove…”; bad knee. |
 | 19 May 2024 | Sunday | By ~10:00 a.m. | 25 | Meera | Forty seconds shared silence on porch. |
 | **20 May 2024** | **Monday** | Morning (mist / after rain) | 26 | Ananya | Path walk; Ramesh and Venki pass; overlapping footprints. |
-| **21 May 2024** | **Tuesday** | Morning → afternoon | 27 | Priya | File closed (“compromised between parties”); crooked stamp; Farooq’s. |
+| **21 May 2024** | **Tuesday** | Morning → afternoon | 27 | Priya | File closed (“compromised between parties”); crooked stamp; **weeks** since Apr 11 statements; Farooq’s. |
 | **31 May 2024** | **Friday** | Day / afternoon | 28 | Naveen | Koramangala; two pages signed; Meera ~150 km away packing. |
 | **1 Jun 2024** | **Saturday** | Afternoon rest (~1:30–4:00 window; exit ~3:30 pattern) | 29–30 | — | Shankarappa **second departure**; guest room empty thereafter. |
 | 1 Jun 2024 | Saturday | Night | 29 | Meera | Last night with Lakshmi; “He keeps things from becoming police.” (unfinished). |
@@ -102,7 +102,7 @@ Weekdays and relative gaps preserved. Absolute dates shifted so Saturday wedding
 |--------------|------------------|---------------------------|--------|
 | Thu 4 Apr (Ch4) | 16 days | 16 | ✓ |
 | Fri 5 Apr (Ch5) | 15 days | 15 | ✓ |
-| Sun 7 Apr (Ch7) | 14 days | 13 | Soft/stated; kept as in prose |
+| Sun 7 Apr (Ch7) | **13 days** | 13 | ✓ Continuity Pass |
 | Wed 10 Apr (Ch10) | 10 days | 10 | ✓ |
 | Thu 11 Apr (Ch11) | 9 days | 9 | ✓ |
 | Fri 19 Apr (Ch12) | Wedding eve | — | ✓ |
@@ -153,9 +153,8 @@ Weekdays and relative gaps preserved. Absolute dates shifted so Saturday wedding
 
 1. **Ch16–17** exact calendar days remain approximate (post-wedding, pre-Sat 27 Apr Naveen chapter).
 2. **Ch20** “~1 May” approximate return-to-village after Monday AGM.
-3. **Ch7 “fourteen days”** is one day soft vs exclusive math (same soft spot as prior 2026 lock).
-4. Scene titles in markdown are structural only.
+3. Scene titles in markdown are structural only.
 
 ---
 
-*Synced to Draft 7 Timeline Pass. Companion ledger: `06_LEDGERS/TIMELINE.md`.*
+*Synced to Draft 7 Continuity Pass. Companions: `06_LEDGERS/TIMELINE.md` · `06_LEDGERS/CONTINUITY.md`.*

@@ -1,6 +1,6 @@
 # Character Timeline — Book 1
-**Master:** `Draft 7.md`  
-**Last updated:** 2026-08-07 (Character Arc Pass)  
+**Master:** `Draft 8.md` (baseline: Draft 7)  
+**Last updated:** 2026-08-07 (Continuity Pass — Ch7=13 days; Lakshmi=ajji)
 **Calendar:** 27 Mar – 2 Jun 2024  
 **Event spine:** `11_BOOK1_EVENT_TIMELINE.md`
 
