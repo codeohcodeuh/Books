@@ -1,7 +1,295 @@
 # CHANGELOG — Book 1 (*The Path Between*)
-**Current master:** `Draft 8.md` — Momentum Engineering Pass  
+**Current master:** `Draft 8.md` — Invisible Reading Experience Pass (Ch 1–30 **complete**)  
 **Baseline:** `Draft 7.md` — Invisible Page (locked; do not edit)  
-**Prior:** Human Author Pass
+**Prior:** Regression & Manuscript Integrity Pass  
+**Status:** Developmentally complete → full MS line-smoothed (Pass 7) → recommend professional copyediting / DOCX resync
+
+---
+
+## 2026-08-08 — Draft 8 Pass 7 · Invisible Reading Experience (Ch 25–30 · final tranche)
+
+**Mode:** Senior line edit for invisible prose. Reduce cognitive friction. Do **not** change story, scenes, dialogue meaning, subtext, silence, mystery, info order, emotional architecture, openings/endings, locked lines, timeline, or character voice.
+
+**Scope:** Chapters **25–30**. Ch25 light residual; Ch26–30 primary. **Pass 7 now complete for entire manuscript.**
+
+### Patterns addressed
+| Pattern | Treatment |
+|---------|-----------|
+| Overloaded subordinate clauses | Breath via punctuation (Ch26 footprints inventory; Ch27 station/Farooq; Ch28 vesting read; Ch29 Ajji room; Ch30 departure) |
+| Echo / doubled beats | Ch28 double phone face-down thinned |
+| Filler hedges | Selective (`Perhaps` → alternatives) |
+| Wall paragraphs at peaks | Micro-breath without touching silence architecture or locked lines |
+
+### Heaviest chapters this tranche
+**Ch26** (footprints / pass) · **Ch29** (unfinished sentence room) · **Ch27** (file/stamp) · **Ch28** (document read) · **Ch30** moderate
+
+### Protected
+*Temporary. Real.* · *The state recorded. It did not create.* · *Quiet now.* · *We're done.* · *He keeps things from becoming police.* · unfinished stop · *Come sooner next time* · *She carried it.* · *I cannot prove…* · all openings/endings
+
+### Docs
+`10_PRODUCTION_LOCK_NOTES.md` · this CHANGELOG · `Draft 8.md` header · `COPYEDIT_NOTES.md` · `EDITORIAL_NOTES.md` · `14_CHAPTER_SUMMARIES.md`
+
+---
+
+## 2026-08-08 — Draft 8 Pass 7 · Invisible Reading Experience (Ch 20–25)
+
+**Mode:** Senior line edit for invisible prose. Reduce cognitive friction. Do **not** change story, scenes, dialogue meaning, subtext, silence, mystery, info order, emotional architecture, openings/endings, locked lines, timeline, or character voice.
+
+**Scope:** Chapters **20–25**. Ch20 light residual; Ch21–25 primary. Chapters 26–30 untouched.
+
+### Patterns addressed
+| Pattern | Treatment |
+|---------|-----------|
+| Overloaded subordinate clauses | Breath via punctuation (Ch21 jatre opening/Rohan charm; Ch22 guest-room empty; Ch25 rain/porch) |
+| Filler hedges | Selective (`seemed to`; `He actually left` → `He left`; doubled `Almost`) |
+| Wall paragraphs | Light breathing after empty-room discovery and veranda return |
+| Echo / cadence clutter | Micro punctuation for ear without touching silence beats |
+
+### Heaviest chapters this tranche
+**Ch22** (departure / empty room) · **Ch25** (return + porch silence) · **Ch21** (jatre / Rohan)
+
+### Protected
+*I'm no one's man* · *I cannot prove…* · *Tea's gone cold* · *He'll be back or he won't* · openings/endings · Ch 26–30 prose
+
+### Docs
+`10_PRODUCTION_LOCK_NOTES.md` · this CHANGELOG · `Draft 8.md` header · `COPYEDIT_NOTES.md` · `EDITORIAL_NOTES.md` · `14_CHAPTER_SUMMARIES.md`
+
+---
+
+## 2026-08-08 — Draft 8 Pass 7 · Invisible Reading Experience (Ch 15–20)
+
+**Mode:** Senior line edit for invisible prose. Reduce cognitive friction. Do **not** change story, scenes, dialogue meaning, subtext, silence, mystery, info order, emotional architecture, openings/endings, locked lines, timeline, or character voice.
+
+**Scope:** Chapters **15–20**. Ch15 light residual polish after prior tranche; Ch16–20 primary. Chapters 21–30 untouched.
+
+### Patterns addressed
+| Pattern | Treatment |
+|---------|-----------|
+| Overloaded subordinate clauses | Breath via split/punctuation (Ch16 courtyard opening, face inventory, dispersal; Ch19 AGM fatigue) |
+| Competing images | Thinned stacked simile (Ch16 doctor/credentials → one image) |
+| Echo friction | Ch15 *light, the light touch* |
+| Doubled hedges | Selective (`If anything:` / `perhaps`) |
+| Wall paragraphs after peak speech | Face-reading inventory breathed without explaining silence |
+
+### Heaviest chapters this tranche
+**Ch16** (courtyard speech aftermath / face inventory) · **Ch19** (AGM opening density) · **Ch18** light · **Ch17/20** moderate-light
+
+### Protected
+*You'll go back* · 1962 / *wider than our pride* / *sons should remember* · letter text · openings/endings · Pass 1–6 gains · Ch 21–30 prose
+
+### Docs
+`10_PRODUCTION_LOCK_NOTES.md` · this CHANGELOG · `Draft 8.md` header · `COPYEDIT_NOTES.md` · `EDITORIAL_NOTES.md` · `14_CHAPTER_SUMMARIES.md`
+
+---
+
+## 2026-08-08 — Draft 8 Pass 7 · Invisible Reading Experience (Ch 10–15)
+
+**Mode:** Senior line edit for invisible prose. Reduce cognitive friction. Do **not** change story, scenes, dialogue meaning, subtext, silence, mystery, info order, emotional architecture, openings/endings, locked lines, timeline, or character voice.
+
+**Scope:** Chapters **10–15**. Ch10 light residual polish after prior tranche; Ch11–15 primary. Chapters 16–30 untouched.
+
+### Patterns addressed
+| Pattern | Treatment |
+|---------|-----------|
+| Overloaded subordinate clauses | Breath via split/punctuation (Ch11 station/path; Ch12 guest arrival; Ch13 hall/ceremony; Ch15 cousin inventory) |
+| Wall / equal-length paragraphs | Light breathing (Ch12 dispersal; Ch13 opening; Ch15 field circle) |
+| Competing decorative images | Cut “surrendered animal” chair metaphor (Ch14) — legs-up image stands alone |
+| Filler / started-to | Selective (`Started to stare` → `Began to stare`; clause clutter) |
+| Long equal runs in peaks | Varied rhythm without touching emotional architecture (Ch13 laugh-cry; Ch15 knife) |
+
+### Heaviest chapters this tranche
+**Ch13** (wedding morning + hall) · **Ch15** (mediation / cousin inventory) · **Ch12** (guest arrival / deference stack)
+
+### Protected
+*You'll go back* · Ch12 *He's a guest. Sleep now.* / corridor silence · Ch13 peaks & endings · Ch10/14/15 openings & endings · Pass 1–6 gains · Ch 16–30 prose
+
+### Docs
+`10_PRODUCTION_LOCK_NOTES.md` · this CHANGELOG · `Draft 8.md` header · `COPYEDIT_NOTES.md` · `EDITORIAL_NOTES.md` · `14_CHAPTER_SUMMARIES.md`
+
+---
+
+## 2026-08-08 — Draft 8 Pass 7 · Invisible Reading Experience (Ch 6–10)
+
+**Mode:** Senior line edit for invisible prose. Reduce cognitive friction. Do **not** change story, scenes, dialogue meaning, subtext, silence, mystery, info order, emotional architecture, openings/endings, locked lines, timeline, or character voice.
+
+**Scope:** Chapters **6–10**. Chapters 1–5 already done this pass; 11–30 untouched.
+
+### Patterns addressed
+| Pattern | Treatment |
+|---------|-----------|
+| Overloaded subordinate clauses | Breath via split/punctuation (Ch6 blanket/memory; Ch8 nephew confession; Ch10 shove→post snap) |
+| Wall paragraphs after dense beats | Light paragraph breathing (Ch6 room; Ch7 Meera hallway; Ch10 courtyard aftermath) |
+| Image / warmth stacks | One image per beat (biscuit-tin warmth; Farooq counter) |
+| Filler / doubled hedges | Selective (`Perhaps…Perhaps` → one hedge; clause clutter) |
+| Equal long-sentence runs | Varied rhythm especially in Ch10 action sequence |
+
+### Heaviest chapters this tranche
+**Ch10** (shove / post / dust / aftermath) · **Ch6** (naphthalene / childhood memory) · **Ch8** (nephew stress dump)
+
+### Protected
+*Sleep now, kanda* · Ch6 sleep ending · dialogue meaning · silence · mystery · Pass 1–6 gains · Ch 11–30 prose
+
+### Docs
+`10_PRODUCTION_LOCK_NOTES.md` · this CHANGELOG · `Draft 8.md` header · `COPYEDIT_NOTES.md` · `EDITORIAL_NOTES.md` · `14_CHAPTER_SUMMARIES.md`
+
+---
+
+## 2026-08-08 — Draft 8 Pass 7 · Invisible Reading Experience (Ch 1–5 only)
+
+**Mode:** Senior line edit for invisible prose. Reduce cognitive friction. Do **not** change story, scenes, dialogue meaning, subtext, silence, mystery, info order, emotional architecture, openings/endings, locked lines, timeline, or character voice.
+
+**Scope:** Chapters **1–5** only. Chapters 6–30 untouched.
+
+### Patterns addressed
+| Pattern | Treatment |
+|---------|-----------|
+| Overloaded subordinate clauses | Split or re-punctuate for breath (esp. Ch3 booking; Ch4 fence/gatepost; Ch5 kitchen) |
+| Stacked equal-length long sentences | Varied medium/short/long rhythm |
+| Decorative / competing images | One image per beat (B-2 “stage”; henna “missiles”) |
+| Dead-weight fillers | Selective cuts (`began to`, `there was`, doubled “keeping it”, echo *breeze*) |
+| Grammar friction | Ch1 reply-box fragment repaired without changing meaning |
+| Wall paragraphs | Light breathing after heavy beats (porch arrival; fabric pile) |
+
+### Heaviest chapters this pass
+**Ch3** (booking deliberation density) · **Ch4** (fence/gatepost clause load) · **Ch5** (hall + kitchen confrontation stack)
+
+### Protected
+All locked lines · chapter openings/endings · dialogue meaning · silence · Pass 1–6 developmental gains · Ch 6–30 prose
+
+### Docs
+`10_PRODUCTION_LOCK_NOTES.md` · this CHANGELOG · `Draft 8.md` header
+
+---
+
+## 2026-08-07 — Draft 8 Pass 6 · Regression & Manuscript Integrity
+
+**Mode:** Verification only. Fix only objective regressions from Pass 1–5. No speculative improvements.
+
+### Regressions found & corrected
+| Issue | Cause | Correction | Impact |
+|-------|-------|------------|--------|
+| Ch6 duplicate man’s-voice after sleep | Momentum + IA merge stutter | Keep one pre-sleep voice; end *Sleep took her. The house was still deciding.* | Temporal logic restored |
+| Ch8 “Third mention today” with no prior mentions | Momentum enter-later left orphan count | Delete ordinal count line | Confusing missing info removed |
+| Ch27 locked line missing | IA thesis cut breached Production Lock | Restore *The state recorded. It did not create.* (+ social peace sentence) | Lock integrity restored |
+
+### Intentionally left untouched
+Ch4 seat echo · Ch8 nephew↔Ch7 link · Ch11 survey density · Ch18 Meera-thread timing · Ch19 temple-chair parallel · Ch20 Gayatri filing · Ch21 list-as-shield · Ch22 “tea’s gone cold” · Ch23 single forward · mystery deferrals · peaks · all other locked lines
+
+### Verdict
+**YES — move to professional copyediting.** Further developmental drafting would yield diminishing returns.
+
+### Docs
+`10_PRODUCTION_LOCK_NOTES.md` · this CHANGELOG
+
+---
+
+## 2026-08-07 — Draft 8 Pass 5 · Multi-Reader Simulation
+
+**Mode:** Simulate Literary / Upmarket Commercial / Book Club / General Fiction readers. Revise only consensus friction (≥2 profiles). Prefer delete / move / timing. Peaks untouched.
+
+### Consensus revisions
+| Issue | Readers | Action |
+|-------|---------|--------|
+| Ch8 orphan vignette | Lit · Upm · Gen | CHANGE recognition — link nephew to Ch7 tea relative |
+| Ch9–11 mid sag | Upm · Gen · BC | DELETE committee filler; CHANGE timing — wedding countdown at Ch10 end |
+| Ch18 thin | Upm · Gen · BC | MOVE Meera thread earlier before letter |
+| Ch23 forward stack | Upm · Gen | DELETE one false-forward beat |
+| Ch4 city cut | Upm · Gen | CHANGE timing — non-refundable seat echo |
+
+### Left alone (by design)
+Gayatri/traveler opacity · Shankarappa mystery unfinished · Naveen mid-book absence (structural; Ch18 timing only)
+
+### Docs
+`10_PRODUCTION_LOCK_NOTES.md` · this CHANGELOG · canvas `draft8-multi-reader-simulation.canvas.tsx`
+
+---
+
+## 2026-08-07 — Draft 8 Pass 4 · Narrative Density
+
+**Mode:** Multi-purpose scenes without added plot, conflict, twists, or meaningful length. Reload 1–3 sentences. Peaks untouched. Lower-energy chapters primary.
+
+**Words:** ~38.2k (essentially flat vs Rhythm Pass)
+
+### Scenes densified
+| Ch | Original purpose | Added purpose | Richer because |
+|----|------------------|---------------|----------------|
+| 3 | Ticket logistics | Belonging / Decision | Route = escape vs duty |
+| 4 | Morning transition | Character / Consequence | Silence toward boy aims at wire |
+| 8 | Medical logistics | Theme / Emotion | Cuff useless; knee already knows |
+| 11a | Station procedure | Character / Performance | Undrunk tea = statement craft |
+| 11b | Survey info | Theme / Identity | Empty of paper, full of feet |
+| 17 | Remorse transition | Identity / Emotion | Hunger = avoiding Saroja’s eyes |
+| 19 | AGM filler | Theme / Parallel | Temple-chair democracy rhyme |
+| 20 | Who-is-Gayatri | Curiosity / Foreshadow | Misclassification as danger |
+| 21 | Crowd setting | Belonging / Identity | List as shield before Rohan |
+| 23 | Guest-absence info | Memory / Consequence | Empty room answers cousin |
+| 24 | Errand resume | Theme / Curiosity | Face reset vs tamarind in ear |
+| 27 | Station atmosphere | Theme / Consequence | Legible fiction vs drawer arrows |
+| 28 | Café wait | Decision / Memory | Window = refuse company rooms |
+
+### Protected
+Peaks Ch13–16, 26, 29–30 · locked lines · continuity · Pass 1–3 gains
+
+### Docs
+`10_PRODUCTION_LOCK_NOTES.md` · this CHANGELOG
+
+---
+
+## 2026-08-07 — Draft 8 Pass 3 · Emotional Rhythm Engineering
+
+**Mode:** Orchestral feeling variety. No pacing/momentum/IA rework. No new conflict. Peaks protected. Humour only where already latent. Silence preserved after weight.
+
+**Words:** ~38.1k
+
+### Repeated rhythms found
+| Stretch | Flat band | Contrast applied |
+|---------|-----------|------------------|
+| Ch1–4 | Anxiety / dread stack | Ch3 Amma fluorescent laugh; Ch4 Namaskara ordinary hesitation |
+| Ch2 internal | Talk→reflect×2 | Printer awkwardness; café almost-laugh on *Next week* |
+| Ch7–11 | Institutional / heavy corridor | Ch7 kitchen spoons + silence; Ch9 Farooq laugh held; Ch10 phone silence once; Ch11 one chest-tighten + constable awkward tea |
+| Ch17–19 | Post-peak digest | Ch17 domestic before Arjun; Ch18 cut thesis close; Ch19 one want + AGM dinner joke lands |
+| Ch22–25 | Absence / dread / held silence | Ch22 Subbanna “tea’s gone cold”; Ch23 pickle jar sensory + Farooq almost-smile; Ch25 silence after admission |
+
+### Docs
+`10_PRODUCTION_LOCK_NOTES.md` · `14_CHAPTER_SUMMARIES.md` · this CHANGELOG
+
+---
+
+## 2026-08-07 — Draft 8 Pass 2 · Information Architecture
+
+**Mode:** Improve HOW information is revealed. Increase curiosity without increasing plot. No new events, no thriller foreshadowing, no peak rewrites. Trust reader inference.
+
+**Words:** ~38.3k (from ~40.2k Momentum) — net cut of premature explanation / thesis gloss.
+
+### Information delivery changes (summary)
+| Location | Why original reduced curiosity | Change | Expected effect |
+|----------|--------------------------------|--------|-----------------|
+| Ch2 café | Named “rhyme”; labeled Meera’s limit | Cut both glosses | Reader connects hallway→shoulder |
+| Ch4 cement | Motive + “width as inheritance” immediate | Keep cool palm; cut lecture | Trespass felt before named |
+| Ch5 henna | “Negotiation as affection” | Cut label | Banter carries affection |
+| Ch6 memory | “Once, someone made it quiet” thesis | Cut; keep fragment | Childhood quiet stays open |
+| Ch7 cups | Venki “frame” decoded; Meera thesis-read | Cut glosses | Tactic/read inferred |
+| Ch8 clinic | Suresh “had known” before nephew speaks | Cut foreknowing | Pivot arrives as surprise |
+| Ch9 banner | Font-size absurdity essay | Cut; keep cough | Joke lands without caption |
+| Ch10 path | Proxy warriors / assignment motive | Cut labels | Standoff builds uncaptioned |
+| Ch11 PS | “Neither side lying” + empty-path essay | Shorten to observation | File contradiction stays live |
+| Ch12 eve | Day-by-day week ledger + mood summary | Compress to 4-line bridge | Cold war inhabited, not digested |
+| Ch17 field | Shame lesson + sons-failed thesis | Cut both | Reckoning stays in body/call |
+| Ch19 AGM | Path/CCTV parallel + face-saving caption | Cut | Parallel available to reader |
+| Ch20 jasmine | Gayatri hinge named | Delay; replay without verdict | Opacity held |
+| Ch21 Rohan | Grapevine/magazine named after ask | Cut | Lie carries its own mystery |
+| Ch22 exit | Subbanna motive stack; departure habit essay; Saroja frame explained | Cut | *Our man* lands raw |
+| Ch23 WA | Second-mouth thesis | Cut | Forwards demonstrate themselves |
+| Ch24 traveler | Delivered/communicative labels | Cut | Message stays opaque |
+| Ch25 return | Don’t-grab training; grammar-learning | Cut | Silence teaches without lesson |
+| Ch27 stamp | State recorded / did not create | Cut | Crooked stamp + Quiet now suffice |
+| Ch28 signing | Settlement thesis; Same month different rooms | Cut | Signature + unread ticks carry |
+
+### Protected
+Peaks Ch13–16, 26, 29–30 · locked lines · continuity facts · timeline · relationships
+
+### Docs
+`10_PRODUCTION_LOCK_NOTES.md` · `14_CHAPTER_SUMMARIES.md` · this CHANGELOG
 
 ---
 

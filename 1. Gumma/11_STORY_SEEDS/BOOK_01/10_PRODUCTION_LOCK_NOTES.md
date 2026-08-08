@@ -1,9 +1,10 @@
 # Production Lock Notes — Book 1
-**Current master manuscript:** `Draft 8.md` — Momentum Engineering Pass (calendar **2024**)  
+**Current master manuscript:** `Draft 8.md` — Invisible Reading Experience Pass · Ch 1–30 **complete** (calendar **2024**)  
 **Baseline archive:** `Draft 7.md` — Invisible Page (locked; do not edit)  
-**Prose lineage:** DOCX → … → Invisible Page · **Momentum Engineering**  
+**Prose lineage:** … · Momentum · IA · Rhythm · Density · Multi-Reader · Integrity · **Invisible Reading (complete)**  
+**Developmental status:** **COMPLETE** — Pass 7 finished; recommend professional copyediting (not Draft 9 developmental)  
 **Prior:** `Draft 6.md` — Final Production Fix (archived; not master)  
-**Last updated:** 2026-08-07  
+**Last updated:** 2026-08-08  
 
 ---
 
@@ -11,7 +12,7 @@
 1. **`Draft 8.md`** — publication / edit master.
 2. **`Draft 7.md`** — locked Invisible Page baseline (compare-only).
 3. Ledgers / outlines / bible / blueprint / story map — must match Draft 8.
-4. `Book 1 v2- The Path Between.docx` — export target; **resync after Momentum Pass**.
+4. `Book 1 v2- The Path Between.docx` — export target; **resync before copyedit package**.
 5. `Draft 6.md` and earlier — archival only.
 6. Production meta lives in this file and `CHANGELOG.md`, not in manuscript body.
 7. Editorial law: `00_CANON/03_EDITORIAL_MASTER_CONSTITUTION.md`
@@ -26,12 +27,30 @@
 - **Jatre:** Sun **12 May 2024**
 - Companion: `11_BOOK1_EVENT_TIMELINE.md`
 
-## Momentum Engineering Pass lock
-- **Mode:** Reader inability to stop; literary soul preserved; no artificial suspense.
-- **Touched:** Ch6 end, 8, 9 end, 11 end, 17–24 (valleys); enter-later / leave-earlier / unfinished pressure.
-- **Protected:** Ch13–16, 25–26, 27–30 peaks; all locked lines; continuity facts.
-- **DOCX:** stale until resync.
+## Invisible Reading Experience Pass lock (Ch 1–30 · COMPLETE)
+- **Mode:** Invisible prose / cognitive-friction reduction only. No story, pacing, emotion, or voice changes.
+- **Touched:** Chapters **1–30** (all tranches complete).
+- **Protected:** all locked lines; openings/endings; silence; mystery; Pass 1–6 gains.
+- **Next:** DOCX resync · professional copyedit / authenticity line pass.
 - See `CHANGELOG.md`.
+
+## Regression & Integrity Pass lock
+- **Mode:** Verification only; three objective regressions restored/fixed; no speculative rewrites.
+- **Fixed:** Ch6 sleep/voice stutter · Ch8 orphan “Third mention” · Ch27 locked line restored.
+- **Left:** Pass 1–5 intentional gains; mystery deferrals; peaks.
+- **Status:** completed under Draft 8 Pass 6.
+- See `CHANGELOG.md`.
+
+## Multi-Reader Simulation Pass lock
+- **Mode:** Lived-experience simulation ×4; consensus-only minimal revision (delete/move/timing).
+- **Touched:** Ch4, 8, 9, 10 end, 18, 23.
+- **Protected:** Peaks 13–16, 26, 29–30; mystery deferrals; Pass 1–4 gains.
+- **Artifact:** canvas `draft8-multi-reader-simulation.canvas.tsx`
+- **Status:** completed under Draft 8 Pass 5.
+- See `CHANGELOG.md`.
+
+## Locked lines (verify intact)
+Ch6 *Sleep now, kanda*; Ch15 *You'll go back*; Ch16 wider-than-pride / 1962; Ch22 *I'm no one's man*; Ch25 *I cannot prove…*; Ch26 *Temporary. Real.* / feet; Ch27 *Quiet now.* / **The state recorded. It did not create.**; Ch28 *We're done.*; Ch29 unfinished / *He keeps things from becoming police.*; Ch30 *Come sooner next time* / *She carried it.*
 
 ## Final Publisher QA lock
 - **Mode:** Acquisition-level QA report only — **no manuscript changes** (ran on Draft 7).

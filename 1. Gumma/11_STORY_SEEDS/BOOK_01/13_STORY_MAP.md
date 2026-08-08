@@ -2,7 +2,7 @@
 **Master:** `Draft 8.md`  
 **Baseline:** `Draft 7.md`  
 **Last updated:** 2026-08-07  
-**Pass:** Momentum Engineering (valleys: enter later / leave earlier / unfinished pressure; peaks protected)
+**Pass:** Narrative Density (multi-purpose low-energy scenes; peaks protected) · prior: Emotional Rhythm · IA · Momentum
 
 ---
 

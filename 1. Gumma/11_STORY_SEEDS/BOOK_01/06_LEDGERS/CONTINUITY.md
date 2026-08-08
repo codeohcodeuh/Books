@@ -1,7 +1,10 @@
 # Continuity Ledger — Book 1
 **Standard:** `05_REVISION_CONTINUITY_STANDARD.md`  
 **Master:** `Draft 8.md`  
-**Last updated:** 2026-08-07 (Momentum Engineering — no continuity facts changed)
+**Last updated:** 2026-08-07 (Information Architecture — no continuity facts changed)
+
+### Information Architecture note
+No calendar, kinship, geography, object, or plot-fact changes. Premature explanation / thesis gloss removed. Ch12 week bridge compressed (cold-war still present; day-ledger removed).
 
 ### Momentum Engineering note
 No calendar, kinship, geography, object, or plot-fact changes. Prose thinned for forward pressure only. Draft 7 remains baseline archive.
